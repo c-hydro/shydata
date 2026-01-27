@@ -1,0 +1,85 @@
+## ------------------------------------------------------------------
+## SHYDATA 
+## ------------------------------------------------------------------
+
+## ------------------------------------------------------------------
+## Repo deps:
+
+# install zstd
+apt-get install -y zstd
+
+# install gh
+sudo apt update
+sudo apt install -y curl
+
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg \
+  | sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+
+sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] \
+https://cli.github.com/packages stable main" \
+| sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+
+sudo apt update
+sudo apt install -y gh
+## ------------------------------------------------------------------
+
+## ------------------------------------------------------------------
+## Repo initialization:
+
+# clone the official repo go to the main folder of projects:
+git clone git@github.com:c-hydro/shydata.git
+
+# create first commit (so a branch exists)
+echo "# shydata" > README.md
+git add README.md
+git commit -m "Initialize shydata repository"
+
+# now rename the current branch to main
+git branch -M main
+
+# push to GitHub (no force to keep the template from remote)
+git push -u origin main
+## ------------------------------------------------------------------
+
+
+
+## ------------------------------------------------------------------
+## Repo creation data
+
+# first time authentication (local - remote)
+gh auth login
+
+# commits datasets
+cd /shydata/
+./tools/shydata_assets_datasets.sh \
+  --src /home/fabio/Desktop/shybox/dset/ \
+  --repo /home/fabio/Desktop/shydata \
+  --version 0.0.1 \
+  --tag --push --gh-release
+
+# commits repo
+./tools/shydata_assets_repo.sh \
+  --src /home/fabio/Documents/Work_Area/Code_Development/Workspace/shydata \
+  --repo /shydata \
+  --commit --push \
+  --msg "Sync repo assets (docs/tools/root)"
+## ------------------------------------------------------------------
+
+## ------------------------------------------------------------------
+## Repo recover release
+
+# 1) mode using clone
+git clone https://github.com/c-hydro/shydata.git
+cd shydata
+
+# 2) mode using gh
+mkdir -p ~/shydata_0.0.4
+cd ~/shydata_0.0.4
+gh release download v0.0.4 -R c-hydro/shydata
+## ------------------------------------------------------------------
+
+
+
+
