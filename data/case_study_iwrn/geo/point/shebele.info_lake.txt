@@ -1,0 +1,72 @@
+10	#Number of lakes
+##################################################################################################
+Lake_shebele001			#Lake name
+19 366			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+4510000.0			#Initial storage (m3)
+7.909390027841053e-05			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele002			#Lake name
+22 371			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+8189999.999999999			#Initial storage (m3)
+0.00012084300077339519			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele003			#Lake name
+17 372			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+1880000.0			#Initial storage (m3)
+0.0003088707684704719			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele004			#Lake name
+23 463			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+700000.0			#Initial storage (m3)
+0.0009556574923547399			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele005			#Lake name
+86 221			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+170000.0			#Initial storage (m3)
+0.0017882689556509297			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele006			#Lake name
+86 220			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+890000.0			#Initial storage (m3)
+0.00035826884494124394			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele007			#Lake name
+86 222			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+470000.0			#Initial storage (m3)
+0.00013792342491448747			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele008			#Lake name
+161 113			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+550000.0			#Initial storage (m3)
+0.001498800959232614			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele009			#Lake name
+271 75			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+370000.0			#Initial storage (m3)
+0.0002821033626720831			#Lake constant (1/h) 
+##################################################################################################
+Lake_shebele010			#Lake name
+288 298			#Row and column dam coordinates
+-9999			#Code of the lakes cells of the lake (if point dam set to -9999)
+0			#Minimum storage non-null discharge (m3)
+420000.0			#Initial storage (m3)
+0.0005868544600938967			#Lake constant (1/h) 
+##################################################################################################

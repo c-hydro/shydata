@@ -1,0 +1,178 @@
+ID,SEC_CODE,SEC_NAME,BASIN,SEC_TAG,DOMAIN,ADMIN_B_L3,ADMIN_B_L2,ADMIN_B_L1,TYPE,LON,LAT,AREA,Q_THR1,Q_THR2,Q_THR3,SEC_RS,HMC_X,HMC_Y
+1,29,Foglia3,Foglia,Foglia:Foglia3,Marche,Pesaro,PU,Marche,River,12.89771,43.907555,698.7,197.1,348.75,-9999.0,1126,72,286
+2,174,Montecchio,Foglia,Foglia:Montecchio,Marche,'Sant''Angelo in Lizzola',PU,Marche,River,12.764225,43.849812,605.6,45.9,68.9,-9999.0,2821,92,241
+3,102,Bronzo,Foglia,Foglia:Bronzo,Marche,Sassocorvaro,PU,Marche,River,12.512582,43.808586,238.3,20.0,30.0,-9999.0,-9999,106,155
+4,14,Arzilla,Arzilla,Arzilla:Arzilla,Marche,Pesaro,PU,Marche,River,12.894738,43.839886,49.0,10.0,35.0,-9999.0,-9999,95,284
+5,152,FoceMetauro,Metauro,Metauro:FoceMetauro,Marche,Fano,PU,Marche,River,13.053796,43.826328,1413.7,300.0,600.0,-9999.0,-9999,101,335
+6,17,Metauro,Metauro,Metauro:Metauro,Marche,Cartoceto,PU,Marche,River,12.967556,43.762669,1340.2,218.62,450.0,-9999.0,1074,121,308
+7,151,Fossombrone,Metauro,Metauro:Fossombrone,Marche,Fossombrone,PU,Marche,River,12.825005,43.690519,1066.4,140.0,350.0,-9999.0,-9999,145,260
+8,106,Acqualagna,Metauro,Metauro:Acqualagna,Marche,Acqualagna,PU,Marche,River,12.6845,43.628277,621.7,82.1,165.3,-9999.0,1185,166,215
+9,121,FoceCesano,Cesano,Cesano:FoceCesano,Marche,Senigallia,AN,Marche,River,13.171053,43.749657,402.7,50.06,109.2,-9999.0,1287,127,372
+10,26,Misa,Misa,Misa:Misa,Marche,Senigallia,AN,Marche,River,13.164999,43.662659,329.8,46.83,103.45,-9999.0,1112,155,374
+11,120,Nevola,Misa,Misa:Nevola,Marche,Corinaldo,AN,Marche,River,13.076929,43.638523,116.5,36.72,66.81,-9999.0,1283,162,345
+12,3,SerraDeiConti,Misa,Misa:SerraDeiConti,Marche,Serra dei Conti,AN,Marche,River,13.028171,43.54797,75.9,16.2,30.5,-9999.0,1008,192,328
+13,122,MonteSanVito,Esino,Esino:MonteSanVito,Marche,Monte San Vito,AN,Marche,River,13.290846,43.609364,60.1,25.26,43.59,-9999.0,1291,173,416
+14,506,Moie,Esino,Esino:Moie,Marche,Maiolati Spontini,AN,Marche,River,13.125891,43.496212,785.4,50.4,100.1,-9999.0,1424,209,362
+15,5,Camponocecchio,Esino,Esino:Camponocecchio,Marche,Genga,AN,Marche,River,12.980329,43.406441,604.4,74.1,102.38,-9999.0,1016,239,312
+16,505,Colleponi,Esino,Esino:Colleponi,Marche,Genga,AN,Marche,River,12.904464,43.43375,203.3,51.03,77.3,-9999.0,1420,230,288
+17,2,Fabriano,Esino,Esino:Fabriano,Marche,Fabriano,AN,Marche,River,12.966083,43.338581,137.8,20.0,30.0,-9999.0,-9999,261,307
+18,114,Aspio2,Aspio,Aspio:Aspio2,Marche,Castelfidardo,AN,Marche,River,13.566694,43.493999,132.8,19.17,54.75,-9999.0,1244,211,508
+19,113,Aspio,Aspio,Aspio:Aspio,Marche,Camerano,AN,Marche,River,13.532907,43.51722,81.5,17.4,49.8,-9999.0,1240,203,496
+20,165,Rostighello,Musone,Musone:Rostighello,Marche,Recanati,MC,Marche,River,13.53819,43.43821,422.5,20.0,45.0,-9999.0,-9999,229,500
+21,116,Passatempo,Musone,Musone:Passatempo,Marche,Osimo,AN,Marche,River,13.449279,43.447353,180.7,10.0,25.0,-9999.0,-9999,226,469
+22,7,Musone,Musone,Musone:Musone,Marche,Osimo,AN,Marche,River,13.388394,43.475643,140.8,7.12,14.0,-9999.0,1024,216,448
+23,129,SanVettore,Musone,Musone:SanVettore,Marche,Cingoli,MC,Marche,River,13.19107,43.399681,98.3,3.0,6.0,-9999.0,-9999,242,382
+24,406,PortoRecanati,Potenza,Potenza:PortoRecanati,Marche,Porto Recanati,MC,Marche,River,13.651617,43.41531,775.6,44.2,66.52,-9999.0,1385,236,536
+25,405,Monocchia,Potenza,Potenza:Monocchia,Marche,Recanati,MC,Marche,River,13.507626,43.362728,52.9,10.0,25.0,-9999.0,-9999,254,490
+26,9,Potenza1,Potenza,Potenza:Potenza1,Marche,San Severino Marche,MC,Marche,River,13.188516,43.229492,340.4,42.0,77.5,-9999.0,1032,298,382
+27,132,Pioraco,Potenza,Potenza:Pioraco,Marche,Pioraco,MC,Marche,River,12.984678,43.179192,168.4,7.0,20.0,-9999.0,-9999,315,315
+28,154,FoceChienti,Chienti,Chienti:FoceChienti,Marche,Civitanova Marche,MC,Marche,River,13.735647,43.291481,1290.5,85.0,150.0,-9999.0,-9999,277,565
+29,12,Chienti2,Chienti,Chienti:Chienti2,Marche,Monte San Giusto,MC,Marche,River,13.590132,43.260944,887.6,60.0,120.0,-9999.0,-9999,288,515
+30,10,Chienti1,Chienti,Chienti:Chienti1,Marche,Tolentino,MC,Marche,River,13.371154,43.232365,677.7,40.0,80.0,-9999.0,-9999,297,444
+31,11,Fiastra,Chienti,Chienti:Fiastra,Marche,Tolentino,MC,Marche,River,13.402828,43.225784,111.4,7.59,16.03,-9999.0,1040,299,454
+32,126,Fiastrone,Chienti,Chienti:Fiastrone,Marche,Camporotondo di Fiastrone,MC,Marche,River,13.261282,43.145554,145.4,20.0,40.0,-9999.0,-9999,326,406
+33,21,EteMorto,EteMorto,EteMorto:EteMorto,Marche,'Sant''Elpidio a Mare',FM,Marche,River,13.672077,43.236271,188.7,20.0,40.0,-9999.0,-9999,296,543
+34,146,PortoSElpidio,Tenna,Tenna:PortoSElpidio,Marche,'Porto Sant''Elpidio',FM,Marche,River,13.772406,43.232677,480.3,70.0,120.0,-9999.0,1612,298,574
+35,19,Tenna,Tenna,Tenna:Tenna,Marche,Servigliano,FM,Marche,River,13.498032,43.085857,350.3,45.0,80.0,-9999.0,-9999,346,485
+36,22,EteVivo,EteVivo,EteVivo:EteVivo,Marche,Fermo,FM,Marche,River,13.713136,43.135853,131.0,20.0,40.0,-9999.0,-9999,329,557
+37,145,Rubbianello,Aso,Aso:Rubbianello,Marche,Monterubbiano,FM,Marche,River,13.718273,43.058472,235.4,50.0,90.0,-9999.0,1605,355,559
+38,24,Aso,Aso,Aso:Aso,Marche,Ortezzano,FM,Marche,River,13.618459,43.021431,187.1,30.0,80.0,-9999.0,1104,367,525
+39,23,Menocchia,Menocchia,Menocchia:Menocchia,Marche,'Montefiore dell''Aso',AP,Marche,River,13.776796,43.034218,65.3,10.0,35.0,-9999.0,-9999,363,577
+40,153,FoceTesino,Tesino,Tesino:FoceTesino,Marche,Grottammare,AP,Marche,River,13.870255,42.978324,119.7,30.0,60.0,-9999.0,-9999,381,607
+41,178,BrigliaVolpi,Tronto,Tronto:BrigliaVolpi,Marche,Colonnella,TE,Abruzzo,River,13.879376,42.890373,1152.3,130.0,250.0,-9999.0,2937,411,612
+42,25,Tronto,Tronto,Tronto:Tronto,Marche,Ascoli Piceno,AP,Marche,River,13.651516,42.852242,941.3,116.41,221.0,-9999.0,1108,424,535
+43,135,PonteDArli,Tronto,Tronto:PonteDArli,Marche,Acquasanta Terme,AP,Marche,River,13.461242,42.7981,461.0,41.72,141.04,-9999.0,1537,442,472
+44,127,Visso,Nera,Nera:Visso,Marche,Visso,MC,Marche,River,13.086076,42.930874,124.0,14.84,26.0,-9999.0,1317,397,348
+45,-9999,ConfluenzaMetauroCandigliano,Metauro,Metauro:ConfluenzaMetauroCandigliano,Marche,-,-,Marche,River,12.7544,43.6741,-9999.0,110.0,220.0,-9999.0,-9999,149,232
+46,183,PianelloDiOstra,Misa,Misa:PianelloDiOstra,Marche,Ostra,AN,Marche,River,13.127034,43.624584,-9999.0,25.0,55.0,-9999.0,-9999,161,368
+47,-9999,ConfluenzaMisaNevola,Misa,Misa:ConfluenzaMisaNevola,Marche,-,-,Marche,River,13.151213,43.649004,-9999.0,45.0,90.0,-9999.0,-9999,156,373
+48,184,FoceEsino,Esino,Esino:FoceEsino,Marche,Falconara Marittima,AN,Marche,River,13.371486,43.641574,-9999.0,100.0,160.0,-9999.0,-9999,163,440
+49,-9999,Diga,Mercatale,Mercatale:Diga,Marche,-,-,-,Dam,12.490749,43.783361,-9999.0,-9999.0,-9999.0,-9999.0,-9999,114,150
+50,-9999,Diga,Furlo,Furlo:Diga,Marche,-,-,-,Dam,12.730989,43.6494,-9999.0,-9999.0,-9999.0,-9999.0,-9999,157,230
+51,-9999,Diga,SanLazzaro,SanLazzaro:Diga,Marche,-,-,-,Dam,12.767024,43.678257,-9999.0,-9999.0,-9999.0,-9999.0,-9999,149,242
+52,-9999,Diga,Tavernelle,Tavernelle:Diga,Marche,-,-,-,Dam,12.893151,43.7351,-9999.0,-9999.0,-9999.0,-9999.0,-9999,131,284
+53,-9999,Diga,Castreccioni,Castreccioni:Diga,Marche,-,-,-,Dam,13.160418,43.38096,-9999.0,-9999.0,-9999.0,-9999.0,-9999,248,373
+54,-9999,Diga,Fiastrone,Fiastrone:Diga,Marche,-,-,-,Dam,13.181439,43.056635,-9999.0,-9999.0,-9999.0,-9999.0,-9999,356,380
+55,-9999,Diga,Polverina,Polverina:Diga,Marche,-,-,-,Dam,13.100358,43.083663,-9999.0,-9999.0,-9999.0,-9999.0,-9999,347,353
+56,-9999,Diga,Borgiano,Borgiano:Diga,Marche,-,-,-,Dam,13.202459,43.146726,-9999.0,-9999.0,-9999.0,-9999.0,-9999,326,387
+57,-9999,Diga,LeGrazie,LeGrazie:Diga,Marche,-,-,-,Dam,13.268526,43.188767,-9999.0,-9999.0,-9999.0,-9999.0,-9999,312,409
+58,-9999,Diga,Comunanza,Comunanza:Diga,Marche,-,-,-,Dam,13.376634,42.89147,-9999.0,-9999.0,-9999.0,-9999.0,-9999,411,445
+59,-9999,Diga,SanRuffino,SanRuffino:Diga,Marche,-,-,-,Dam,13.388646,43.01159,-9999.0,-9999.0,-9999.0,-9999.0,-9999,371,449
+60,-9999,Diga,Talvacchia,Talvacchia:Diga,Marche,-,-,-,Dam,13.5093,42.78036,-9999.0,-9999.0,-9999.0,-9999.0,-9999,448,488
+61,-9999,Diga,Scandarello,Scandarello:Diga,Marche,-,-,-,Dam,13.265523,42.6383,-9999.0,-9999.0,-9999.0,-9999.0,-9999,494,408
+62,-9999,Genica,Genica,Genica:Genica,Marche,Pesaro,PU,Marche,River,12.911717,43.898081,-9999.0,3.0,7.0,-9999.0,-9999,75,291
+63,-9999,Trisungo,Tronto,Tronto:Trisungo,Marche,Arquata del Tronto,AP,Marche,River,13.311667,42.7742,330.0,40.0,100.0,-9999.0,-9999,450,423
+64,-9999,Grisciano,Tronto,Tronto:Grisciano,Marche,Accumoli,RI,Lazio,River,13.2686,42.73,270.0,32.0,75.0,-9999.0,-9999,463,408
+65,-9999,Accumoli,Tronto,Tronto:Accumoli,Marche,Accumoli,RI,Lazio,River,13.2524,42.7,228.0,30.0,70.0,-9999.0,-9999,475,403
+66,-9999,Amatrice,Castellano,Castellano:Amatrice,Marche,Amatrice,RI,Lazio,River,13.2846,42.63,31.0,22.0,35.0,-9999.0,-9999,498,414
+67,-9999,Amatrice,Tronto,Tronto:Amatrice,Marche,Amatrice,RI,Lazio,River,13.2912,42.6326,57.0,74.0,110.0,-9999.0,-9999,497,417
+68,-9999,PoggioVitellino,Tronto,Tronto:PoggioVitellino,Marche,Amatrice,RI,Lazio,River,13.2679,42.66,142.0,105.0,161.0,-9999.0,-9999,488,409
+69,-9999,Confluenza,Scandarello,Scandarello:Confluenza,Marche,-,-,-,River,13.2728,42.6491,44.0,26.0,42.0,-9999.0,-9999,492,410
+70,-9999,Cornillo,Tronto,Tronto:Cornillo,Marche,-,-,-,River,13.2803,42.6392,89.0,100.0,150.0,-9999.0,-9999,495,413
+71,-9999,Libertino,Tronto,Tronto:Libertino,Marche,-,-,-,River,13.257,42.6939,205.0,30.0,70.0,-9999.0,-9999,476,405
+72,-9999,Confluenza,Rio,Rio:Confluenza,Marche,-,-,-,River,13.2607,42.7341,18.0,17.3,26.0,-9999.0,-9999,462,405
+73,189,PescaraDelTronto,Tronto,Tronto:PescaraDelTronto,Marche,-,-,-,River,13.268,42.7423,290.0,40.0,95.0,-9999.0,3096,460,408
+74,-9999,Confluenza,Camartina,Camartina:Confluenza,Marche,Arquata del Tronto,AP,Marche,River,13.3004,42.773,22.0,27.0,39.0,-9999.0,-9999,450,418
+75,188,PoggioCasoli,Tronto,Tronto:PoggioCasoli,Marche,-,-,-,River,13.265517,42.686642,197.0,30.0,70.0,-9999.0,-9999,479,408
+76,-9,AcquasantaTerme,Tronto,Tronto:AcquasantaTerme,Marche,-,-,-,River,13.40937,42.77122,-9999.0,41.0,141.0,-9999.0,-9999,451,455
+77,-9999,Castelsantangelo,Nera,Nera:Castelsantangelo,Marche,-,-,-,River,-9999.0,-9999.0,43.8,2.4,6.0,-9999.0,2700,410,370
+78,-9999,PonteTavola,Nera,Nera:PonteTavola,Marche,-,-,-,River,-9999.0,-9999.0,48.5,3.0,6.5,-9999.0,2699,406,365
+79,-9999,PonteGaribaldi,Misa,Misa:PonteGaribaldi,Marche,-,-,-,River,-9999.0,-9999.0,379.0,50.0,110.0,-9999.0,-9999,137,390
+80,-9999,PortaCartara,Castellano,Castellano:PortaCartara,Marche,-,-,-,River,-9999.0,-9999.0,163.6,20.0,50.0,-9999.0,-9999,425,509
+81,-9999,SMariaGoretti,Tesino,Tesino:SmariaGoretti,Marche,-,-,-,River,-9999.0,-9999.0,76.4,20.0,50.0,-9999.0,1088,385,556
+82,-9999,SMicheleAlFiume,Cesano,Cesano:SmicheleAlFiume,Marche,-,-,-,River,-9999.0,-9999.0,282.4,40.0,80.0,-9999.0,1080,153,324
+83,-9999,Valmir,Aso,Aso:Valmir,Marche,-,-,-,River,-9999.0,-9999.0,222.4,40.0,85.0,-9999.0,3063,360,545
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

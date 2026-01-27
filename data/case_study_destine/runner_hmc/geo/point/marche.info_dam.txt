@@ -1,0 +1,229 @@
+13	#Numero dighe
+14	#Numero centrali
+##################################################################################################
+Mercatale             #nome diga 
+113 151         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+5924000           #Volume massimo invasabile 
+4146800           #Volume iniziale (se necessario) 
+400           #Portata critica scarico superficiale 
+20            #Lunghezza equivalente scarico superficiale della diga 
+21            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Mercatale.txt             #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+112 151         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+15           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Furlo					    #nome diga 
+156 231					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+570000  					#Volume massimo invasabile 
+399000  					#Volume iniziale (se necessario) 
+400  					#Portata critica scarico superficiale 
+20  					#Lunghezza equivalente scarico superficiale della diga 
+5.52  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Furlo.txt  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+155 232					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+27  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+SanLazzaro             #nome diga 
+148 243         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+840000           #Volume massimo invasabile 
+588000           #Volume iniziale (se necessario) 
+600           #Portata critica scarico superficiale 
+20            #Lunghezza equivalente scarico superficiale della diga 
+5.61            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_SanLazzaro.txt            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+148 244         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+30           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Tavernelle					    #nome diga 
+131 285 				#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1225000  					#Volume massimo invasabile 
+857500 					#Volume iniziale (se necessario) 
+700  					#Portata critica scarico superficiale 
+30  					#Lunghezza equivalente scarico superficiale della diga 
+3  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Tavernelle.txt  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+132 286					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+45  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Castreccioni					    #nome diga 
+247 373					#coordinate i e j sezione della diga 
+2  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+57142556.76  					#Volume massimo invasabile 
+39999789.9  					#Volume iniziale (se necessario) 
+400  					#Portata critica scarico superficiale 
+20  					#Lunghezza equivalente scarico superficiale della diga 
+58  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Castreccioni.txt   					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+246 374					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+0.2  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata
+  					#File con i turbinati (non obbligatorio) 
+163 556					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+10  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Fiastrone					    #nome diga 
+355 380					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+19200000  					#Volume massimo invasabile 
+13440000  					#Volume iniziale (se necessario) 
+450  					#Portata critica scarico superficiale 
+20  					#Lunghezza equivalente scarico superficiale della diga 
+42  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Fiastrone.txt  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+354 381					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+5 					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Polverina					    #nome diga 
+346 354					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4221000  					#Volume massimo invasabile 
+2954700  					#Volume iniziale (se necessario) 
+450  					#Portata critica scarico superficiale 
+20  					#Lunghezza equivalente scarico superficiale della diga 
+8  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Polverina.txt  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+346 355					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+18  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Borgiano					    #nome diga 
+326 388					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4535000  					#Volume massimo invasabile 
+3174500  					#Volume iniziale (se necessario) 
+450  					#Portata critica scarico superficiale 
+20  					#Lunghezza equivalente scarico superficiale della diga 
+11.88  					#Altezza massima di invaso 
+0.000002  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Borgiano.txt  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+326 389					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+13  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+LeGrazie              #nome diga 
+311 409         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+592592           #Volume massimo invasabile 
+414814           #Volume iniziale (se necessario) 
+600           #Portata critica scarico superficiale 
+25            #Lunghezza equivalente scarico superficiale della diga 
+7.1            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_LeGrazie.txt            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+310 409         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+3           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Comunanza              #nome diga 
+410 446         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+13150000           #Volume massimo invasabile 
+9205000           #Volume iniziale (se necessario) 
+600           #Portata critica scarico superficiale 
+25            #Lunghezza equivalente scarico superficiale della diga 
+40            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+409 447         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+15           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+SanRuffino              #nome diga 
+371 450         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+2510000           #Volume massimo invasabile 
+1757000           #Volume iniziale (se necessario) 
+600           #Portata critica scarico superficiale 
+25            #Lunghezza equivalente scarico superficiale della diga 
+30            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+371 451         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+20           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+Talvacchia              #nome diga 
+447 489         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+14070000           #Volume massimo invasabile 
+9849000           #Volume iniziale (se necessario) 
+600           #Portata critica scarico superficiale 
+25            #Lunghezza equivalente scarico superficiale della diga 
+52            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Talvacchia.txt            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+446 490         #coordinate scarico della diga 
+-9999           #Tempo di corrivazione nell'impianto in minuti 
+25           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata
+##################################################################################################
+Scandarello              #nome diga 
+494 409         #coordinate i e j sezione della diga 
+1           #numero centrali a valle della diga 
+-99           #Codice delle celle lago a monte (se puntuale metto -9999) 
+10970000           #Volume massimo invasabile 
+7679000         #Volume iniziale (se necessario) 
+200           #Portata critica scarico superficiale 
+20            #Lunghezza equivalente scarico superficiale della diga 
+23            #Altezza massima di invaso 
+0.000002            #Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+marche.storage_curve_dam_Scandarello.txt            #Nome Curva invaso volume 
+            #File con i turbinati (non obbligatorio) 
+437 497         #coordinate scarico della diga 
+60           #Tempo di corrivazione nell'impianto in minuti 
+5           #portata max dell'impianto 
+1           #flag =1 se l'impianto scarica portata =0 non scarica portata 
+##########End data

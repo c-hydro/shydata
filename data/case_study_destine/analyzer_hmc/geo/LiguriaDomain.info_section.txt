@@ -1,0 +1,60 @@
+103	495 Magra Ameglia
+79	490 Magra Calamazza
+63	431 Vara Nasceto
+51	371 Entella Panesi
+37	291 Bisagno Passerella Firpo
+31	279 Polcevera Genova-Rivarolo
+32	265 Varenna Varenna
+109	144 Centa Molino Branca
+102	131 Neva Cisano sul Neva
+108	117 Arroscia Pogli dOrtovero
+143	71 Argentina Merelli
+56	133 Bormida Murialdo
+20	164 Bormida Piana Crixia
+14	223 Orba Tiglieto Orba
+7	235 Stura Rossiglione
+18	371 Aveto Cabanne
+4	184 Erro Cartosio
+65	386	Petronio Sestri Levante-Sara
+65	385	Gromolo Sestri Levante
+31	250	Leira Molinetto
+45	215	Teiro Bolsine
+51	201	Sansobbia Albisola
+50	188	Letimbro Santuario di Savona
+62	187	Quiliano Foce
+127	129	Merula Foce
+131	103	Impero Rugge di Pontedassio
+144	28	Nervia Isolabona
+152	66	Armea Valle Armea-Ponte
+75	508 Aulella Soliera
+47	479 Magra Pontremoli-S.Giustina
+74	406 Castagnola Foce
+51	382	Graveglia Caminata
+43	375	Sturla Vignolo
+45	363	Lavagna San Colombano
+3	355	Trebbia Confine
+48	344	Boate Foce
+45	330	Recco Foce
+9 296	Scrivia Savignone
+32	248	Cerusa Foce
+39	232	Lerone Foce
+41	227	Arrestra Foce
+65	187	Segno Foce
+83	171	Sciusa Foce
+84	167 Pora Foce
+52	166 Bormida Altare
+86	156 Maremola Foce
+38	155 Bormida Cairo Montenotte
+95	148 Varatello Foce
+131	122 Cervo Foce
+143	98 Prino Foce
+146	92 San-Lorenzo Foce
+160	31 Vallecrosia Foce
+144 	10  Roja Airole
+152 	13  Roja Torri
+41 	141  Bormida Cengio
+22 	281  Polcevera Pontedecimo
+48 	369  Entella SanMartino
+50 	370  Entella Carasco
+4 	355  Trebbia Rovegno
+93 	484 Magra Fornola

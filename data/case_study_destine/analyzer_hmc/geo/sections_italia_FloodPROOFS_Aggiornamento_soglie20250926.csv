@@ -1,0 +1,546 @@
+ID;SEZIONE;NOME IDROMETRO;NOME_BACIN;DATI_DA;NOME_DOMIN;COMUNE;PROV;REGIONE;BACINO;LON;LAT;AREA;CORR_TIME;CN;THR1;THR2;THR3;ALERTZONE;Q_ALLARME;Q_ARANCIONE;Q_ALLERTA;Fonte Q_soglia;StimaQoss;QUAL1_5;CALIBRATO;Err_Rel_Qp;NashSut;FonteSdD
+-9999;Acqualagna;Acqualagna;Metauro;Metauro, Acqualagna;MarcheDomain;-;-;MARCHE;-9999;12.68448;43.62819;616;7.0;-9999;150;200;300;-9999;112;166;288;CF;Scala di deflusso;5;si;-0.163;0.13;Regione Marche, 2021
+74;Alba Q.A.;Alba;Tanaro;Tanaro, Alba Q.A.;PoBasin;Alba;CN;Piemonte;45;8.02703;44.70556;3350;15.9;66;250;380;410;83;1312;2243;2484;CF;Scala di deflusso;3;no;-0.35;0.69;ARPAPiemonte, 2008
+-9999;Albanella;Albanella;Sele;Sele, Albanella;BasilicataDomain;-;-;Campania;-9999;15.01425;40.497;2950;14.9;-9999;610;660;670;-9999;2032;2255;2300;CF;Scala di deflusso;2;no;-0.685;0.33;Arpa Campania, 1993
+211;Albaredo;Albaredo;Adige;Adige, Albaredo;AdigeDomain;ALBAREDO D'ADIGE;VR;VENETO;51;11.26187;45.30967;11980;29.8;-9999;-9999;-9999;-9999;158;2375;3065;3345;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Albisola;-;Sansobbia;Sansobbia, Albisola;LiguriaDomain;-;-;LIGURIA;-9999;8.50766;44.33048;57;2.3;-9999;240;320;-9999;3;102;180;245;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+176;Alessandria;Alessandria Tanaro;Tanaro;Tanaro, Alessandria;PoBasin;ALESSANDRIA;AL;PIEMONTE;45;8.60824;44.91764;5260;19.8;65;360;410;530;-9999;1396;1681;2369;CF;Scala di deflusso;4;no;0.128;-0.91;ARPAPiemonte, 2018
+-9999;Allai;-;Tirso;Tirso, Allai;SardegnaDomain;-;-;SARDEGNA;-9999;8.85745;39.95773;700;7.4;-9999;200;300;378;-9999;128;203;256;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Allerona;Allerona;Paglia;Paglia, Allerona;TevereBasin;-;-;Lazio;-9999;12.0325;42.7714;635;7.1;-9999;260;350;500;-9999;107;178;326;CF;Scala di deflusso;2;si;-0.151;0.35;CF Umbria, 2018
+-9999;Alpe Gera;-;Cormor;Cormor, Alpe Gera;PoBasin;-;-;-;-9999;9.9445;46.31458;35.92;1.9;-9999;-9999;-9999;-9999;-9999;7;10;13;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Altare;-;Bormida;Bormida, Altare;LiguriaDomain;-;-;LIGURIA;-9999;8.3275;44.32417;39;1.9;-9999;-9999;-9999;-9999;4;36;64;86;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+38;Altopantano;Altopantano;Biferno;Biferno, Altopantano;VolturnoDomain;GUGLIONESI;CB;MOLISE;13;14.98055;41.92455;1270;9.9;68;160;390;530;72;22;325;619;CF;Scala di deflusso;2;no;-0.348;-0.96;Arpa Campania (non ufficiali)
+-9999;Alviano;Alviano;Tevere;Tevere, Alviano;TevereBasin;-;-;Lazio;-9999;12.2533;42.5836;7200;23.2;-9999;-9999;-9999;-9999;-9999;1200;1591;1723;Statistica;Modello rilascio diga;-9999;no;-9999;-9999;N.D.
+100;Ameglia;Ameglia Foce Magra;Magra;Magra, Ameglia;LiguriaDomain;AMEGLIA;SP;LIGURIA;47;9.9722;44.07884;1680;11.3;64;150;200;330;5;1871;3296;4478;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Amorosi;Amorosi;Volturno;Volturno, Amorosi;VolturnoDomain;-;-;Campania;-9999;14.4464;41.1919;2020;12.4;66;310;340;350;-9999;514;595;623;CF;Scala di deflusso;3;si;-0.51;0.47;Arpa Campania (non ufficiali)
+-9999;AncipaDiga;Ancipa Diga R2;Simeto;Simeto, AncipaDiga;SiciliaDomain;-;-;SICILIA;-9999;14.58;37.82;48.61;2.1;-9999;-9999;-9999;-9999;-9999;15;25;32;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Antrodoco;-;Velino;Velino, Antrodoco;TevereBasin;-;-;Lazio;-9999;13.0781;42.4208;245;4.5;-9999;120;150;180;-9999;85;159;227;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Apice Calore;Apice Calore;Volturno;Volturno, Apice Calore;VolturnoDomain;-;-;Campania;-9999;14.9281;41.1278;507;6.3;-9999;-9999;-9999;-9999;-9999;184;272;334;Statistica;Scala di deflusso;2;no;0.85;<-1;Arpa Campania (non ufficiali)
+-9999;Apice Ufita;Apice Ufita;Volturno;Volturno, Apice Ufita;VolturnoDomain;CANCELLO ED ARNONE;CE;CAMPANIA;-9999;14.9244;41.1369;1250;9.8;67;-9999;-9999;-9999;-9999;361;508;610;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Arzilla;Arzilla;Arzilla;Arzilla, Arzilla;MarcheDomain;-;-;-;-9999;12.9;43.84;45;2.1;-9999;150;200;250;-9999;4;10;18;CF;Scala di deflusso;3;no;-0.08;<-1;Regione Marche, 2021
+-9998;Aspio 2;Aspio 2;Aspio;Aspio, Aspio 2;MarcheDomain;-;-;MARCHE;-9999;13.56658;43.49395;124;3.3;-9999;100;150;250;-9999;8;19;55;CF;Scala di deflusso;3;no;-0.541;0.16;Regione Marche, 2021
+142;Assemini;Fluminimannu a Decimomannu;Fluminumannu;Fluminumannu, Assemini;SardegnaDomain;ASSEMINI;CA;SARDEGNA;435;8.98661;39.28363;2320;13.3;66;-9999;-9999;-9999;91;213;330;409;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Atella;Torrente Atella;Ofanto;Ofanto, Atella;BasilicataDomain;Atella;PZ;BASILICATA;-9999;15.64580552;40.86863892;187.5;3.9;-9999;200;260;320;-9999;43;80;127;CF;Scala di deflusso;2;no;-0.608;0.05;CF Regione Puglia, 2018
+-9999;Atina;Melfa ad Atina;Melfa;Melfa, Atina;LiriDomain;-;-;-;-9999;13.7695;41.6295;153;3.6;-9999;100;150;250;-9999;21;33;55;CF;Scala di deflusso;2;si;0.85;<-1;CF Regione Lazio, 2020
+-9999;Aviasco;-;Goglio;Goglio, Aviasco;PoBasin;-;-;-;-9999;9.86297;46.00025;2.24;0.7;-9999;-9999;-9999;-9999;-9999;1;2;2;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Badu Crabolu;Badu Crabolu;Temo;Temo, Badu Crabolu;SardegnaDomain;-;-;SARDEGNA;-9999;8.59667;40.3317;146;3.5;-9999;90;130;180;-9999;10;18;33;CF;Scala di deflusso;-9999;si;0.44;0.32;Regione Sardegna,2013
+143;Ballao;Ballao;Flumendosa;Flumendosa, Ballao;SardegnaDomain;BALLAO;CA;SARDEGNA;3;9.35333;39.5539;1020;8.9;73;170;180;200;95;170;270;341;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Barbellino;-;Serio;Serio, Barbellino;PoBasin;-;-;-;-9999;10.04321;46.06602;17.16;1.4;-9999;-9999;-9999;-9999;-9999;11;17;21;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+117;Barzizza;Barzizza;Brenta;Brenta, Barzizza;AdigeDomain;Cismon del grappa;VI;Veneto;52;11.7201;45.791;1740;11.5;73;160;240;320;156;154;360;645;CF;Scala di deflusso;3;si;0.56;0.11;ARPAV, 2021
+-9999;Bastia;-;Piave;Piave, Bastia;FriuliDomain;-;-;-;-9999;12.32457;46.13118;149.03;3.5;-9999;-9999;-9999;-9999;-9999;280;471;622;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Battipaglia;Battipaglia Idro;Tusciano;Tusciano, Battipaglia;VolturnoDomain;-;-;Campania;-9999;14.9692;40.6111;160;3.7;-9999;-9999;-9999;-9999;-9999;80;126;159;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Belcastro SS106;Belcastro SS 106;Tacina;Tacina, Belcastro SS106;CalabriaDomain;-;-;CALABRIA;-9999;16.9078;38.9431;360;5.4;-9999;-9999;-9999;-9999;-9999;598;811;940;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+85;Belluno;Belluno;Piave;Piave, Belluno;FriuliDomain;Belluno;BL;Veneto;55;12.2205;46.1344;2000;12.3;72;-9999;-9999;-9999;155;1000;1500;2000;CF;-9999;-9999;no;-9999;-9999;ARPAV
+-9999;Benevento;Benevento;Volturno;Volturno, Benevento;VolturnoDomain;Benevento;BN;Campania;-9999;14.7703;41.1292;450;6.0;67;600;700;820;-9999;608;769;979;CF;Scala di deflusso;3;si;0;0.43;Arpa Campania (non ufficiali)
+141;Bettona;Bettona Q.A.;Tevere;Tevere, Bettona;TevereBasin;Bettona;PG;Umbria;37;12.5078;43.0217;1100;9.2;-9999;400;500;650;151;134;222;403;CF;Scala di deflusso;2;si;0.201;0.24;CF Umbria, 2018
+-9999;Bevagna;Bevagna;Topino;Topino, Bevagna;TevereBasin;-;-;Lazio;-9999;12.63867;42.94403;520;6.4;-9999;170;240;320;-9999;64;122;208;CF;Scala di deflusso;2;no;0.371;<-1;CF Umbria, 2018
+-9999;Bevano Adriatica;-;Bevano;Bevano, Bevano Adriatica;RomagnaDomain;-;-;-;-9999;12.2806;44.325;152;3.6;-9999;160;220;320;-9999;39;65;87;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Boara Pisani;Boara Pisani;Adige;Adige, Boara Pisani;AdigeDomain;-;-;-;-9999;11.7842;45.1055;11954;29.8;-9999;0;150;300;-9999;656;958;1377;CF;Scala di deflusso;4;si;0.82;-0.19;ARPAV, 2017
+-9999;Bocca dArno;-;Arno;Arno, Bocca dArno;ToscanaDomain;-;-;TOSCANA;-9999;10.27825;43.68001;8200;24.7;-9999;-9999;-9999;-9999;-9999;1380;1762;1973;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+202;Bocca Serchio;-;Serchio;Serchio, Bocca Serchio;ToscanaDomain;SAN GIULIANO TERME;PI;TOSCANA;29;10.26823;43.78099;1470;10.6;63;-9999;-9999;-9999;141;1254;1921;2463;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+182;Boccaserio;Boccaserio SIAP;Adda;Adda, Boccaserio;PoBasin;CORTE PALASIO;LO;LOMBARDIA;49;9.5503;45.30238;5660;20.6;72;-9999;-9999;-9999;63;1596;2177;2469;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Bolsine;Bolsine;Teiro;Teiro, Bolsine;LiguriaDomain;-;-;LIGURIA;-9999;8.57472;44.37139;26;1.6;-9999;130;180;250;3;33;78;166;CF;Scala di deflusso;4;no;-0.01;0.43;ARPAL, 2020
+-9999;Bolzano Vicentino;Bolzano Vicentino;Tesina;Tesina, Bolzano Vicentino;AdigeDomain;-;-;-;-9999;11.6209;45.6009;694;7.4;-9999;300;350;420;-9999;196;250;329;CF;Scala di deflusso;3;si;0.6;0.5;ARPAV, 2021
+-9999;Bomporto;Bomporto;Panaro;Panaro, Bomporto;PoBasin;-;-;-;-9999;11.0453;44.7272;1017;8.9;-9999;800;920;1100;-9999;143;234;379;CF;Scala di deflusso;3;no;-0.37;0.75;ARPA Emilia Romagna, 2018
+200;Bonconvento;-;Reno;Reno, Bonconvento;RomagnaDomain;SALA BOLOGNESE;BO;EMILIA ROMAGNA;23;11.31262;44.60535;1120;9.3;68;700;950;1150;40;531;775;955;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+234;Borgoforte;Borgoforte;Po;Po, Borgoforte;PoBasin;MOTTEGGIANA;MN;LOMBARDIA;44;10.74765;45.04369;58228;65.4;-9999;500;600;700;65;4334;5391;6348;CF;Scala di deflusso;4;no;0.24;<-1;ARPA Lombardia, 2016
+0;Borgofrassine;Borgofrassine;Agno;Agno, Borgofrassine;AdigeDomain;-;-;VENETO;54;11.4811;45.2514;530;6.5;-9999;-9999;-9999;-9999;159;226;346;431;Statistica;Scala di deflusso;3;si;0.51;0.42;ARPAV, 2021
+458;Bosa;Fiume Temo a Bosa;Temo;Temo, Bosa;SardegnaDomain;Bosa;NU;SARDEGNA;449;8.494;40.29386;822;8.0;-9999;-9999;-9999;-9999;-9999;94;149;188;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Bovegno;Bovegno;Mella;Mella, Bovegno;PoBasin;-;-;-;-9999;10.2684;45.7892;84;2.7;-9999;83;111;139;-9999;83;111;139;CF;Scala di deflusso;2;no;-0.15;-0.31;Regione Lombardia, 2015
+-9999;Branca;Branca;Chiascio;Chiascio, Branca;TevereBasin;-;-;Lazio;-9999;12.68076;43.26042;240;4.4;-9999;250;320;420;-9999;52;74;112;CF;Scala di deflusso;3;no;-0.191;0.74;CF Umbria, 2018
+-9999;Brembate di Sopra;Ponte Briolo;Brembo;Brembo, Brembate di Sopra;PoBasin;-;-;-;-9999;9.588;45.7044;754;7.7;-9999;250;350;450;-9999;161;290;419;CF;Scala di deflusso;2;no;-0.04;<-1;Regione Lombardia, 2019
+130;Bressanone;Bressanone;Adige;Adige, Bressanone;AdigeDomain;Bressanone;BZ;Trentino;51;11.6544;46.7043;2890;14.8;78;-9999;-9999;-9999;147;709;915;999;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;BrigliaVolpi;Briglia Volpi;Tronto;Tronto, BrigliaVolpi;MarcheDomain;-;-;-;-9999;13.88;42.89;1153;9.4;-9999;80;130;200;-9999;80;156;272;CF;Scala di deflusso;3;no;0.15;-0.66;Regione Marche, 2021
+212;Bronzolo;Bronzolo;Adige;Adige, Bronzolo;AdigeDomain;VADENA;BZ;TRENTINO ALTO ADIGE;51;11.30708;46.40664;7050;22.9;-9999;-9999;-9999;-9999;147;1512;1952;2130;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Bucine;Bucine;Arno;Arno, Bucine;ToscanaDomain;-;-;-;-9999;11.619;43.484;155;3.6;-9999;170;220;380;-9999;22;32;106;CF;Scala di deflusso;3;no;-0.36;-0.59;Regione Toscana, 2025
+-9999;Buonfratello;-;Grande;Grande, Buonfratello;SiciliaDomain;CAMPOFELICE DI ROCCELLA;PA;SICILIA;91;13.824;37.975;283;4.8;-9999;-9999;-9999;-9999;107;125;195;244;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Busca;Busca;Maira;Maira,Busca;PoBasin;-;-;-;-9999;7.48;44.52;574;6.7;-9999;250;350;-9999;-9999;224;309;-9999;CF;Scala di deflusso;4;no;-9999;-9999;Arpa Piemonte,2019
+-9999;C.Molara;Torto a Bivio Cerda;Torto;Torto, C.Molara;SiciliaDomain;TERMINI IMERESE;PA;SICILIA;114;13.782;37.9652;348;5.3;-9999;-9999;-9999;-9999;107;129;202;253;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cabanne;Cabanne;Aveto;Aveto, Cabanne;LiguriaDomain;-;-;LIGURIA;-9999;9.34017;44.48803;33;1.8;-9999;110;160;270;4;99;164;364;CF;Scala di deflusso;1;si;-0.24;0.64;ARPAL, 2018
+-9999;Cadelbosco;Cadelbosco;Crostolo;Crostolo, Cadelbosco;PoBasin;-;-;-;-9999;10.5812;44.7788;229;4.3;-9999;560;700;800;-9999;92;133;162;CF;Scala di deflusso;2;no;-0.68;0.44;ARPA Emilia Romagna, 2018
+-9999;CagliCivita;Cagli Civita;Metauro;Metauro, CagliCivita;MarcheDomain;-;-;-;-9999;12.64;43.55;238;4.4;-9999;-9999;-9999;-9999;-9999;119;201;271;Statistica;-9999;4;no;-0.15;<-1;Regione Marche, 2021
+-9999;CagliPonteCavour;Cagli Ponte Cavour;Metauro;Metauro, CagliPonteCavour;MarcheDomain;-;-;-;-9999;12.64;43.54;104;3.0;-9999;-9999;-9999;-9999;-9999;59;100;135;Statistica;-9999;5;no;-0.29;0.45;Regione Marche, 2021
+-9999;Cairo Montenotte;-;Bormida;Bormida, Cairo Montenotte;LiguriaDomain;-;-;LIGURIA;-9999;8.27083;44.40389;162;3.7;-9999;-9999;-9999;-9999;4;56;98;133;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Calamazza;Calamazza;Magra;Magra, Calamazza;LiguriaDomain;Aulla;MS;LIGURIA;48;9.95089;44.19807;960;8.6;62;350;400;570;5;526;681;1357;CF;Scala di deflusso;4;si;-0.037;0.89;ARPAL, 2020
+-9999;Calavorno;Calavorno;Serchio;Serchio, Calavorno;ToscanaDomain;-;-;-;-9999;10.535;44.02;647;7.1;-9999;420;470;665;-9999;427;535;1073;CF;Scala di deflusso;4;no;0.28;<-1;Regione Toscana, 2025
+-9999;Calcara;Calcara;Samoggia;Samoggia,Calcara;RomagnaDomain;-;-;-;-9999;11.133;44.546;175;3.8;-9999;280;380;450;-9999;118;205;267;CF;Scala di deflusso;3;no;-9999;-9999;ARPA Emilia Romagna,2018
+438;Calimara;-;Amendolea;Amendolea, Calimara;CalabriaDomain;CONDOFURI;RC;CALABRIA;-9999;15.88535;37.92916;140;3.4;-9999;-9999;-9999;-9999;-9999;192;275;330;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Caminata;Caminata;Graveglia;Graveglia, Caminata;LiguriaDomain;-;-;LIGURIA;-9999;9.41009;44.34007;42;2.0;-9999;140;190;280;5;29;53;126;CF;Scala di deflusso;4;no;-0.01;0.23;ARPAL, 2020
+-9999;Campo Tartano;-;Tartano;Tartano, Campo Tartano;PoBasin;-;-;-;-9999;9.63867;46.13968;51.25;2.2;-9999;-9999;-9999;-9999;-9999;26;39;48;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Camponocecchio;Camponocecchio;Esino;Esino, Camponocecchio;MarcheDomain;-;-;MARCHE;-9999;12.9803;43.40635;616;7.0;-9999;130;180;220;-9999;51;89;119;CF;Scala di deflusso;5;si;-0.391;0.72;Regione Marche, 2021
+-9999;Cancello Arnone;Cancello Arnone;Volturno;Volturno, Cancello Arnone;VolturnoDomain;CANCELLO ED ARNONE;CE;CAMPANIA;-9999;14.0278;41.0711;5630;20.5;65;700;750;820;-9999;1627;1802;2039;CF;Scala di deflusso;2;no;-0.163;0.11;Arpa Campania (non ufficiali)
+-9999;Candelaross272;Torrente Candelaro SS272;Candelaro;Candelaro, Candelaross272;BasilicataDomain;San Severo;FG;PUGLIA;-9999;15.50270002;41.71448332;376.25;5.5;-9999;250;270;310;-9999;22;29;46;CF;Scala di deflusso;2;no;-0.8;-0.61;CF Regione Puglia, 2024
+-9999;Candoglia;Candoglia;Toce;Toce, Candoglia;PoBasin;-;-;-;-9999;8.42153;45.97455;1529.22;10.8;-9999;520;690;770;-9999;894;1282;1464;CF;Scala di deflusso;3;no;-0.02;0.39;ARPAPiemonte, 2018
+66;Cannara;Cannara;Tevere;Tevere, Cannara;TevereBasin;Cannara;PG;Umbria;37;12.5803;42.9909;1000;8.8;67;240;290;390;151;105;148;260;CF;Scala di deflusso;2;si;0.19;0.01;CF Umbria, 2018
+181;Canonica DAdda;-;Adda;Adda, Canonica DAdda;PoBasin;CANONICA D'ADDA;BG;LOMBARDIA;49;9.53489;45.57717;5140;19.6;74;-9999;-9999;-9999;67;1582;2157;2447;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cantalupo;Cantalupo;Tevere;Tevere, Cantalupo;TevereBasin;-;-;Umbria;-9999;12.59724;42.95584;530;6.5;-9999;270;370;450;-9999;68;127;187;CF;Scala di deflusso;3;si;0.131;0.01;CF Umbria, 2018
+-9999;Capocanale;Sagittario a Capo Canale;Aternopescara;Aternopescara, Capocanale;LiriDomain;-;-;ABRUZZO;-9999;13.87126;42.11762;580;6.8;-9999;130;150;180;-9999;12;18;30;CF;Scala di deflusso;2;no;0.948;<-1;Arpa Abruzzo, 1994
+-9999;Capodarso;Imera Merid. a Capodarso;Imera;Imera, Capodarso;SiciliaDomain;-;-;SICILIA;-9999;14.15;37.5;622.31;7.0;-9999;-9999;-9999;-9999;-9999;222;347;435;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+480;Capoterra;-;Gutturu-Mannu;Gutturu-Mannu, Capoterra;SardegnaDomain;CAPOTERRA;CA;SARDEGNA;458;8.9779;39.0516;95;2.9;-9999;-9999;-9999;-9999;91;91;148;190;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+184;Capriolo;Capriolo (ex Tagliuno);Oglio;Oglio, Capriolo;PoBasin;CAPRIOLO;BS;LOMBARDIA;50;9.917;45.64224;1870;11.9;74;-9999;-9999;-9999;66;105;218;322;CF;Scala di deflusso;3;no;-0.277;<-1;ARPA Lombardia, 2016
+-9999;Carapelle;Torrente Carapelle a SR01;Carapelle;Carapelle, Carapelle;BasilicataDomain;Candela;FG;PUGLIA;-9999;15.50926663;41.17733338;336.5;5.2;-9999;230;280;320;-9999;75;125;196;CF;Scala di deflusso;1;no;-0.554;-0.09;CF Regione Puglia, 2024
+-9999;Carasco;Carasco;Entella;Entella, Carasco;LiguriaDomain;-;-;-;-9999;9.35;44.35;350;5.3;-9999;440;490;580;-9999;408;510;725;CF;Scala di deflusso;3;no;0.03;0.51;Arpal, 2020
+168;Carignano;Carignano;Po;Po, Carignano;PoBasin;CARIGNANO;TO;PIEMONTE;44;7.69087;44.90862;3880;17.1;68;270;370;520;83;339;609;1018;CF;Scala di deflusso;4;no;-0.149;0.22;ARPAPiemonte, 2018
+-9999;Carpineto;Sinello a Carpineto Sinello;Sinello;Sinello, Carpineto;LiriDomain;-;-;ABRUZZO;-9999;14.49778;42.01694;102;3.0;-9999;150;200;250;-9999;32;52;69;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cartosio;Cartosio;Erro;Erro, Cartosio;LiguriaDomain;-;-;LIGURIA;-9999;8.42126;44.57334;195;4.0;-9999;270;320;430;2;346;417;574;CF;Scala di deflusso;3;no;-0.196;0.65;ARPAL, 2018
+-9999;Casalcermelli;Casal Cermelli;Orba;Orba, Casalcermelli;PoBasin;CASALCERMELLI;AL;PIEMONTE;45;8.63137;44.8324;800;7.9;65;350;430;450;83;506;692;739;CF;Scala di deflusso;3;no;-0.432;0.14;ARPAPiemonte, 2018
+-9999;Casale;Fiume Fortore a Ponte Fortore;Fortore;Fortore, Casale;VolturnoDomain;Casalnuovo Monterotaro;FG;PUGLIA;-9999;15.04436112;41.64730554;1242;9.8;-9999;250;300;350;-9999;26;60;125;CF;Scala di deflusso;3;no;-0.22;<-1;CF Regione Puglia, 2024
+239;Casale Monferrato;Casale Monferrato (Lanza);Po;Po, Casale Monferrato;PoBasin;CASALE MONFERRATO;AL;PIEMONTE;44;8.43611;45.1389;13700;31.9;-9999;50;140;180;83;2494;3091;3356;CF;Scala di deflusso;4;no;-0.231;<-1;ARPAPiemonte, 2018
+-9999;Casignana SS106;Casignana SS 106;Bonamico;Bonamico, Casignana SS106;CalabriaDomain;-;-;CALABRIA;-9999;16.1592;38.1275;130;3.3;-9999;-9999;-9999;-9999;-9999;203;290;349;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Caslino dErba;Caslino d'Erba;Lambro;Lambro, Caslino dErba;PoBasin;-;-;-;-9999;9.2323;45.8354;45;2.1;-9999;120;250;290;-9999;25;-9999;-9999;CF;Scala di deflusso;4;no;-0.36;0.51;Regione Lombardia, 2014
+-9999;Cassine;Cassine;Bormida;Bormida, Cassine;PoBasin;-;-;-;-9999;8.54;44.75;1524;10.8;-9999;280;380;440;-9999;851;1251;1491;CF;Scala di deflusso;2;no;-0.24;0.61;ARPA Piemonte, 2018
+-9999;Cassino;Rapido a Cassino;Rapido;Rapido, Cassino;LiriDomain;-;-;-;-9999;13.8404;41.4864;172;3.8;-9999;150;250;300;-9999;28;92;139;CF;Scala di deflusso;2;si;0.4;0.6;CF Regione Lazio, 2020
+-9999;Castelfiorentino;Castelfiorentino;Arno;Arno, Castelfiorentino;ToscanaDomain;-;-;-;-9999;10.968;43.604;783;7.8;-9999;210;260;360;-9999;86;116;199;CF;Scala di deflusso;2;no;-0.04;<-1;Regione Toscana, 2025
+-9999;Castellanza Olona;Castellanza;Olona;Olona, Castellanza Olona;PoBasin;-;-;-;-9999;8.91;45.61;145;3.5;-9999;180;210;240;-9999;39;50;60;CF;Scala di deflusso;1;no;-0.04;<-1;Regione Lombardia, 2015
+-9999;Castellina di Soragna;Castellina di Soragna;Stirone;Stirone, Castellina di Soragna;PoBasin;-;-;-;-9999;10.11;44.9161;229;4.3;-9999;300;400;540;-9999;52;77;112;CF;Scala di deflusso;3;no;-0.23;0.07;ARPA Emilia Romagna, 2018
+-9999;Castelluccio;Tellaro a Castelluccio;Tellaro;Tellaro, Castelluccio;SiciliaDomain;-;-;SICILIA;-9999;14.92;36.92;158.73;3.7;-9999;-9999;-9999;-9999;-9999;79;129;165;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+236;Castelmassa Siap;-;Po;Po, Castelmassa Siap;PoBasin;CASTELMASSA;RO;VENETO;44;11.31216;45.01011;65200;69.2;0;-9999;-9999;-9999;158;11942;16283;18473;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Castelsangelo;Castel S.Angelo;Nera;Nera, Castelsangelo;MarcheDomain;-;-;-;-9999;13.15;42.9;115;3.1;-9999;45;95;105;-9999;3;9;10;CF;Scala di deflusso;0;no;0.47;<-1;Regione Marche, 2021
+-9999;Castelvolturno;-;Volturno;Volturno, Castelvolturno;VolturnoDomain;-;;Campania;-9999;13.9386;41.0261;6300;21.7;64;-9999;-9999;-9999;-9999;1240;1744;2096;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Castenaso;Castenaso;Idice;Idice, Castenaso;RomagnaDomain;-;-;-;-9999;11.47;44.5;397;5.6;-9999;830;980;1100;-9999;111;191;255;CF;Scala di deflusso;3;si;0.23;0.85;ARPA Emilia Romagna, 2018
+-9999;Castiglione;-;Savio;Savio, Castiglione;RomagnaDomain;-;-;-;-9999;12.26088;44.25899;670;7.2;-9999;450;600;800;-9999;561;942;1250;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Castrocaro;Castrocaro;Montone;Montone, Castrocaro;RomagnaDomain;-;-;-;-9999;11.9494;44.1701;238;4.4;-9999;130;200;300;-9999;29;53;87;CF;Scala di deflusso;3;si;0.47;<-1;ARPA Emilia Romagna, 2018
+-9999;Castropignano;Castropignano;Biferno;Biferno, Castropignano;VolturnoDomain;-;-;-;-9999;14.57;41.61;491;6.2;-9999;170;260;290;-9999;43;118;152;CF;Scala di deflusso;3;no;0.14;<-1;CF Regione Molise, 2021
+422;Catanzaro LidoSS106;Catanzaro Lido SS 106;Corace;Corace, Catanzaro LidoSS106;CalabriaDomain;BORGIA;CZ;CALABRIA;322;16.6061;38.8172;280;4.8;-9999;-9999;-9999;-9999;13;223;302;350;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cavaria con Premezzo;Cavaria con Premezzo;Arno;Arno, Cavaria con Premezzo;PoBasin;-;-;-;-9999;8.8078;45.6896;37;1.9;-9999;130;170;200;-9999;28;45;57;CF;Scala di deflusso;2;no;-0.36;<-1;Regione Lombardia, 2015
+-9999;Cavia;-;Cavia;Cavia, Cavia;FriuliDomain;-;-;-;-9999;11.81829;46.36044;2.27;0.7;-9999;-9999;-9999;-9999;-9999;6;7;9;CF;-9999;-9999;no;-9999;-9999;N.D.
+114;Cecina;-;Cecina;Cecina, Cecina;ToscanaDomain;Cecina;LI;TOSCANA;41;10.5125;43.3226;920;8.4;64;-9999;-9999;-9999;123;150;246;319;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cengio;Cengio;Bormida;Bormida, Cengio;LiguriaDomain;-;-;-;-9999;8.2;44.39;205;4.1;-9999;250;300;400;-9999;199;284;500;CF;Scala di deflusso;3;no;-0.06;<-1;Arpal, 2020
+;Ceprano;Ceprano;Liri;Liri, Ceprano;LiriDomain;-;FR;LAZIO;19;13.51851;41.54323;770;7.7;-9999;250;300;400;52;581;837;1034;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cervaro;Torrente Cervaro SP106;Cervaro;Cervaro, Cervaro;BasilicataDomain;Castelluccio dei Sauri;FG;PUGLIA;-9999;15.42094443;41.30805553;280;4.8;-9999;100;150;200;-9999;111;213;357;CF;Scala di deflusso;1;no;-0.56;0.33;CF Regione Puglia, 2024
+-9999;Cesano;Cesano;Cesano;Cesano, Cesano;MarcheDomain;-;-;-;-9999;13.02;43.66;270;4.7;-9999;50;100;150;-9999;53;136;264;CF;Scala di deflusso;3;no;-0.24;-0.96;Regione Marche, 2021
+-9999;Cesano Foce;Cesano Foce;Cesano;Cesano, Cesano Foce;MarcheDomain;-;-;MARCHE;-9999;13.17091;43.74958;402;5.7;-9999;50;100;150;-9999;69;117;157;Statistica;-9999;-9999;no;-0.32;<-1;Regione Marche, 2021
+198;Cessalto;-;Livenza;Livenza, Cessalto;FriuliDomain;CESSALTO;TV;VENETO;418;12.67403;45.73513;2400;13.5;63;320;450;550;160;1980;3245;4168;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chianchitti;-;Alcantara;Alcantara, Chianchitti;SiciliaDomain;TAORMINA;CT;SICILIA;71;15.2387;37.8252;471;6.1;-9999;-9999;-9999;-9999;101;480;752;942;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chiaravalle;Chiaravalle;Esino;Esino, Chiaravalle;MarcheDomain;-;-;MARCHE;-9999;13.33255;43.59975;1100;9.2;-9999;100;150;200;-9999;189;317;432;Statistica;-9999;-9999;no;-9999;-9999;Regione Marche, 2021
+-9999;Chiaravalle;Chiaravalle;Ancinale;Ancinale,Chiaravalle;CalabriaDomain;-;-;CALABRIA;-9999;16.4;38.67;105;3.0;-9999;-9999;-9999;-9999;-9999;164;234;281;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chiavenna;Chiavenna Inferno;Liro;Liro, Chiavenna;PoBasin;-;-;-;-9999;9.3764;46.3253;180;3.9;-9999;250;360;470;-9999;118;202;286;CF;Scala di deflusso;2;no;-0.17;<-1;Regione Lombardia, 2014
+-9999;Chifenti;Chifenti;Serchio;Serchio, Chifenti;ToscanaDomain;-;-;TOSCANA;-9999;10.56176;44.00457;310;5.0;-9999;240;290;375;-9999;221;326;581;CF;Scala di deflusso;3;no;-0.179;0.84;Regione Toscana, 2019
+-9999;Chiusa dei Monaci;-;Arno;Arno, Chiusa dei Monaci;ToscanaDomain;-;-;TOSCANA;-9999;11.8204;43.4608;1510;10.7;-9999;250;301;750;-9999;230;352;451;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chiusura;Chiusura Alento;Alento;Alento, Chiusura;BasilicataDomain;-;-;Campania;-9999;15.13861;40.17305;360;5.4;-9999;-9999;-9999;-9999;-9999;603;1198;1754;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chiusura;-;Mingardo;Mingardo, Chiusura;BasilicataDomain;Castello di Molpa;SA;Campania;294;15.31639;40.03556;220;4.3;-9999;-9999;-9999;-9999;35;428;850;1245;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Chiusura;-;Bussento;Bussento, Chiusura;BasilicataDomain;-;-;Campania;-9999;15.5075;40.07111;310;5.0;-9999;-9999;-9999;-9999;-9999;632;1254;1837;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;ChiusuraSarno;Chiusura Sarno;Sarno;Sarno, ChiusuraSarno;VolturnoDomain;-;-;Campania;-9999;14.47722;40.73195;515;6.4;-9999;-9999;-9999;-9999;-9999;158;233;287;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cisano sul Neva;Cisano sul Neva;Neva;Neva, Cisano sul Neva;LiguriaDomain;Savona;SV;LIGURIA;-9999;8.14611;44.08556;123;3.2;-9999;230;280;400;1;78;131;270;CF;Scala di deflusso;3;si;-0.143;0.85;ARPAL, 2020
+116;Cismondelgrappa;Cismon del Grappa;Brenta;Brenta, Cismondelgrappa;AdigeDomain;CISMON DEL GRAPPA;VI;VENETO;52;11.72605;45.92087;1480;10.6;73;-9999;-9999;-9999;156;717;1064;1290;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Civitate;Fortore SP142;Fortore;Fortore, Civitate;VolturnoDomain;San Paolo di Civitate;FG;PUGLIA;-9999;15.21861222;41.78364246;1627.25;11.1;-9999;500;600;700;-9999;60;92;165;CF;Scala di deflusso;4;si;-0.86;0.04;CF Regione Puglia, 2024
+-9999;Coccolia;Coccolia;Ronco;Ronco, Coccolia;RomagnaDomain;-;-;-;-9999;12.1108;44.2977;593;6.8;-9999;400;550;750;-9999;100;146;208;CF;Scala di deflusso;2;si;0.88;-0.12;ARPA Emilia Romagna, 2018
+145;Codaruina;Coghinas - SP33;Coghinas;Coghinas, Codaruina;SardegnaDomain;BADESI;SS;SARDEGNA;450;8.81095;40.93383;2480;13.7;71;-9999;-9999;-9999;99;225;349;432;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Colle dArena;Fiume Fortore a Colle d'Arena;Fortore;Fortore, Colle dArena;VolturnoDomain;Lesina;FG;PUGLIA;-9999;15.2591383;41.89687285;1720;11.4;-9999;350;400;450;-9999;100;129;170;CF;Scala di deflusso;4;si;-0.88;0.08;CF Regione Puglia, 2024
+-9999;Collepepe;Collepepe;Puglia;Puglia, Collepepe;TevereBasin;-;-;Lazio;-9999;12.4058;42.9278;160;3.7;-9999;220;290;370;-9999;43;71;119;CF;Scala di deflusso;4;no;-0.26;-0.07;CF Umbria, 2018
+-9999;Cologna;Cologna;Picentino;Picentino, Cologna;VolturnoDomain;-;-;-;-9999;14.77;40.72;23.33;1.6;-9999;-9999;-9999;-9999;-9999;12.63;19.91;25.21;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Comelico;-;Piave;Piave, Comelico;FriuliDomain;-;-;-;-9999;12.4866;46.53058;361.28;5.4;-9999;-9999;-9999;-9999;-9999;328;551;723;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Confine;-;Trebbia;Trebbia, Confine;LiguriaDomain;-;-;LIGURIA;-9999;9.29081;44.59318;138;3.4;-9999;-9999;-9999;-9999;5;289;508;690;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Confluenza;-;Paglia;Paglia, Confluenza;TevereBasin;-;-;Lazio;-9999;12.1896;42.6961;1297;10.0;-9999;-9999;-9999;-9999;-9999;312;547;747;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Contursi;Contursi;Sele;Sele, Contursi;BasilicataDomain;-;-;Campania;-9999;15.22968;40.65146;300;4.9;-9999;-9999;-9999;-9999;-9999;145;287;421;Statistica;Scala di deflusso;2;no;-0.338;0.18;Arpa Campania, 1993
+-9999;Corbara;-;Tevere;Tevere, Corbara;TevereBasin;-;-;Lazio;-9999;12.2511;42.7185;5600;20.5;-9999;-9999;-9999;-9999;-9999;795;1393;1905;Statistica;Modello rilascio diga;-9999;no;-9999;-9999;N.D.
+-9999;Corlo;-;Cismon;Cismon, Corlo;AdigeDomain;-;-;-;-9999;11.74629;45.93665;634;7.0;-9999;-9999;-9999;-9999;-9999;405;621;773;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;CosenzaNord;Cosenza Nord;Crati;Crati,CosenzaNord;CalabriaDomain;-;-;CALABRIA;-9999;16.26;39.35;364;5.4;-9999;-9999;-9999;-9999;-9999;191;259;300;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;CosenzaPonteGergeri;Cosenza Ponte Gergeri;Crati;Crati,CosenzaPonteGergeri;CalabriaDomain;-;-;CALABRIA;-9999;16.26;39.29;124;3.3;-9999;-9999;-9999;-9999;-9999;64;91;110;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+208;Cremona;Cremona;Po;Po, Cremona;PoBasin;CREMONA;CR;LOMBARDIA;44;9.99552;45.12813;42675;56.0;-9999;220;320;420;65;5900;7200;8500;CF;Scala di deflusso;4;no;0.116;-0.68;ARPA Lombardia, 2016
+404;Cropalati;Cropalati - Trionto;Trionto;Trionto, Cropalati;CalabriaDomain;ROSSANO;CS;CALABRIA;330;16.7383;39.5103;250;4.5;-9999;-9999;-9999;-9999;12;242;328;381;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Crucoli SS106;-;Nica;Nica, Crucoli SS106;CalabriaDomain;-;-;CALABRIA;-9999;17.0103;39.4733;170;3.8;-9999;-9999;-9999;-9999;12;139;198;238;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Decimomannu;-;Fluminumannu;Fluminumannu, Decimomannu;SardegnaDomain;Capaccio;SA;Sardegna;435;8.95306;39.3075;1600;11.1;66;150;250;310;91;158;244;302;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Dicomano;Dicomano Monte;Sieve;Sieve, Dicomano;ToscanaDomain;-;-;-;-9999;11.525;43.886;629;7.0;-9999;200;250;350;-9999;113;161;275;CF;Scala di deflusso;3;no;0.21;<-1;Regione Toscana, 2025
+-9999;Domodossola;Domodossola Toce;Toce;Toce,Domodossola;PoBasin;-;-;-;-9999;8.31;46.11;888;8.3;-9999;200;250;290;-9999;237;324;394;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+-9999;Drasi;Imera Meridionale a Drasi R2;Imera;Imera, Drasi;SiciliaDomain;-;-;SICILIA;-9999;14;37.22;1727;11.5;-9999;-9999;-9999;-9999;-9999;474;681;810;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Episcopia;Episcopia-Pizzutello;Sinni;Sinni, Episcopia;BasilicataDomain;-;-;-;-9999;16.1036;40.07;208;4.1;-9999;300;350;400;-9999;133;213;317;CF;Scala di deflusso;3;si;-0.03;0.55;Letteratura, 2020
+-9999;Eraclea;Platani a Eraclea;Platani;Platani, Eraclea;SiciliaDomain;-;-;SICILIA;-9999;13.33;37.43;1711;11.4;-9999;-9999;-9999;-9999;-9999;425;611;726;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+6;Falvaterra;Falvaterra;Liri;Liri, Falvaterra;LiriDomain;Castro dei Volsci;FR;LAZIO;19;13.5282;41.5171;1480;10.6;63;-9999;-9999;-9999;52;465;671;828;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Farigliano;Farigliano;Tanaro;Tanaro, Farigliano;PoBasin;-;-;-;-9999;7.9;44.52;1541;10.8;-9999;300;400;430;-9999;504;782;865;CF;Scala di deflusso;3;no;-0.11;0.78;ARPA Piemonte, 2018
+-9999;Farini;Farini;Nure;Nure,Farini;PoBasin;-;-;-;-9999;9.57;44.72;208;4.1;-9999;210;280;320;-9999;81;147;185;CF;Scala di deflusso;2;no;-9999;-9999;ARPA Emilia Romagna,2017
+22;Fasana;-;Neto;Neto, Fasana;CalabriaDomain;CROTONE;KR;CALABRIA;38;17.11732;39.20546;1030;8.9;71;-9999;-9999;-9999;13;1067;1273;1377;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Fedaia;-;Avisio;Avisio, Fedaia;FriuliDomain;-;-;-;-9999;11.86245;46.46309;11.05;1.1;-9999;-9999;-9999;-9999;-9999;9;16;21;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ficuzza;Eleuterio a Ficuzza;Eleuterio;Eleuterio, Ficuzza;SiciliaDomain;-;-;SICILIA;-9999;13.38;37.9;28.71;1.7;-9999;-9999;-9999;-9999;-9999;1;2;2;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+17;Foce;-;Sele;Sele, Foce;BasilicataDomain;Capaccio;SA;Campania;11;14.94983;40.47986;3160;15.4;64;189;-9999;-9999;32;1079;1827;2357;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;CanaleCamaggi;CanaleCamaggi, Foce;BasilicataDomain;-;-;Puglia;-9999;16.3324;41.3142;140;3.4;-9999;-9999;-9999;-9999;-9999;37;76;113;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9998;Foce;-;Barletta;Barletta, Foce;BasilicataDomain;-;-;Puglia;-9998;16.2326;41.342;380;5.5;-9999;-9999;-9999;-9999;-9999;93;186;272;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;CanaleCastello;CanaleCastello, Foce;BasilicataDomain;-;-;Puglia;-9998;16.06;41.416;780;7.8;-9999;-9999;-9999;-9999;-9999;107;212;311;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Carapelle;Carapelle, Foce;BasilicataDomain;-;-;Puglia;-9998;15.923;41.4493;630;7.0;-9999;-9999;-9999;-9999;-9999;159;317;464;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Cervaro;Cervaro, Foce;BasilicataDomain;-;-;Puglia;-9998;15.91;41.511;590;6.8;-9999;-9999;-9999;-9999;-9999;137;272;398;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Torrente;Torrente, Foce;GarganoDomain;-;-;Puglia;-9999;16.066;41.698;33;1.8;-9999;-9999;-9999;-9999;-9999;39;70;96;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Arronebis;Arronebis, Foce;LazioDomain;-;-;Lazio;-9999;11.6342;42.3028;170;3.8;-9999;-9999;-9999;-9999;-9999;67;111;140;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Quiliano;Quiliano, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.44551;44.28053;52;2.2;-9999;-9999;-9999;-9999;3;76;133;181;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9998;Foce;-;Merula;Merula, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.14399;43.9477;59;2.3;-9999;-9999;-9999;-9999;1;72;128;173;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Castagnola;Castagnola, Foce;LiguriaDomain;-;-;LIGURIA;-9999;9.51808;44.21366;24;1.6;-9999;-9999;-9999;-9999;5;33;57;78;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Boate;Boate, Foce;LiguriaDomain;-;-;LIGURIA;-9999;9.22962;44.34568;25;1.6;-9999;-9999;-9999;-9999;5;27;48;65;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Recco;Recco, Foce;LiguriaDomain;-;-;LIGURIA;-9999;9.14099;44.36079;22;1.5;-9999;-9999;-9999;-9999;3;26;46;63;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Cerusa;Cerusa, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.74279;44.42626;23;1.5;-9999;-9999;-9999;-9999;3;89;157;213;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Lerone;Lerone, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.66517;44.39012;11;1.1;-9999;-9999;-9999;-9999;3;39;69;93;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Arrestra;Arrestra, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.63372;44.37942;21;1.5;-9999;-9999;-9999;-9999;3;13;23;31;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Segno;Segno, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.44066;44.26953;19;1.4;-9999;-9999;-9999;-9999;3;27;48;65;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Sciusa;Sciusa, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.35642;44.17055;26;1.6;-9999;-9999;-9999;-9999;1;24;43;58;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Pora;Pora, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.3419;44.16645;58;2.3;-9999;-9999;-9999;-9999;1;93;164;222;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Maremola;Maremola, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.28753;44.14933;45;2.1;-9999;-9999;-9999;-9999;1;86;151;205;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Varatello;Varatello, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.24576;44.11147;42;2.0;-9999;-9999;-9999;-9999;1;56;99;135;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Cervo;Cervo, Foce;LiguriaDomain;-;-;LIGURIA;-9999;8.10772;43.92053;21;1.5;-9999;-9999;-9999;-9999;1;25;44;59;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Prino;Prino, Foce;LiguriaDomain;-;-;LIGURIA;-9999;7.99959;43.86771;42;2.0;-9999;-9999;-9999;-9999;1;64;113;154;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;San-Lorenzo;San-Lorenzo, Foce;LiguriaDomain;-;-;LIGURIA;-9999;7.96385;43.85113;26;1.6;-9999;-9999;-9999;-9999;1;37;64;87;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Vallecrosia;Vallecrosia, Foce;LiguriaDomain;-;-;LIGURIA;-9999;7.64012;43.78265;22;1.5;-9999;-9999;-9999;-9999;1;26;46;63;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Sinello;Sinello, Foce;LiriDomain;-;-;ABRUZZO;-9999;14.648;42.185;283;4.8;-9999;-9999;-9999;-9999;-9999;55;88;115;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+29;Foce;-;CanaleReale;CanaleReale, Foce;PugliaDomain;Nardo;LE;Puglia;10;17.9267;40.2174;1320;10.1;65;-9999;-9999;-9999;88;120;151;163;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+201;Foce;-;Reno;Reno, Foce;RomagnaDomain;RAVENNA;RA;EMILIA ROMAGNA;23;12.25921;44.57982;5590;20.4;67;-9999;-9999;-9999;38;1036;1262;1395;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Sibapo;Sibapo, Foce;SardegnaDomain;-;SA;Sardegna;-9999;9.5912;39.3438;330;5.2;-9999;-9999;-9999;-9999;-9999;149;236;298;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+465;Foce;-;Sangiovanni;Sangiovanni, Foce;SardegnaDomain;ARZACHENA;SS;SARDEGNA;464;9.44171;41.0845;154;3.6;-9999;-9999;-9999;-9999;97;27;45;57;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce;-;Marcanzotta;Marcanzotta, Foce;SiciliaDomain;-;TP;SICILIA;-9999;12.4746;37.9184;317;5.1;-9999;-9999;-9999;-9999;107;64;101;126;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+46;Foce;-;Acate;Acate, Foce;SiciliaDomain;ACATE;RG;SICILIA;72;14.345;37.0001;590;6.8;-9999;-9999;-9999;-9999;104;168;262;329;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Foce Chienti;Foce Chienti;Chienti;Chienti, Foce Chienti;MarcheDomain;Sant'Elpidio a Mare;AS;MARCHE;-9999;13.7408;43.3017;1320;10.1;67;45;95;135;71;218;368;500;Statistica;-9999;-9999;no;-9999;-9999;Regione Marche, 2021
+-9999;Foce Musone;Foce Musone;Musone;Musone, Foce Musone;MarcheDomain;-;-;MARCHE;-9999;13.63888;43.47352;640;7.1;-9999;250;300;350;-9999;77;130;176;Statistica;-9999;-9999;no;-9999;-9999;Regione Marche, 2021
+-9999;Foglia 2;Foglia 2;Foglia;Foglia, Foglia 2;MarcheDomain;-;-;MARCHE;-9999;12.7868;43.85178;605;6.9;-9999;200;250;300;-9999;131;220;297;Statistica;-9999;-9999;no;-9999;-9999;Regione Marche, 2021
+-9999;Foglia 3;Foglia 3;Foglia;Foglia, Foglia 3;MarcheDomain;-;-;MARCHE;-9999;12.89751;43.90758;701;7.4;-9999;150;200;270;-9999;113;191;362;CF;Scala di deflusso;2;si;-0.465;0.14;Regione Marche, 2021
+-9999;Fontanelle;Fontanelle;Monticano;Monticano, Fontanelle;FriuliDomain;-;-;-;-9999;12.4399;45.8369;191;4.0;-9999;154;206;257;-9999;168;190;213;CF;Scala di deflusso;3;no;-0.45;-0.36;ARPAV, 2021
+-9999;Fornacina;Fornacina;Arno;Arno, Fornacina;ToscanaDomain;-;-;TOSCANA;-9999;11.46059;43.79654;800;7.9;-9999;300;350;450;-9999;228;288;433;CF;Scala di deflusso;2;no;-0.196;0.14;Regione Toscana, 2025
+-9999;Fornacino;Fornacino;Arno;Arno, Fornacino;ToscanaDomain;-;-;-;-9999;10.85;43.632;55;2.3;-9999;230;280;350;-9999;25;35;75;CF;Scala di deflusso;2;no;-0.55;0.35;Regione Toscana, 2025
+-9999;Fornola;Fornola;Magra;Magra, Fornola;LiguriaDomain;-;-;-;-9999;9.91;44.14;1577;11.0;-9999;330;380;500;-9999;1835;3233;4391;Statistica;-9999;-9999;no;-9999;-9999;ARPAL, 2021
+-9999;Fortore;Masseria La Marchesa;Fortore;Fortore, Fortore;VolturnoDomain;Torremaggiore;FG;PUGLIA;-9999;15.17505559;41.72474999;1553.5;10.9;-9999;200;250;280;-9999;50;150;264;CF;Scala di deflusso;3;si;0;0.51;CF Regione Puglia, 2018
+-9999;Fossano;Fossano di Stura;Stura;Stura, Fossano;PoBasin;-;-;-;-9999;7.73;44.52;1195;9.6;-9999;250;310;320;-9999;390;586;728;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Fossanova;Amaseno a Fossanova;Amaseno;Amaseno, Fossanova;LiriDomain;-;-;-;-9999;13.1942;41.4334;357;5.4;-9999;250;300;400;-9999;127;195;341;CF;Scala di deflusso;1;si;0.37;0.74;CF Regione Lazio, 2020
+-9999;Fregabolgia;-;Brembo;Brembo, Fregabolgia;PoBasin;-;-;-;-9999;9.86152;46.0235;2.99;0.7;-9999;-9999;-9999;-9999;-9999;0;1;1;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Friano;Friano;Tenna;Tenna, Friano;MarcheDomain;-;-;-;-9999;13.37;43;113;3.1;-9999;-9999;-9999;-9999;-9999;67;115;154;Statistica;-9999;2;no;0.57;<-1;Regione Marche, 2021
+230;Fucecchio Valle;Fucecchio Valle;Arno;Arno, Fucecchio Valle;ToscanaDomain;FUCECCHIO;FI;TOSCANA;18;10.80772;43.72021;6980;22.8;-9999;300;350;550;119;1378;1483;2000;CF;Scala di deflusso;-9999;no;-9999;-9999;Regione Toscana, 2025
+-9999;Gaiola;Gaiola;SturadiDemonte;SturadiDemonte, Gaiola;PoBasin;-;-;-;-9999;7.4155;44.33076;558.59;6.6;-9999;160;250;260;-9999;136;232;242;CF;Scala di deflusso;3;no;-0.21;-0.31;ARPAPiemonte, 2018
+-9999;Gandellino;Grabiasca;Serio;Serio, Gandellino;PoBasin;-;-;-;-9999;9.9481;46.0078;78;2.6;-9999;140;170;210;-9999;34;54;81;CF;Scala di deflusso;3;no;-0.28;0.21;Regione Lombardia, 2014
+-9999;GarciaDiga;Garcia Diga R2;Belice;Belice, GarciaDiga;SiciliaDomain;-;-;SICILIA;-9999;13.09;37.79;336.13;5.2;-9999;-9999;-9999;-9999;-9999;81;126;158;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Gaudiano;Fiume Ofanto;Ofanto;Ofanto, Gaudiano;BasilicataDomain;Gaudiano;PZ;BASILICATA;-9999;15.86964759;41.13771157;2094.25;12.6;-9999;360;590;670;-9999;195;600;908;CF;Scala di deflusso;3;si;0.1;-0.01;CF Regione Puglia, 2018
+-9999;Gavardo;Gavardo;Chiese;Chiese, Gavardo;PoBasin;-;-;-;-9999;10.4405;45.5919;876;8.2;-9999;170;260;330;-9999;162;310;426;CF;Scala di deflusso;3;no;-0.31;<-1;Regione Lombardia, 2011
+43;Gela;-;Gela;Gela, Gela;SiciliaDomain;GELA;CL;SICILIA;90;14.2607;37.0602;600;6.9;-9999;-9999;-9999;-9999;105;183;287;359;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Genova-Rivarolo;-;Polcevera;Polcevera, Genova-Rivarolo;LiguriaDomain;Genova;GE;LIGURIA;-9999;8.88952;44.43788;136;3.4;-9999;-9999;-9999;-9999;3;339;597;809;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ghirlo;-;Cordevole;Cordevole, Ghirlo;FriuliDomain;-;-;-;-9999;11.97309;46.34407;417.51;5.8;-9999;-9999;-9999;-9999;-9999;256;431;566;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;GioiaTauro SS18;-;Budello;Budello, GioiaTauro SS18;CalabriaDomain;-;-;CALABRIA;-9999;15.90722;38.43083;100;3.0;-9999;-9999;-9999;-9999;-9999;29;42;50;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Gonnosfanadiga;Terramaistus a Gonnosfanadiga;Terramaistus;Terramaistus,Gonnosfanadiga;SardegnaDomain;-;-;-;-9999;8.62;39.51;74;2.6;-9999;90;130;210;-9999;4;17;93;CF;Scala di deflusso;3;si;0.54;0.05;Regione Sardegna,2013
+154;Grazzanise;Grazzanise;Volturno;Volturno, Grazzanise;VolturnoDomain;GRAZZANISE;CE;CAMPANIA;14;14.10271;41.09438;5620;20.5;65;770;830;850;15;984;1157;1219;CF;Scala di deflusso;0;no;-0.012;<-1;Arpa Campania (non ufficiali)
+-9999;Guazzora;Guazzora Scrivia;Scrivia;Scrivia,Guazzora;PoBasin;-;-;-;-9999;8.87;45.03;954;8.6;-9999;620;670;880;-9999;536;603;883;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+-9999;Idrometro;Mannu di Porto Torres;Mannu;Mannu, Idrometro;SardegnaDomain;-;-;SARDEGNA;-9999;8.54056;40.6433;200;4.1;-9999;-9999;-9999;-9999;-9999;36;56;71;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Incisa Valle;Incisa Valle;Arno;Arno, Incisa Valle;ToscanaDomain;-;-;-;-9999;11.456;43.69;3334;15.8;-9999;350;400;500;-9999;493;603;823;CF;Scala di deflusso;3;no;-9999;-9999;Regione Toscana, 2019
+-9999;Incoronata;Torrente Cervaro a Incoronata;Cervaro;Cervaro, Incoronata;BasilicataDomain;Foggia;FG;PUGLIA;-9999;15.64372478;41.41054435;544;6.5;-9999;400;550;630;-9999;72;238;403;CF;Scala di deflusso;3;si;-0.31;0.25;CF Regione Puglia, 2024
+-9999;Isca Rena;Isca Rena;Flumendosa;Flumendosa,Isca Rena;SardegnaDomain;-;-;-;-9999;9.42;39.52;1608;11.1;-9999;-9999;-9999;-9999;-9999;453;701;868;Statistica;Scala di deflusso;2;si;0.37;0.59;Regione Sardegna,2018
+-9999;Isolabona;-;Nervia;Nervia, Isolabona;LiguriaDomain;-;-;LIGURIA;-9999;7.63762;43.87765;122;3.2;-9999;330;430;-9999;1;227;399;542;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+470;Is-Pistis;-;Monte-Socru;Monte-Socru, Is-Pistis;SardegnaDomain;SAN GIOVANNI SUERGIU;CA;SARDEGNA;459;8.55057;39.07609;474;6.1;-9999;-9999;-9999;-9999;91;39;61;77;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+90;Istia;Istia;Ombrone;Ombrone, Istia;ToscanaDomain;GROSSETO;GR;TOSCANA;35;11.18722;42.77753;3340;15.9;64;350;400;500;144;500;632;1129;CF;Scala di deflusso;3;no;-0.061;-0.73;Regione Toscana, 2025
+-9999;La Bruna;La Bruna;Tatarena;Tatarena, La Bruna;TevereBasin;-;-;Lazio;-9999;12.71226;42.82339;225;4.3;-9999;110;150;230;-9999;9;16;35;CF;Scala di deflusso;2;no;0.808;<-1;2016
+-9999;La Stua;-;LaStua;LaStua, La Stua;FriuliDomain;-;-;-;-9999;11.94725;46.12996;27.61;1.7;-9999;-9999;-9999;-9999;-9999;28;47;62;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Lambrugo;Lambrugo;Lambro;Lambro, Lambrugo;PoBasin;-;-;-;-9999;9.2491;45.7631;152;3.6;-9999;140;200;280;-9999;26;40;59;CF;Scala di deflusso;4;no;-0.01;0.58;Regione Lombardia, 2014
+-9999;Lanzo;Stura di Lanzo;SturadiLanzo;SturadiLanzo, Lanzo;PoBasin;-;-;-;-9999;7.48134;45.2679;580.8;6.8;-9999;200;250;340;-9999;254;362;555;CF;Scala di deflusso;3;no;-0.01;0.36;ARPAPiemonte, 2018
+250;LAquila;-;Aternopescara;Aternopescara, LAquila;LiriDomain;L'AQUILA;AQ;ABRUZZO;395;13.36793;42.34982;530;6.5;-9999;-9999;-9999;-9999;-9999;117;187;244;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Lato;Fiume Lato;Lato;Lato, Lato;PugliaDomain;Palagiano;TA;PUGLIA;-9999;16.96464593;40.49932894;376;5.5;-9999;170;250;300;-9999;120;247;330;CF;Scala di deflusso;1;no;-0.94;-0.23;CF Regione Puglia, 2019
+-9999;Lavello;Torrente Arcidiaconata;Ofanto;Ofanto, Lavello;BasilicataDomain;Lavello;PZ;BASILICATA;-9999;15.72408332;41.00119999;135.75;3.4;-9999;230;260;310;-9999;92;133;-9999;CF;Scala di deflusso;3;si;-0.05;-0.19;CF Regione Puglia, 2018
+-9999;Lentini;-;Lentini;Lentini, Lentini;SiciliaDomain;Siracusa;SR;SICILIA;-9999;14.989;37.318;380;5.5;-9999;-9999;-9999;-9999;104;205;322;403;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+49;Licata;Imera Merid. a Stretto di Lica;Salso;Salso, Licata;SiciliaDomain;Licata;AG;Sicilia;5;13.9315;37.1159;1800;11.7;68;-9999;-9999;-9999;105;511;734;873;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Lodi;Lodi;Adda;Adda, Lodi;PoBasin;-;-;-;-9999;9.5085;45.3192;5416;20.1;-9999;0;90;170;-9999;593;934;1154;CF;Scala di deflusso;3;no;0.64;<-1;Regione Lombardia, 2019
+-9999;Loreto Aprutino;-;Saline;Saline, Loreto Aprutino;LiriDomain;-;-;ABRUZZO;-9999;13.93583;42.42167;195;4.0;-9999;150;200;250;-9999;89;141;184;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Lucito;Lucito;Biferno;Biferno, Lucito;VolturnoDomain;-;-;-;-9999;14.7;41.72;677;7.3;-9999;240;380;430;-9999;75;206;265;CF;Scala di deflusso;2;no;-0.06;0.37;CF Regione Molise, 2021
+0;Lugo di Vicenza;Lugo di Vicenza;Bacchiglione;Bacchiglione, Lugo di Vicenza;AdigeDomain;-;-;VENETO;54;11.52318;45.74026;620;7.0;-9999;40;90;110;159;373;497;621;CF;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Lunghezza;Aniene a Lunghezza;Aniene;Aniene, Lunghezza;TevereBasin;-;-;Lazio;-9999;12.6642;41.9256;1015;8.9;-9999;300;450;500;-9999;52;105;132;CF;Scala di deflusso;3;si;-0.014;0.57;CF Regione Lazio, 2018
+-9999;Maccarese;Arrone a Maccarese;Arrone;Arrone, Maccarese;LazioDomain;-;-;Lazio;-9999;12.2378;41.8847;270;4.7;-9999;150;250;400;-9999;39;83;117;CF;Scala di deflusso;2;si;-0.01;-0.84;CF Regione Lazio, 2020
+-9999;Macchiascandona;Macchiascandona;Bruna;Bruna, Macchiascandona;ToscanaDomain;-;-;TOSCANA;-9999;11.0006;42.8069;590;6.8;-9999;250;300;400;-9999;16;45;178;CF;Scala di deflusso;3;no;-0.154;<-1;Regione Toscana, 2025
+-9999;MadonnadellUccelletto;Madonna dell'Uccelletto;Nera;Nera, MadonnadellUccelletto;MarcheDomain;-;-;-;-9999;13.11;42.94;39;1.9;-9999;-9999;40;70;-9999;24;41;55;Statistica;Scala di deflusso;1;no;0.02;<-1;Regione Marche, 2021
+77;Madrisio;Madrisio;Tagliamento;Tagliamento, Madrisio;FriuliDomain;VARMO;UD;FRIULI VENEZIA GIULIA;56;12.98133;45.85425;2450;13.6;65;200;460;540;47;3315;5433;6979;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Manerbio;Manerbio;Mella;Mella, Manerbio;PoBasin;-;-;-;-9999;10.1453;45.3599;693;7.4;-9999;250;320;380;-9999;85;130;169;CF;Scala di deflusso;3;no;-0.3;-0.25;Regione Lombardia, 2014
+57;Maraone;Maraone;Aternopescara;Aternopescara, Maraone;LiriDomain;Popoli;PE;Abruzzo;16;13.8365;42.177;1950;12.2;67;120;140;180;3;353;509;628;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+187;Marcaria;Marcaria;Oglio;Oglio, Marcaria;PoBasin;MARCARIA;MN;LOMBARDIA;50;10.53144;45.11469;5780;20.8;67;320;430;550;65;237;352;490;CF;Scala di deflusso;4;no;-0.191;<-1;ARPA Lombardia, 2016
+146;Marceddi;-;Montevecchio;Montevecchio, Marceddi;SardegnaDomain;TERRALBA;OR;SARDEGNA;453;8.50817;39.71948;588;6.8;65;-9999;-9999;-9999;94;67;106;134;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Marinella;Marinella;Belice;Belice, Marinella;SiciliaDomain;-;-;SICILIA;-9999;12.87;37.61;871.32;8.2;-9999;-9999;-9999;-9999;-9999;233;365;457;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Marmore;-;Velino;Velino, Marmore;TevereBasin;-;-;Umbria;-9999;12.7235;42.5425;2284;13.2;-9999;-9999;-9999;-9999;-9999;153;269;368;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Marsciano;Marsciano;Nestore;Nestore, Marsciano;TevereBasin;-;-;Lazio;-9999;12.3344;42.9144;690;7.3;-9999;190;230;320;-9999;94;133;263;CF;Scala di deflusso;2;no;0;<-1;CF Umbria, 2018
+-9999;Marsiliana;-;Albenga;Albenga, Marsiliana;LazioDomain;-;-;Lazio;-9999;11.3492;42.5436;135;3.4;-9999;450;600;-9999;-9999;106;175;221;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Marzolara;Marzolara;Baganza;Baganza,Marzolara;PoBasin;-;-;-;-9999;10.17;44.64;129;3.3;-9999;150;180;220;-9999;136;190;262;CF;Scala di deflusso;2;no;-9999;-9999;ARPA Emilia Romagna,2018
+71;Masio;Masio;Tanaro;Tanaro, Masio;PoBasin;MASIO;AL;PIEMONTE;45;8.41362;44.87185;4510;18.4;65;370;500;520;83;1172;1708;1797;CF;Scala di deflusso;2;no;-0.203;0.4;ARPAPiemonte, 2008
+11;Massa Colantonio;-;Trigno;Trigno, Massa Colantonio;VolturnoDomain;MONTENERO DI BISACCIA;CB;MOLISE;40;14.79285;42.05214;1210;9.6;71;-9999;-9999;-9999;72;376;529;636;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Masso degli Specchi;Masso degli Specchi;Cecina;Cecina, Masso degli Specchi;ToscanaDomain;-;-;-;-9999;10.953;43.302;122;3.2;-9999;100;150;250;-9999;18;25;82;CF;Scala di deflusso;3;no;0.09;0.27;Regione Toscana, 2025
+-9999;Meduna di Livenza;Meduna di Livenza;Livenza;Livenza, Meduna di Livenza;FriuliDomain;-;-;-;-9999;12.61;45.81;1734;11.5;-9999;-9999;-9999;-9999;-9999;1926;3157;4055;Statistica;Scala di deflusso;3;no;0.26;<-1;ARPAV, 2021
+-9999;Mercatale;Mercatale;Foglia;Foglia, Mercatale;MarcheDomain;-;-;-;-9999;12.46;43.76;158;3.6;-9999;-9999;-9999;-9999;-9999;50;86;116;Statistica;-9999;4;no;-0.44;0.44;Regione Marche, 2021
+-9999;Mercatello;Mercatello;Nestore;Nestore, Mercatello;TevereBasin;-;-;Lazio;-9999;12.2647;42.9744;440;5.9;-9999;200;290;450;-9999;49;81;185;CF;Scala di deflusso;2;no;-0.318;<-1;CF Umbria, 2018
+-9999;Merelli;Merelli;Argentina;Argentina, Merelli;LiguriaDomain;-;IM;LIGURIA;-9999;7.8476;43.8814;188;4.0;-9999;250;300;450;1;156;231;528;CF;Scala di deflusso;-9999;si;-9999;-9999;ARPAL, 2020
+-9999;Metauro 1;Metauro;Metauro;Metauro, Metauro 1;MarcheDomain;Montemaggiore al Metauro;PS;MARCHE;21;12.96747;43.76257;1310;10.0;67;250;300;380;-9999;126;219;449;CF;Scala di deflusso;2;si;-0.129;0.02;Regione Marche, 2021
+-9999;Mezzano;-;Lamone;Lamone, Mezzano;RomagnaDomain;-;-;-;-9999;12.0833;44.4694;620;7.0;-9999;450;600;750;-9999;147;247;327;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+246;Mezzocamino;Tevere a Mezzocamino;Tevere;Tevere, Mezzocamino;TevereBasin;ROMA;RM;LAZIO;37;12.41591;41.80538;16900;35.4;-9999;-9999;-9999;-9999;49;1647;2183;2364;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Migianella;Migianella;Niccone;Niccone, Migianella;TevereBasin;-;-;Lazio;-9999;12.2506;43.3044;135;3.4;-9999;220;310;430;-9999;40;71;122;CF;Scala di deflusso;4;no;-0.584;0.34;CF Umbria, 2018
+-9999;Milano;Milano Parco Feltre;Lambro;Lambro, Milano;PoBasin;-;-;-;-9999;9.2534;45.4764;336;5.2;-9999;200;250;300;-9999;66;93;111;CF;Scala di deflusso;4;no;-0.4;0.01;Regione Lombardia, 2018
+-9999;Mis;-;Mis;Mis, Mis;FriuliDomain;-;-;-;-9999;12.08287;46.16098;107.23;3.0;-9999;270;350;-9999;-9999;104;175;231;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Misa;Misa;Misa;Misa, Misa;MarcheDomain;-;-;MARCHE;-9999;13.16497;43.66254;334;5.2;-9999;220;270;350;-9999;23;44;107;CF;Scala di deflusso;3;si;-0.083;0.05;Regione Marche, 2021
+-9999;Mocaiana;Mocaiana;Tevere;Tevere, Mocaiana;TevereBasin;-;-;Umbria;-9999;12.4586;43.3711;82;2.7;-9999;130;180;300;-9999;25;45;117;CF;Scala di deflusso;4;si;-0.087;0.37;CF Umbria, 2018
+-9999;Moie;Moie;Esino;Esino, Moie;MarcheDomain;-;-;-;-9999;13.12;43.5;697;7.4;-9999;100;150;200;-9999;16;44;78;CF;Scala di deflusso;2;no;-0.57;<-1;Regione Marche, 2021
+-9999;Moio;Alcantara a Moio R2;Alcantara;Alcantara, Moio;SiciliaDomain;-;-;SICILIA;-9999;15.05;37.88;315.84;5.0;-9999;-9999;-9999;-9999;-9999;217;341;427;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Molina;Aterno a Molina;Aternopescara;Aternopescara, Molina;LiriDomain;-;-;ABRUZZO;-9999;13.74554;42.1392;1160;9.4;-9999;120;140;160;-9999;24;32;39;CF;Scala di deflusso;2;no;3.527;<-1;Arpa Abruzzo, 1994
+-9999;Molinetto;-;Leira;Leira, Molinetto;LiguriaDomain;-;-;LIGURIA;-9999;8.7463;44.4386;26;1.6;-9999;220;320;-9999;3;74;130;177;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Molino Branca;Molino Branca;Centa;Centa, Molino Branca;LiguriaDomain;Savona;SV;LIGURIA;-9999;8.21278;44.04917;432;5.9;-9999;350;400;480;1;578;769;1134;CF;Scala di deflusso;-9999;no;-9999;-9999;ARPAL, 2018
+-9999;Montalto di Castro;Fiora a Montalto di Castro;Fiora;Fiora, Montalto di Castro;LazioDomain;-;-;Lazio;-9999;11.5958;42.3517;780;7.8;-9999;700;850;950;-9999;127;238;308;CF;Scala di deflusso;2;si;-0.048;0.62;CF Regione Lazio, 2018
+-9999;Monte Diga;-;Turano;Turano, Monte Diga;TevereBasin;-;-;Lazio;-9999;12.94180556;42.23327778;445;5.9;-9999;-9999;-9999;-9999;-9999;70;132;187;Statistica;Modello rilascio diga;-9999;no;-9999;-9999;N.D.
+-9999;Monte Diga;-;Salto;Salto, Monte Diga;TevereBasin;-;-;Lazio;-9999;13.02775;42.28238889;805;7.9;-9999;-9999;-9999;-9999;-9999;71;133;190;Statistica;Modello rilascio diga;-9999;no;-9999;-9999;N.D.
+138;Monte Molino;Monte Molino 2;Tevere;Tevere, Monte Molino;TevereBasin;TODI;PG;UMBRIA;37;12.3881;42.79864;4850;19.1;64;510;600;690;151;501;646;808;CF;Scala di deflusso;4;si;-0.09;0.74;CF Umbria, 2018
+-9999;Monte S.Quirico;Monte San Quirico;Serchio;Serchio, Monte S.Quirico;ToscanaDomain;-;-;-;-9999;10.51;43.86;1203;9.6;-9999;100;150;280;-9999;347;495;1433;CF;Scala di deflusso;4;no;-0.01;0.29;Regione Toscana, 2025
+243;Montecastello Siap;Montecastello SIAP;Tanaro;Tanaro, Montecastello Siap;PoBasin;PIETRA MARAZZI;AL;PIEMONTE;45;8.68934;44.94319;7853;24.2;0;570;670;724;0;1765;2133;2331;CF;Scala di deflusso;4;no;0.144;-0.08;ARPAPiemonte, 2018
+165;Montegalda;Montegalda;Bacchiglione;Bacchiglione, Montegalda;AdigeDomain;MONTEGALDA;VI;VENETO;54;11.67483;45.43975;1410;10.4;67;300;500;650;159;170;265;337;CF;Scala di deflusso;3;si;0.69;0.24;ARPAV, 2021
+-9999;Montepiediluco;-;Medionera;Medionera, Montepiediluco;TevereBasin;-;-;Umbria;-9999;12.7537;42.538;1.38;0.6;-9999;-9999;-9999;-9999;-9999;8;14;20;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Montepiediluco;-;Fuscello;Fuscello, Montepiediluco;TevereBasin;-;-;Umbria;-9999;12.7628;42.5327;70;2.5;-9999;-9999;-9999;-9999;-9999;6;12;18;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+122;Montevarchi;Montevarchi;Arno;Arno, Montevarchi;ToscanaDomain;MONTEVARCHI;AR;TOSCANA;18;11.56604;43.54125;2880;14.7;64;350;400;500;124;394;535;885;CF;Scala di deflusso;-9999;no;-9999;-9999;Regione Toscana, 2025
+-9999;Monteverde;Ofanto Monteverde S.;Ofanto;Ofanto, Monteverde;BasilicataDomain;Monteverde Scalo;AV;CAMPANIA;-9999;15.56288336;40.96538335;1090;9.2;-9999;160;360;470;-9999;149;502;842;CF;Scala di deflusso;3;si;-0.004;0.58;CF Regione Puglia, 2018
+-9999;Monticelli;Monticelli;Tevere;Tevere, Monticelli;TevereBasin;-;-;Umbria;-9999;12.2583;43.0139;220;4.3;-9999;310;450;550;-9999;48;87;126;CF;Scala di deflusso;2;si;0.09;0.54;CF Umbria, 2018
+-9999;Montone;Montone;Carpina;Carpina, Montone;TevereBasin;-;-;Lazio;-9999;12.3194;43.325;132;3.4;-9999;-9999;-9999;-9999;-9999;45;86;122;Statistica;Scala di deflusso;3;no;-0.017;<-1;2016
+289;Montorio;Vomano a Montorio;Vomano;Vomano, Montorio;LiriDomain;MONTORIO AL VOMANO;TE;ABRUZZO;305;13.62517;42.58;300;4.9;-9999;0;50;120;1;182;290;379;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Monzambano;Monzambano;Mincio;Mincio, Monzambano;PoBasin;-;-;-;-9999;10.7063;45.3924;2337;13.3;-9999;150;200;250;-9999;69;111;161;CF;Scala di deflusso;2;no;0.48;<-1;Regione Lombardia, 2014
+-9999;Morrano;Morrano;Tevere;Tevere, Morrano;TevereBasin;-;-;Lazio;-9999;12.12591;42.75891;322;5.1;-9999;250;340;440;-9999;145;271;456;CF;Scala di deflusso;2;si;-0.21;0.79;CF Umbria, 2018
+-9999;Murialdo;Murialdo;Bormida;Bormida, Murialdo;LiguriaDomain;-;-;LIGURIA;-9999;8.15958;44.31334;132;3.4;-9999;150;200;250;2;81;155;262;CF;Scala di deflusso;2;si;-0.198;0.88;ARPAL, 2018
+-9999;Musone;Musone;Musone;Musone, Musone;MarcheDomain;-;-;MARCHE;-9999;13.38844;43.4756;178;3.9;-9999;130;180;229;-9999;14;27;41;CF;Scala di deflusso;4;si;-0.196;0;Regione Marche, 2021
+-9999;Mutigliano;Mutigliano;Serchio;Serchio, Mutigliano;ToscanaDomain;-;-;-;-9999;10.484;43.882;38;1.9;-9999;100;150;250;-9999;18;26;76;CF;Scala di deflusso;3;no;-0.04;0.4;Regione Toscana, 2025
+466;N125;-;Sangiorgio;Sangiorgio, N125;SardegnaDomain;TERTENIA;NU;SARDEGNA;465;9.5878;39.57572;114;3.1;-9999;-9999;-9999;-9999;95;64;104;134;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Nasceto;Nasceto 1;Vara;Vara, Nasceto;LiguriaDomain;-;SP;LIGURIA;-9999;9.65982;44.27796;202;4.1;63;400;450;550;5;185;255;417;CF;Scala di deflusso;4;si;-0.192;0.84;ARPAL, 2020
+-9999;Nave di Rosano;Nave di Rosano Monte;Arno;Arno, Nave di Rosano;ToscanaDomain;-;-;-;-9999;11.423;43.771;4292;17.9;-9999;350;400;550;-9999;656;788;1373;CF;Scala di deflusso;3;no;-9999;-9999;Regione Toscana, 2025
+-9999;Nazzano;-;Tevere;Tevere, Nazzano;TevereBasin;-;-;Lazio;-9999;12.6361;42.1514;14228;32.5;-9999;-9999;-9999;-9999;-9999;1500;1988;2153;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9997;Nevola;Nevola;Nevola;Nevola, Nevola;MarcheDomain;-;-;MARCHE;-9999;13.0769;43.63852;120;3.2;-9999;170;220;270;-9999;14;37;69;CF;Scala di deflusso;2;si;-0.504;0.13;Regione Marche, 2021
+413;NoceraTerinese SS106;Nocera Terinese SS 106;Savuto;Savuto, NoceraTerinese SS106;CalabriaDomain;MARTIRANO;CZ;CALABRIA;328;16.1014;39.0325;380;5.5;-9999;-9999;-9999;-9999;-9999;259;351;408;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+462;Olbia;Rio Padrongianu - SS125;Padrociano;Padrociano, Olbia;SardegnaDomain;OLBIA;SS;SARDEGNA;463;9.54174;40.90519;439;5.9;-9999;-9999;-9999;-9999;97;200;318;400;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Olginate;S.Maria Lavello;Adda;Adda, Olginate;PoBasin;-;-;-;-9999;9.43;45.7879;4103;17.5;-9999;330;370;470;-9999;412;505;775;CF;Scala di deflusso;2;no;-0.12;<-1;Regione Lombardia, 2019
+144;Onifai;Onifai;Flumineddu;Flumineddu, Onifai;SardegnaDomain;GALTELLI;NU;SARDEGNA;454;9.65184;40.39836;1060;9.0;80;-9999;-9999;-9999;95;678;1051;1301;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ordona;Torrente Carapelle a Ponte Ordona;Carapelle;Carapelle, Ordona;BasilicataDomain;Ordona;FG;PUGLIA;-9999;15.60073335;41.29739998;545.5;6.6;-9999;250;290;390;-9999;98;154;310;CF;Scala di deflusso;4;si;-0.009;0.51;CF Regione Puglia, 2024
+180;Orio Litta;Orio Litta;Lambro;Lambro, Orio Litta;PoBasin;CHIGNOLO PO;PV;LOMBARDIA;139;9.53222;45.16583;1670;11.3;70;-9999;-9999;-9999;63;243;366;455;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+147;Oristano;Tirso a Sili;Tirso;Tirso, Oristano;SardegnaDomain;ORISTANO;OR;SARDEGNA;-9999;8.60343;39.91744;3300;15.8;71;-9999;-9999;-9999;94;237;294;332;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;OrteScalo;Tevere a Orte Scalo;Tevere;Tevere, OrteScalo;TevereBasin;-;-;-;-9999;12.41;42.44;12667;30.6;-9999;400;600;700;-9999;1405;1863;2017;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+86;Orvieto Scalo;Orvieto Scalo;Carcaione;Carcaione, Orvieto Scalo;TevereBasin;ORVIETO;TR;UMBRIA;37;12.1336;42.72314;1340;10.1;63;360;580;800;151;250;592;1412;CF;Scala di deflusso;4;si;-0.194;0.05;CF Umbria, 2018
+-9999;Ostia Parmense;Borgotaro;Taro;Taro, Ostia Parmense;PoBasin;-;-;-;-9999;9.84;44.51;384;5.5;-9999;300;440;-9999;-9999;352;667;-9999;CF;Scala di deflusso;3;no;-0.44;0.7;ARPA Emilia Romagna, 2018
+186;Ostiano;Ostiano;Oglio;Oglio, Ostiano;PoBasin;GABBIONETA-BINANUOVA;CR;LOMBARDIA;50;10.24249;45.21865;3810;16.9;68;250;350;500;65;329;420;563;CF;Scala di deflusso;4;no;-0.134;<-1;ARPA Lombardia, 2016
+4;Paglieta;Sangro a Paglieta;Sangro;Sangro, Paglieta;LiriDomain;FOSSACESIA;CH;ABRUZZO;17;14.51235;42.20977;1710;11.4;68;190;250;350;3;84;162;476;CF;Scala di deflusso;2;no;-0.32;-0.57;Arpa Abruzzo, 1994
+-9999;Palazzetta;Palazzetta;Tevere;Tevere, Palazzetta;TevereBasin;-;-;Lazio;-9999;12.2914;42.9694;82;2.7;-9999;210;250;390;-9999;29;38;82;CF;Scala di deflusso;2;si;-0.356;0.06;CF Umbria, 2018
+397;Palazzo;-;Amato;Amato, Palazzo;CalabriaDomain;LAMEZIA TERME;CZ;CALABRIA;-9999;16.27754;38.89684;440;5.9;-9999;160;200;-9999;-9999;297;403;468;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Pale;Pale;Menotre;Menotre, Pale;TevereBasin;-;-;Lazio;-9999;12.7917;42.9833;190;4.0;-9999;80;100;140;-9999;7;10;19;CF;Scala di deflusso;2;no;0.625;<-1;CF Umbria, 2018
+175;Palestro;Palestro a Vercelli SIAP;Sesia;Sesia, Palestro;PoBasin;PALESTRO;PV;LOMBARDIA;42;8.50967;45.2996;2460;13.6;72;370;420;520;63;1309;1743;2610;CF;Scala di deflusso;4;no;-0.205;0.66;ARPA Lombardia, 2008 - ARPA Piemonte, 2018
+-9999;Panesi;Panesi;Entella;Entella, Panesi;LiguriaDomain;-;GE;LIGURIA;-9999;9.35611;44.34222;364;5.4;-9999;230;280;390;5;489;608;907;CF;Scala di deflusso;4;si;-0.074;0.81;ARPAL, 2020
+416;Papasidero;-;Lao;Lao, Papasidero;CalabriaDomain;PAPASIDERO;CS;CALABRIA;324;15.89869;39.86563;410;5.7;-9999;-9999;-9999;-9999;18;196;266;308;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Parco;Oreto a Parco;Oreto;Oreto, Parco;SiciliaDomain;-;PA;SICILIA;-9999;13.30333;38.06583;70;2.5;-9999;265;-9999;-9999;107;39;64;82;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Passerella Firpo;Genova-Firpo;Bisagno;Bisagno, Passerella Firpo;LiguriaDomain;Genova;GE;LIGURIA;-9999;8.95389;44.41083;93;2.9;-9999;200;250;420;3;138;240;712;CF;Scala di deflusso;3;si;-0.177;0.71;ARPAL, 2020
+56;Passofonduto;Platani a Passofonduto;Platani;Platani, Passofonduto;SiciliaDomain;Campofranco;CL;SICILIA;26;13.6825;37.4917;1230;9.7;72;80;130;190;105;292;420;499;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Peregallo;Peregallo;Lambro;Lambro, Peregallo;PoBasin;-;-;-;-9999;9.299;45.6351;248;4.5;-9999;120;170;220;-9999;48;78;96;CF;Scala di deflusso;3;no;-0.1;0.23;Regione Lombardia, 2018
+-9999;Persano Sele;Persano Sele;Sele;Sele, Persano Sele;BasilicataDomain;EBOLI;SA;CAMPANIA;-9999;15.03086;40.53829;2300;13.2;-9999;400;450;500;-9999;122;144;168;CF;Scala di deflusso;1;no;0.747;<-1;Arpa Campania, 1993
+-9999;Persico;Persico;Savuto;Savuto,Persico;CalabriaDomain;-;-;CALABRIA;-9999;16.22;39.09;252;4.5;-9999;-9999;-9999;-9999;-9999;198;269;312;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+217;Pescantina;Pescantina;Adige;Adige, Pescantina;AdigeDomain;PESCANTINA;VR;VENETO;51;10.8563;45.47764;5100;19.5;-9999;-9999;-9999;-9999;147;2233;2882;3145;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+46;Pescara Porto;-;Aternopescara;Aternopescara, Pescara Porto;LiriDomain;Pescara;PE;ABRUZZO;16;14.2223;42.4639;3150;15.4;68;-9999;-9999;-9999;0;632;809;905;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+188;Peschiera Navigarda;-;Mincio;Mincio, Peschiera Navigarda;PoBasin;PESCHIERA DEL GARDA;VR;VENETO;53;10.69788;45.44064;2220;13.0;72;-9999;-9999;-9999;157;457;687;854;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Petrignano;Petrignano;Chiascio;Chiascio, Petrignano;TevereBasin;-;-;Lazio;-9999;12.5361;43.1;570;6.7;-9999;375;400;435;-9999;91;130;183;CF;Scala di deflusso;3;no;-0.448;0.26;CF Umbria, 2018
+-9999;Piacenza;Piacenza;Po;Po, Piacenza;PoBasin;-;-;-;-9999;9.71;45.06;42030;55.6;-9999;500;600;700;-9999;4255;5447;6680;CF;Scala di deflusso;4;no;0.01;0.07;ARPA Emilia Romagna, 2018
+206;Piaggione;Piaggione;Serchio;Serchio, Piaggione;ToscanaDomain;LUCCA;LU;TOSCANA;29;10.50352;43.9434;1150;9.4;63;630;680;885;115;1340;1509;2254;CF;Scala di deflusso;-9999;no;-9999;-9999;Regione Toscana, 2019
+-9999;Pian Casere;-;Borleggia;Borleggia, Pian Casere;PoBasin;-;-;-;-9999;9.78734;45.99875;8.9;1.1;-9999;-9999;-9999;-9999;-9999;4;6;8;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Piana Crixia;Piana Crixia;Bormida;Bormida, Piana Crixia;LiguriaDomain;-;-;LIGURIA;-9999;8.31017;44.48368;270;4.7;-9999;400;500;530;2;235;336;366;CF;Scala di deflusso;3;si;-0.523;0.09;ARPAL, 2018
+139;Pierantonio;Pierantonio;Tevere;Tevere, Pierantonio;TevereBasin;Perugia;PG;Umbria;37;12.3926;43.2404;1740;11.5;63;400;510;660;149;225;363;594;CF;Scala di deflusso;3;si;-0.174;0.42;CF Umbria, 2018
+-9999;Pieris;Pieris;Isonzo;Isonzo, Pieris;FriuliDomain;-;-;FRIULI VENEZIA GIULIA;-9999;13.4298;45.80525;1130;9.3;-9999;560;630;700;-9999;752;1232;1582;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Pieve di Cadore;-;Piave;Piave, Pieve di Cadore;FriuliDomain;-;-;-;-9999;12.38737;46.42249;815.3;8.0;-9999;-9999;-9999;-9999;-9999;300;500;650;CF;-9999;-9999;no;-9999;-9999;ARPAV
+-9999;Pievepelago;Pievepelago Idro;Scoltenna;Scoltenna, Pievepelago;PoBasin;-;-;-;-9999;10.6306;44.2153;166;3.7;-9999;230;300;450;-9999;70;91;136;CF;Scala di deflusso;3;no;-9999;-9999;ARPA Emilia Romagna, 2018
+159;Pioppa;Pioppa;Secchia;Secchia, Pioppa;PoBasin;NOVI DI MODENA;MO;EMILIA ROMAGNA;24;10.96492;44.85677;1560;10.9;69;780;960;1100;42;138;234;335;CF;Scala di deflusso;2;no;-0.469;0.19;ARPA Lombardia, 2016
+-9999;Pistrino;Pistrino;Tevere;Tevere, Pistrino;TevereBasin;-;-;Lazio;-9999;12.1608;43.4967;100;3.0;-9999;310;370;490;-9999;56;73;110;CF;Scala di deflusso;4;si;-0.26;0.42;CF Umbria, 2018
+-9999;Pittinuri;-;RiuSantaCaterina;RiuSantaCaterina, Pittinuri;SardegnaDomain;-;-;SARDEGNA;-9999;8.51;40.13;21.4;1.5;-9999;-9999;-9999;-9999;-9999;12;19;24;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+207;Pizzighettone;Pizzighettone;Adda;Adda, Pizzighettone;PoBasin;PIZZIGHETTONE;CR;LOMBARDIA;49;9.7792;45.1869;7260;23.3;-9999;80;150;210;63;731;1010;1253;CF;Scala di deflusso;3;no;-0.398;0.18;ARPA Lombardia, 2016
+-9999;Pizzo SS18;Pizzo SS 18;Scuotrapiti;Scuotrapiti, Pizzo SS18;CalabriaDomain;-;-;CALABRIA;-9999;16.2142;38.7667;170;3.8;-9999;-9999;-9999;-9999;-9999;153;218;262;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Poggio a Caiano;Poggio a Caiano;Arno;Arno, Poggio a Caiano;ToscanaDomain;-;-;-;-9999;11.061;43.815;422;5.8;-9999;350;400;500;-9999;83;105;150;CF;Scala di deflusso;2;no;0.35;<-1;Regione Toscana, 2025
+-9999;Pogli dOrtovero;Pogli d'Ortovero idrometro;Arroscia;Arroscia, Pogli dOrtovero;LiguriaDomain;Savona;SV;LIGURIA;-9999;8.06389;44.05444;202;4.1;-9999;300;350;500;1;227;301;552;CF;Scala di deflusso;3;si;-0.261;0.8;ARPAL, 2020
+43;Policoro;Agri SS106;Agri;Agri, Policoro;BasilicataDomain;Policoro;MT;Basilicata;27;16.6906;40.224;1710;11.4;66;350;400;450;8;405;548;721;CF;Scala di deflusso;3;si;-0.51;0.61;Letteratura, 2020
+105;Pollein;Pollein Dora Baltea;Dorabaltea;Dorabaltea, Pollein;PoBasin;POLLEIN;AO;VALLE D'AOSTA;32;7.35995;45.73556;1830;11.8;79;250;300;400;152;235;359;713;CF;Scala di deflusso;0;no;-0.731;<-1;N.D.
+-9999;Polonghera;'Polonghera Varaita';Varaita;Varaita,Polonghera;PoBasin;-;-;-;-9999;7.6;44.8;598;6.9;-9999;230;280;380;-9999;115;145;204;CF;Scala di deflusso;2;no;-9999;-9999;Arpa Piemonte,2019
+-9999;Ponte a Elsa;Ponte a Elsa;Arno;Arno, Ponte a Elsa;ToscanaDomain;-;-;TOSCANA;-9999;10.89638;43.68929;860;8.2;-9999;250;300;400;-9999;102;143;265;CF;Scala di deflusso;3;no;-0.017;<-1;Regione Toscana, 2025
+-9999;Ponte a Signa;Ponte a Signa;Arno;Arno, Ponte a Signa;ToscanaDomain;-;-;-;-9999;11.093;43.773;5214;19.7;-9999;450;500;750;-9999;816;936;1558;CF;Scala di deflusso;3;no;-0.26;0.33;Regione Toscana, 2025
+-9999;Ponte Alto;Ponte Alto;Secchia;Secchia, Ponte Alto;PoBasin;-;-;-;-9999;10.9;44.67;1368;10.2;-9999;500;800;1000;-9999;75;177;333;CF;Scala di deflusso;3;no;-0.29;0.71;ARPA Emilia Romagna, 2018
+1;Ponte Annibale;Ponte Annibale;Volturno;Volturno, Ponte Annibale;VolturnoDomain;Capua;CE;Campania;14;14.2564;41.1316;5520;20.3;65;800;850;940;21;1200;1687;2028;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte Belice;Belice a Ponte Belice;Belice;Belice, Ponte Belice;SiciliaDomain;CASTELVETRANO;TP;SICILIA;76;12.94278;37.71194;750;7.6;-9999;130;190;240;110;208;325;407;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+48;Ponte Besaro;-;Salso;Salso, Ponte Besaro;SiciliaDomain;Pietraperzia;EN;SICILIA;5;14.0855;37.4332;890;8.3;71;160;295;430;105;307;481;603;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte Brogliano;Ponte Brogliano;Agno;Agno, Ponte Brogliano;AdigeDomain;-;-;-;-9999;11.3698;45.5901;127;3.3;-9999;40;100;170;-9999;15;60;141;CF;Scala di deflusso;3;si;0.45;0.77;ARPAV, 2021
+-9999;Ponte Buggianino;Ponte Buggianino;Nera;Nera, Ponte Buggianino;TevereBasin;-;-;Lazio;-9999;12.9492;42.8386;390;5.6;-9999;120;150;180;-9999;5;11;20;CF;Scala di deflusso;3;no;0.869;<-1;CF Umbria, 2018
+-9999;Ponte Campia;Ponte di Campia;Serchio;Serchio, Ponte Campia;ToscanaDomain;-;-;TOSCANA;-9999;10.45322;44.0904;460;6.0;-9999;250;300;575;-9999;282;540;2745;CF;Scala di deflusso;-9999;no;-9999;-9999;Regione Toscana, 2019
+-9999;Ponte Cene;Ponte Cene;Serio;Serio, Ponte Cene;PoBasin;-;-;-;-9999;9.8219;45.7848;436;5.9;-9999;80;170;200;-9999;130;266;311;CF;Scala di deflusso;3;no;-9999;-9999;Regione Lombardia, 2015
+244;Ponte della Liberta;Pavia-Ponte Liberta';Ticino;Ticino, Ponte della Liberta;PoBasin;PAVIA;PV;LOMBARDIA;436;9.1461;45.18066;3850;17.0;-9999;-9999;-9999;-9999;63;1786;2436;2763;Statistica;Scala di deflusso;4;no;-0.07;<-1;Regione Lombardia, 2018
+-9999;Ponte di Scandicci;Scandicci;Arno;Arno, Ponte di Scandicci;ToscanaDomain;-;-;-;-9999;11.194;43.755;257;4.6;-9999;150;200;315;-9999;109;156;345;CF;Scala di deflusso;2;no;0.07;<-1;Regione Toscana, 2025
+69;Ponte Felcino;Ponte Felcino;Tevere;Tevere, Ponte Felcino;TevereBasin;Perugia;PG;Umbria;37;12.4403;43.127;2080;12.6;63;410;480;600;149;358;470;718;CF;Scala di deflusso;3;si;-0.07;0.52;CF Umbria, 2018
+-9999;Ponte Felice;Tevere a Ponte Felice;Tevere;Tevere, Ponte Felice;TevereBasin;-;-;Lazio;-9999;12.4606;42.3472;12380;30.3;-9999;350;500;1000;-9999;280;465;1666;CF;Scala di deflusso;3;no;0.396;0.51;CF Regione Lazio, 2018
+-9999;Ponte Ferrovia FIRoma;Ponte Ferrovia FI-Roma;Arno;Arno, Ponte Ferrovia FIRoma;ToscanaDomain;-;-;-;-9999;11.824;43.467;1531;10.8;-9999;200;250;300;-9999;133;187;241;CF;Scala di deflusso;3;no;-9999;-9999;Regione Toscana, 2025
+-9999;Ponte Giarretta;Simeto a Ponte Giarretta (ex);Simeto;Simeto, Ponte Giarretta;SiciliaDomain;-;CT;SICILIA;4;14.89806;37.46278;1640;11.2;72;240;380;460;103;526;756;899;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte La Marmora;Grumento-Ponte La Marmora;Agri;Agri, Ponte La Marmora;BasilicataDomain;-;-;-;-9999;15.8433;40.3083;256;4.6;-9999;300;350;400;-9999;78;111;151;CF;Scala di deflusso;3;no;-9999;-9999;Letteratura, 2020
+460;Ponte Liscia;-;Liscia;Liscia, Ponte Liscia;SardegnaDomain;PALAU;SS;SARDEGNA;461;9.3153;41.16358;553;6.6;-9999;-9999;-9999;-9999;97;79;125;158;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte Mammolo;Aniene a Ponte Mammolo;Aniene;Aniene, Ponte Mammolo;TevereBasin;-;-;Lazio;-9999;12.5683;41.9231;1360;10.2;-9999;350;450;600;-9999;116;195;350;CF;Scala di deflusso;3;no;-0.147;0.23;CF Regione Lazio, 2018
+0;Ponte Marchese;Ponte Marchese;Bacchiglione;Bacchiglione, Ponte Marchese;AdigeDomain;-;-;VENETO;54;11.53472;45.5817;282;4.8;-9999;100;220;320;159;206;275;344;CF;-9999;-9999;no;-9999;-9999;N.D.
+9;Ponte Margherita;-;Volturno;Volturno, Ponte Margherita;VolturnoDomain;ALIFE;CE;CAMPANIA;14;14.31902;41.29278;1500;10.7;62;-9999;-9999;-9999;23;312;439;528;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte Mas;Ponte Mas;Cordevole;Cordevole, Ponte Mas;FriuliDomain;-;-;-;-9999;12.12;46.16;696;7.4;-9999;396;527;659;-9999;400;600;800;CF;Scala di deflusso;2;no;-0.12;0.23;ARPAV
+140;Ponte Nuovo;Ponte Nuovo di Torg.;Tevere;Tevere, Ponte Nuovo;TevereBasin;DERUTA;PG;UMBRIA;37;12.41934;43.00763;3820;16.9;65;450;570;660;151;390;598;777;CF;Scala di deflusso;4;no;-0.092;0.35;CF Umbria, 2018
+-9999;Ponte Osteria;Ponte Osteria;Tevere;Tevere, Ponte Osteria;TevereBasin;-;-;Lazio;-9999;12.0556;42.8728;278;4.8;-9999;270;380;580;-9999;42;109;325;CF;Scala di deflusso;3;si;-0.291;0.63;CF Umbria, 2018
+194;Ponte Piave;Ponte di Piave;Piave;Piave, Ponte Piave;FriuliDomain;PONTE DI PIAVE;TV;VENETO;55;12.45801;45.71104;4130;17.6;65;490;700;950;160;727;1150;1733;CF;Scala di deflusso;-9999;no;0.374;<-1;ARPAV
+-9999;Ponte Rosciano;Ponte Rosciano;Tevere;Tevere, Ponte Rosciano;TevereBasin;-;-;Umbria;-9999;12.4422;43.0211;1800;11.7;-9999;450;540;600;-9999;256;514;733;CF;Scala di deflusso;2;si;-0.095;0.76;CF Umbria, 2018
+399;Ponte S.Francesco;-;Esaro;Esaro, Ponte S.Francesco;CalabriaDomain;CROTONE;KR;CALABRIA;-9999;17.1067;39.0692;80;2.7;-9999;-9999;-9999;-9999;-9999;41;59;71;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+54;Ponte Salario;Ponte Salario;Aniene;Aniene, Ponte Salario;TevereBasin;Roma;RM;Lazio;37;12.5104;41.9437;1543;10.9;64;250;500;700;49;168;295;403;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte Samone;Ponte Samone;Panaro;Panaro,Ponte Samone;PoBasin;-;-;-;-9999;10.92;44.36;584;6.8;-9999;100;160;200;-9999;310;470;577;CF;Scala di deflusso;2;no;-9999;-9999;ARPA Emilia Romagna,2017
+-9999;Ponte Serra;-;Cismon;Cismon, Ponte Serra;AdigeDomain;-;-;-;-9999;11.76277;46.03167;492;6.2;-9999;-9999;-9999;-9999;-9999;339;520;648;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ponte SMaria;Ponte S.Maria;Tevere;Tevere, Ponte SMaria;TevereBasin;-;-;Lazio;-9999;12.0208;42.8961;128;3.3;-9999;320;400;530;-9999;20;35;70;CF;Scala di deflusso;2;no;-0.01;0.61;CF Umbria, 2018
+-9999;Ponte Verdi;Parma Ponte Verdi;Parma;Parma, Ponte Verdi;PoBasin;-;-;-;-9999;10.3251;44.8067;600;6.9;-9999;180;230;300;-9999;154;259;407;CF;Scala di deflusso;2;no;-0.28;0.7;ARPA Emilia Romagna, 2018
+126;Ponteadige;Ponte Adige;Adige;Adige, Ponteadige;AdigeDomain;Bolzano;BZ;Trentino;51;11.3084;46.4842;2550;13.9;77;-9999;-9999;-9999;147;403;598;726;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;PonteBarcaTraversa;Ponte Barca Traversa R2;Simeto;Simeto, PonteBarcaTraversa;SiciliaDomain;-;-;SICILIA;-9999;14.87;37.53;1730;11.5;-9999;-9999;-9999;-9999;-9999;518;743;884;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+238;Pontebecca Siap;-;Po;Po, Pontebecca Siap;PoBasin;MEZZANINO;PV;LOMBARDIA;44;9.22944;45.1389;33325;49.5;-9999;-9999;-9999;-9999;64;8108;11055;12542;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+151;PonteBradano;Ponte Bradano;Bradano;Bradano, PonteBradano;BasilicataDomain;BERNALDA;MT;BASILICATA;7;16.82395;40.41663;2980;15.0;69;-9999;-9999;-9999;7;461;780;1007;Statistica;Scala di deflusso;3;si;-0.02;<-1;Letteratura, 2020
+-9999;Pontecagnano;Pontecagnano;Picentino;Picentino, Pontecagnano;VolturnoDomain;-;-;-;-9999;14.87;40.65;123.05;3.2;-9999;-9999;-9999;-9999;-9999;82.85;130.56;165.32;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;PonteCaprafica;Caprafica;Trigno;Trigno, PonteCaprafica;VolturnoDomain;-;-;-;-9999;14.65;41.9;777;7.8;-9999;230;340;370;-9999;128;428;540;CF;Scala di deflusso;1;no;-0.1;-0.8;CF Regione Molise, 2021
+-9999;Pontecorvo;Liri a Pontecorvo;Liri;Liri, Pontecorvo;LiriDomain;-;-;-;-9999;13.6667;41.4508;3719.1168;16.7;-9999;400;600;800;-9999;325;539;811;CF;Scala di deflusso;3;si;0.16;0.7;CF Regione Lazio, 2020
+-9999;Pontedazzo;Pontedazzo;Metauro;Metauro, Pontedazzo;MarcheDomain;-;-;-;-9999;12.62;43.49;114;3.1;-9999;-9999;-9999;-9999;-9999;66;114;153;Statistica;-9999;3;no;-0.2;0.42;Regione Marche, 2021
+-9999;Pontedecimo;Genova - Pontedecimo;Polcevera;Polcevera, Pontedecimo;LiguriaDomain;-;-;-;-9999;8.9;44.49;52;2.2;-9999;230;280;420;-9999;337;497;1048;CF;Scala di deflusso;3;no;-0.04;0.38;Arpal, 2020
+-9999;PontedelGrillo;Ponte del Grillo;Tevere;Tevere, PontedelGrillo;TevereBasin;-;-;-;-9999;12.6;42.09;14679;33.0;-9999;500;600;700;-9999;606;870;1121;CF;-9999;-9999;no;-9999;-9999;CF Regione Lazio, 2022
+-9999;PonteFiumara;Campochiaro Quirino;Biferno;Biferno, PonteFiumara;VolturnoDomain;-;-;-;-9999;14.54;41.48;103;3.0;-9999;-9999;-9999;-9999;-9999;39;62;78;Statistica;Scala di deflusso;3;no;-0.99;-0.69;CF Regione Molise, 2021
+-9999;Pontelagoscuro;Pontelagoscuro;Po;Po, Pontelagoscuro;PoBasin;-;;Emilia Romagna;44;11.61525059;44.8879509;66476;69.9;-9999;50;130;250;-9999;4344;5032;6116;CF;Scala di deflusso;3;no;0.626;<-1;ARPA Emilia Romagna, 2020
+-9999;Pontelatrave;Pontelatrave;Chienti;Chienti, Pontelatrave;MarcheDomain;-;-;-;-9999;13.08;43.08;307;5.0;-9999;-9999;-9999;-9999;-9999;65;110;148;Statistica;-9999;4;no;4.86;<-1;Regione Marche, 2021
+-9999;Pontesei;-;Piave;Piave, Pontesei;FriuliDomain;-;-;-;-9999;12.22701;46.33623;151.45;3.6;-9999;-9999;-9999;-9999;-9999;118;199;262;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+104;Pontey;Pontey Dora Baltea;Dorabaltea;Dorabaltea, Pontey;PoBasin;CHATILLON;AO;VALLE D'AOSTA;32;7.61786;45.74243;2410;13.5;78;320;430;520;152;211;435;684;CF;Scala di deflusso;2;no;-0.403;<-1;N.D.
+-9999;Ponticelli;Ponticelli;Tevere;Tevere, Ponticelli;TevereBasin;-;-;Lazio;-9999;11.9658;42.9292;47;2.1;-9999;200;270;390;-9999;13;22;55;CF;Scala di deflusso;4;si;-0.18;0.53;CF Umbria, 2018
+-9999;Pontremoli-S.Giustina;Pontremoli-S.Giustina;Magra;Magra, Pontremoli-S.Giustina;LiguriaDomain;-;-;LIGURIA;-9999;9.89667;44.36195;152;3.6;-9999;90;140;210;5;220;390;709;CF;Scala di deflusso;3;no;-0.146;0.76;ARPAL, 2018
+-9999;PortaCartara;Porta Cartara;Tronto;Tronto, PortaCartara;MarcheDomain;-;-;-;-9999;13.57;42.85;150;3.6;-9999;-9999;-9999;-9999;-9999;42;73;98;Statistica;-9999;3;no;0.85;<-1;Regione Marche, 2021
+-9999;Porto Recanati;Porto Recanati;Potenza;Potenza, Porto Recanati;MarcheDomain;Recanati;-;MARCHE;-9999;13.65162;43.41521;770;7.7;-9999;290;340;380;-9999;89;117;148;CF;Scala di deflusso;2;si;0.021;<-1;Regione Marche, 2021
+-9999;Porto SantElpidio;Porto S.Elpidio;Tenna;Tenna, Porto SantElpidio;MarcheDomain;-;-;MARCHE;-9999;13.77223;43.23261;490;6.2;-9999;10;60;100;70;18;70;161;CF;Scala di deflusso;2;no;-0.608;-0.45;Regione Marche, 2021
+-9999;Porto Torres;Mannu di Porto Torres;Mannu;Mannu, Porto Torres;SardegnaDomain;-;-;SARDEGNA;-9999;8.3934;40.8382;610;6.9;-9999;110;170;250;-9999;93;147;185;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+450;Posada;-;Posada;Posada, Posada;SardegnaDomain;POSADA;NU;SARDEGNA;451;9.71111;40.63821;671;7.2;-9999;250;380;470;97;357;567;715;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Potenza 1;Potenza 1;Potenza;Potenza, Potenza 1;MarcheDomain;-;-;MARCHE;-9998;13.18845;43.22954;340;5.2;-9999;270;320;390;-9999;64;81;149;CF;Scala di deflusso;5;si;0.153;<-1;Regione Marche, 2021
+-9999;Pradella;Pradella;Taro;Taro,Pradella;PoBasin;-;-;-;-9999;9.74;44.48;293;4.9;-9999;230;300;430;-9999;360;552;909;CF;Scala di deflusso;1;no;-9999;-9999;ARPA Emilia Romagna,2016
+196;Prata di Pordenone;Prata di Pordenone F.Meduna;Meduna;Meduna, Prata di Pordenone;FriuliDomain;PRATA DI PORDENONE;PN;FRIULI VENEZIA GIULIA;164;12.60713;45.88308;1180;9.5;67;-9999;-9999;-9999;45;1535;2516;3232;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Prato;Prato Idro;Arno;Arno, Prato;ToscanaDomain;-;-;-;-9999;11.105;43.879;165;3.7;-9999;50;100;150;-9999;94;134;205;CF;Scala di deflusso;4;no;-0.11;0.54;Regione Toscana, 2025
+-9999;Predappio;Predappio;Rabbi;Rabbi, Predappio;RomagnaDomain;-;-;-;-9999;11.9838;44.108;172;3.8;-9999;70;120;250;-9999;8;29;87;CF;Scala di deflusso;3;si;0.7;-0.7;ARPA Emilia Romagna, 2018
+8;Quattroventi;Quattroventi;Volturno;Volturno, Quattroventi;VolturnoDomain;Pietravairano;BN;Campania;14;14.2042;41.36;1240;9.8;63;360;380;390;25;272;382;459;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Quinto Vercellese Cervo;Quinto Vercellese Cervo;Sesia;Sesia, Quinto Vercellese Cervo;PoBasin;-;VC;Lombardia;0;8.37403;45.38145;1044;9.0;-9999;200;250;350;-9999;703;931;1390;CF;Scala di deflusso;5;no;-0.028;-0.16;ARPAPiemonte, 2018
+-9999;Racconigi;Racconigi Maira;Maira;Maira,Racconigi;PoBasin;-;-;-;-9999;7.66;44.77;1147;9.4;-9999;80;100;200;-9999;132;180;424;CF;Scala di deflusso;4;no;-9999;-9999;Arpa Piemonte,2019
+-9999;RagoletoDiga;Ragoleto Diga R2;Acate;Acate, RagoletoDiga;SiciliaDomain;-;-;SICILIA;-9999;14.69;37.12;102.65;3.0;-9999;-9999;-9999;-9999;-9999;66;107;138;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rasponi;-;Uniti;Uniti, Rasponi;RomagnaDomain;-;-;-;-9999;12.27317;44.39377;1420;10.4;-9999;300;400;-9999;-9999;986;1440;1774;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Reda;Reda;Lamone;Lamone, Reda;RomagnaDomain;-;-;-;-9999;11.9431;44.3069;520;6.4;-9999;660;800;940;-9999;328;437;547;CF;Scala di deflusso;3;si;0.5;0.65;ARPA Emilia Romagna, 2018
+-9999;Reggio Calabria;Reggio Calabria - Catona;Catona;Catona, Reggio Calabria;CalabriaDomain;-;-;CALABRIA;-9999;15.6381;38.185;70;2.5;-9999;-9999;-9999;-9999;-9999;48;69;83;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+150;Reitano;Simeto a Catania;Simeto;Simeto, Reitano;SiciliaDomain;CATANIA;CT;SICILIA;4;15.06417;37.40014;3944.9088;17.2;68;-9999;-9999;-9999;103;1164;1559;1742;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rieti;-;Velino;Velino, Rieti;TevereBasin;-;-;Lazio;-9999;12.8694;42.4028;1330;10.1;-9999;260;300;360;-9999;145;254;348;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rifornitore Tirso;Tirso a rifornitore Tirso;Tirso;Tirso,Rifornitore Tirso;SardegnaDomain;-;-;-;-9999;9.04;40.33;592;6.8;-9999;140;200;280;-9999;13;36;103;CF;Scala di deflusso;3;si;0.39;0.34;Regione Sardegna,2013
+-9999;Rimini SS16;Rimini SS16;Marecchia;Marecchia, Rimini SS16;MarcheDomain;-;-;Emilia Romagna;-9999;12.5347;44.0619;510;6.3;-9999;220;300;400;-9999;218;358;533;CF;Scala di deflusso;3;no;-9999;-9999;ARPA Emilia Romagna, 2018
+495;RiolaSardo;-;Pischilappiu;Pischilappiu, RiolaSardo;SardegnaDomain;RIOLA SARDO;OR;SARDEGNA;456;8.5342;39.99833;301;4.9;-9999;-9999;-9999;-9999;94;62;98;123;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ripafratta;Ripafratta;Serchio;Serchio, Ripafratta;ToscanaDomain;-;-;-;-9999;10.41;43.82;1347;10.2;-9999;130;180;230;-9999;111;159;302;CF;Scala di deflusso;4;no;0;0.48;Regione Toscana, 2025
+-9999;Ripalta;Fiume Fortore a Ponte Ripalta;Fortore;Fortore, Ripalta;VolturnoDomain;Lesina;FG;PUGLIA;-9999;15.25474213;41.86840597;1703.5;11.4;-9999;500;600;700;-9999;105;160;230;CF;Scala di deflusso;2;no;-0.152;<-1;CF Regione Puglia, 2024
+-9999;Ripetta;Tevere a Ripetta;Tevere;Tevere, Ripetta;TevereBasin;Roma;RM;Lazio;37;12.475;41.9083;16545;35.0;-9999;700;1100;1300;-9999;340;1309;1879;CF;Scala di deflusso;3;si;0.065;0.54;CF Regione Lazio, 2018
+65;Rivergaro;Rivergaro;Trebbia;Trebbia, Rivergaro;PoBasin;Rivergaro;PC;Emilia Romagna;30;9.58177;44.90029;900;8.4;67;290;400;480;43;195;277;337;CF;Scala di deflusso;3;no;-0.43;0.57;ARPA Emilia Romagna, 2008
+-9999;Rizziconi PonteVecchio;-;Petrace;Petrace, Rizziconi PonteVecchio;CalabriaDomain;-;RC;CALABRIA;-9999;15.9128;38.3775;340;5.2;-9999;-9999;-9999;-9999;11;481;651;756;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Roaschia;-;Gesso;Gesso, Roaschia;PoBasin;-;-;-;-9999;7.43523;44.29107;335.11;5.2;-9999;-9999;-9999;-9999;-9999;129;200;252;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rocca Sinibalda;Turano a Rocca Sinibalda;Turano;Turano, Rocca Sinibalda;TevereBasin;-;-;Lazio;-9999;12.9175;42.2839;470;6.1;-9999;140;170;200;-9999;26;30;36;CF;Scala di deflusso;-9999;no;-9999;-9999;CF Regione Lazio, 2020
+400;Rosarno;Rosarno;Mesima;Mesima, Rosarno;CalabriaDomain;ROSARNO;RC;CALABRIA;-9999;15.9836;38.4997;770;7.7;-9999;-9999;-9999;-9999;11;439;595;690;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rosignano Solvay;-;Fine;Fine, Rosignano Solvay;ToscanaDomain;-;-;TOSCANA;-9998;10.4442;43.3719;165;3.7;-9999;-9999;-9999;-9999;-9999;44;73;95;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rossenna;Rossenna;Rossenna;Rossenna, Rossenna;PoBasin;-;-;-;-9999;10.67;44.43;187;3.9;-9999;120;160;230;-9999;82;118;181;CF;Scala di deflusso;3;no;-0.07;-0.9;ARPA Emilia Romagna, 2018
+-9999;Rossiglione;-;Stura;Stura, Rossiglione;LiguriaDomain;-;-;LIGURIA;-9999;8.6666;44.56597;88;2.8;-9999;-9999;-9999;-9999;2;229;403;546;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rottofreno;Rottofreno;Tidone;Tidone,Rottofreno;PoBasin;-;-;-;-9999;9.53;45.06;349;5.3;-9999;100;170;230;-9999;88;165;231;CF;Scala di deflusso;2;no;-9999;-9999;ARPA Emilia Romagna,2018
+-9999;Rovegno;Rovegno - Ponte;Trebbia;Trebbia, Rovegno;LiguriaDomain;-;-;-;-9999;9.28;44.57;114;3.1;-9999;350;400;550;-9999;277;337;543;CF;Scala di deflusso;3;no;0;0.68;Arpal, 2020
+-9999;Rubiera SS9;Rubiera SS9;Secchia;Secchia,Rubiera SS9;PoBasin;-;-;-;-9999;10.8;44.65;1303;10.0;-9999;130;180;210;-9999;146;394;529;CF;Scala di deflusso;3;no;-9999;-9999;ARPA Emilia Romagna,2018
+-9999;Rugge di Pontedassio;-;Impero;Impero, Rugge di Pontedassio;LiguriaDomain;-;-;LIGURIA;-9999;8.00611;43.94167;73;2.6;-9999;160;270;-9999;1;118;207;281;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Ruscio;Ruscio;Nera;Nera, Ruscio;TevereBasin;-;-;Lazio;-9999;12.96696;42.63189;205;4.1;-9999;100;120;180;-9999;6;7;13;CF;Scala di deflusso;2;no;-0.145;<-1;2016
+-9999;S Piero a Sieve;S. Piero a Sieve;Sieve;Sieve, S Piero a Sieve;ToscanaDomain;-;-;-;-9999;11.328;43.965;163;3.7;-9999;230;280;350;-9999;104;148;250;CF;Scala di deflusso;3;no;0.31;<-1;Regione Toscana, 2025
+-9999;S Piero a Sieve;-;Carza;Carza, S Piero a Sieve;ToscanaDomain;-;-;-;-9999;11.322;43.959;54;2.2;-9999;-9999;-9999;-9999;-9999;21;35;45;Statistica;Scala di deflusso;2;no;-0.39;0.71;Regione Toscana, 2025
+-9999;S. Piero a Ponti;S. Piero a Ponti;Arno;Arno, S. Piero a Ponti;ToscanaDomain;-;-;-;-9999;11.131;43.804;268;4.7;-9999;300;350;500;-9999;59;84;164;CF;Scala di deflusso;4;no;-0.25;0.61;Regione Toscana, 2025
+51;S.Ambrogio;S.Ambrogio;Liri;Liri, S.Ambrogio;LiriDomain;SANT'AMBROGIO SUL GARIGLIANO;FR;LAZIO;19;13.87192;41.39908;4424;18.2;63;650;820;1000;52;1379;1763;1973;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Benigno;San Benigno Orco;Orco;Orco,S.Benigno;PoBasin;-;-;-;-9999;7.81;45.25;846;8.1;-9999;210;260;360;-9999;246;401;711;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+-9999;S.Biagio;-;Pollina;Pollina, S.Biagio;SiciliaDomain;POLLINA;PA;SICILIA;106;14.1754;38.0175;367.7184;5.4;-9999;-9999;-9999;-9999;107;283;443;555;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Carlo;S.Carlo;Savio;Savio, S.Carlo;RomagnaDomain;-;-;-;-9999;12.2;44.09;586;6.8;-9999;250;400;550;-9999;97;256;423;CF;Scala di deflusso;3;si;0.99;-0.39;ARPA Emilia Romagna, 2018
+50;S.Castrese;S.Castrese;Liri;Liri, S.Castrese;LiriDomain;CASTELFORTE;LT;LAZIO;19;13.83734;41.28172;3779;16.8;63;600;700;900;52;1414;1808;2023;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Giuliano;S.Giuliano;Bradano;Bradano, S.Giuliano;BasilicataDomain;Matera;Mt;Basilicata;-9999;16.4329;40.63937;1490;10.7;-9999;330;380;420;-9999;209;268;321;CF;Scala di deflusso;1;no;-0.487;-0.74;Arpa Campania/Letteratura, 1993
+-9999;S.Lucia;S.Lucia Rbasil;Bradano;Bradano, S.Lucia;BasilicataDomain;Matera;MT;Basilicata;-9999;16.5777;40.589;2560;13.9;-9999;-9999;-9999;-9999;-9999;293;495;639;Statistica;Scala di deflusso;1;no;-0.315;<-1;N.D.
+5;S.Martino;Salto a San Martino;Salto;Salto, S.Martino;TevereBasin;Concerviano;RI;Lazio;37;12.9886;42.3246;660;7.2;64;-9999;-9999;-9999;50;31;57;82;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Marzano;S.Marzano Sarno;Sarno;Sarno, S.Marzano;VolturnoDomain;-;-;-;-9999;14.58;40.78;239.53;4.4;-9999;-9999;-9999;-9999;-9999;110.02;162.47;199.75;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Mauro;S.Mauro;Sarno;Sarno, S.Mauro;VolturnoDomain;-;-;-;-9999;14.63;40.76;222.57;4.3;-9999;-9999;-9999;-9999;-9999;102.93;152.01;186.89;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S.Pietro;S.Pietro;Sarno;Sarno, S.Pietro;VolturnoDomain;-;-;-;-9999;14.78;40.82;36.02;1.9;-9999;-9999;-9999;-9999;-9999;19.50;30.72;38.90;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+183;S.Secondo;S.Secondo;Taro;Taro, S.Secondo;PoBasin;TRECASALI;PR;EMILIA ROMAGNA;25;10.25431;44.91679;1450;10.5;68;1000;1100;1400;44;990;1122;1521;CF;Scala di deflusso;3;no;-0.697;0.44;ARPA Emilia Romagna, 2015 2016 2017
+-9999;S.SofiaEpiro;S.Sofia d'Epiro;Crati;Crati,S.SofiaEpiro;CalabriaDomain;-;-;CALABRIA;-9999;16.26;39.59;1270;9.9;-9999;-9999;-9999;-9999;-9999;507;605;655;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;S115;Modione a Santa Teresa;Modione;Modione, S115;SiciliaDomain;CASTELVETRANO;TP;SICILIA;100;12.8198;37.6541;51;2.2;-9999;-9999;-9999;-9999;110;34;55;71;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;SaFabbrica;-;RiuMannu;RiuMannu, SaFabbrica;SardegnaDomain;-;-;SARDEGNA;-9999;8.5;40.2;51.33;2.2;-9999;-9999;-9999;-9999;-9999;13;21;27;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Saliceto;Saliceto;Chiavenna;Chiavenna,Saliceto;PoBasin;-;-;-;-9999;9.8767;45.0011;161;3.7;-9999;280;380;490;-9999;74;122;175;CF;Scala di deflusso;3;no;-9999;-9999;ARPA Emilia Romagna,2018
+-9999;Salsolass16;Torrente Salsola;Candelaro;Candelaro, Salsolass16;BasilicataDomain;Lucera;FG;PUGLIA;-9999;15.49954981;41.5636896;622.5;7.0;-9999;240;280;310;-9999;91;126;173;CF;-9999;-9999;no;-9999;-9999;CF Regione Puglia, 2018
+-9999;Salsominore;Salsominore;Aveto;Aveto, Salsominore;PoBasin;-;-;-;-9999;9.4054;44.6327;201;4.1;-9999;320;430;620;-9999;48;113;227;CF;Scala di deflusso;2;no;-0.1;0.16;ARPA Emilia Romagna, 2018
+-9999;San Colombano;-;Lavagna;Lavagna, San Colombano;LiguriaDomain;-;-;LIGURIA;-9999;9.3112;44.3726;161;3.7;-9999;-9999;-9999;-9999;5;343;603;818;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;San Samuele;Ofanto S.Samuele C.;Ofanto;Ofanto, San Samuele;BasilicataDomain;San Ferdinando di Puglia;BT;PUGLIA;-9999;16.05923337;41.26906669;2869;14.7;-9999;450;530;570;-9999;310;668;1000;CF;Scala di deflusso;5;si;-0.23;0.17;CF Regione Puglia, 2024
+-9999;SanGiorgioIsola;San Giorgio Isola;Aso;Aso, SanGiorgioIsola;MarcheDomain;-;-;-;-9999;13.36;42.88;45;2.1;-9999;-9999;-9999;-9999;-9999;32;55;73;Statistica;-9999;3;no;-0.05;<-1;Regione Marche, 2021
+-9999;SanMartino;S. Martino;Entella;Entella, SanMartino;LiguriaDomain;-;-;-;-9999;9.34;44.36;282;4.8;-9999;170;220;320;-9999;235;292;431;CF;Scala di deflusso;3;no;0.25;<-1;Arpal, 2020
+-9999;SanNicola;Anapo a San Nicola;Anapo;Anapo, SanNicola;SiciliaDomain;-;-;SICILIA;-9999;14.96;37.1;93.76;2.9;-9999;-9999;-9999;-9999;-9999;79;128;165;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+454;Sanquirico;-;Astimini;Astimini, Sanquirico;SardegnaDomain;ALGHERO;SS;SARDEGNA;448;8.32419;40.61164;336;5.2;-9999;-9999;-9999;-9999;-9999;39;61;77;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Sansinato;Sansinato;Corace;Corace,Sansinato;CalabriaDomain;-;-;CALABRIA;-9999;16.55;38.9;172;3.8;-9999;-9999;-9999;-9999;-9999;133;190;229;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Santa Caterina;-;Ansiei;Ansiei, Santa Caterina;FriuliDomain;-;-;-;-9999;12.46274;46.53919;228.04;4.3;-9999;-9999;-9999;-9999;-9999;149;250;329;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Santarcangelo;Santarcangelo di Romagna;Uso;Uso, Santarcangelo;RomagnaDomain;-;-;-;-9999;12.4372;44.0683;109;3.1;-9999;250;420;530;-9999;54;139;194;CF;Scala di deflusso;3;si;0.39;0.56;ARPA Emilia Romagna, 2018
+-9999;Santuario di Savona;-;Letimbro;Letimbro, Santuario di Savona;LiguriaDomain;-;-;LIGURIA;-9999;8.43753;44.34555;31;1.8;-9999;200;320;-9999;3;42;74;100;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Sasso dOmbrone;Sasso d'Ombrone;Ombrone;Ombrone, Sasso dOmbrone;ToscanaDomain;-;-;-;-9999;11.322;42.935;2652;14.2;-9999;480;530;650;-9999;639;777;1152;CF;Scala di deflusso;2;no;0.59;<-1;Regione Toscana, 2025
+-9999;Sassoferrato;Sassoferrato;Esino;Esino, Sassoferrato;MarcheDomain;-;-;MARCHE;-9998;12.90434;43.43372;209;4.2;-9999;130;180;250;-9999;41;57;80;CF;Scala di deflusso;5;si;-0.253;0.56;Regione Marche, 2021
+-9999;Satriano Marina;-;Ancinale;Ancinale, Satriano Marina;CalabriaDomain;-;-;CALABRIA;-9999;16.5328;38.6753;170;3.8;-9999;-9999;-9999;-9999;-9999;247;352;423;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Savignone;-;Scrivia;Scrivia, Savignone;LiguriaDomain;-;-;LIGURIA;-9999;8.97833;44.55194;135;3.4;-9999;-9999;-9999;-9999;4;256;451;611;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Scicli;-;Dimodica;Dimodica, Scicli;SiciliaDomain;Scicli;RG;SICILIA;-9999;14.676;36.775;95;2.9;-9999;-9999;-9999;-9999;104;35;57;73;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Senaiga;-;Senaiga;Senaiga, Senaiga;AdigeDomain;-;-;-;-9999;11.75833;46.02647;71;2.5;-9999;-9999;-9999;-9999;-9999;78;122;154;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9998;Serra dei Conti;Serra dei Conti;Misa;Misa, Serra dei Conti;MarcheDomain;-;-;MARCHE;-9999;13.02809;43.54798;73;2.6;-9999;100;150;200;-9999;7;16;31;CF;Scala di deflusso;2;si;-0.206;0.3;Regione Marche, 2021
+-9999;Serrapartucci;Serrapartucci;Tevere;Tevere, Serrapartucci;TevereBasin;-;-;Umbria;-9999;12.4131;43.3344;132;3.4;-9999;150;250;330;-9999;29;86;156;CF;Scala di deflusso;4;si;-0.17;0.68;CF Umbria, 2018
+-9999;Serrarossa;Serrarossa;Tacina;Tacina,Serrarossa;CalabriaDomain;-;-;CALABRIA;-9999;16.89;39.07;195;4.0;-9999;-9999;-9999;-9999;-9999;404;548;636;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Serravalle;Serravalle;Nera;Nera, Serravalle;TevereBasin;-;-;Lazio;-9999;13.0231;42.7794;420;5.8;-9999;70;110;180;-9999;16;35;80;CF;Scala di deflusso;4;no;0.147;<-1;CF Umbria, 2018
+-9999;Sestri Levante;-;Gromolo;Gromolo, Sestri Levante;LiguriaDomain;-;-;LIGURIA;-9999;9.40972;44.27361;25;1.6;-9999;150;240;-9999;5;34;59;80;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Sestri Levante-Sara;-;Petronio;Petronio, Sestri Levante-Sara;LiguriaDomain;-;-;LIGURIA;-9999;9.42972;44.27;56;2.3;-9999;-9999;-9999;-9999;5;89;156;212;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;SGiusto;Torrente Celone San Giusto;Candelaro;Candelaro, SGiusto;BasilicataDomain;Lucera;FG;PUGLIA;-9999;15.40859996;41.4237167;149;3.5;-9999;220;290;330;-9999;21;50;91;CF;Scala di deflusso;3;si;-0.07;0.75;CF Regione Puglia, 2018
+152;Sibari;Sibari;Crati;Crati, Sibari;CalabriaDomain;CASSANO ALLO IONIO;CS;CALABRIA;36;16.50043;39.71209;2470;13.7;65;-9999;-9999;-9999;12;711;848;917;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+15;Sicignana;Sicignano;Sele;Sele, Sicignana;BasilicataDomain;Buccino;BN;Campania;11;15.2925;40.60472;1680;11.3;64;-9999;-9999;-9999;34;711;1203;1552;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+49;Siracusa;-;Anapo;Anapo, Siracusa;SiciliaDomain;Siracusa;SR;SICILIA;73;15.269;37.058;470;6.1;-9999;-9999;-9999;-9999;104;238;373;467;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+68;SLucia;S.Lucia;Tevere;Tevere, SLucia;TevereBasin;Citta di Castello;PG;Umbria;37;12.2418;43.4189;920;8.4;63;300;380;500;149;142;211;333;CF;Scala di deflusso;4;si;-0.108;0.54;CF Umbria, 2018
+173;Snazzaro Sesia;-;Sesia;Sesia, Snazzaro Sesia;PoBasin;GREGGIO;VC;PIEMONTE;42;8.40004;45.45846;1030;8.9;70;-9999;-9999;-9999;82;729;1095;1362;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Soliera;Soliera;Aulella;Aulella, Soliera;LiguriaDomain;-;-;LIGURIA;-9999;10.0628;44.19995;202;4.1;-9999;300;350;450;5;130;180;300;CF;Scala di deflusso;3;no;-0.02;0.03;ARPAL, 2020
+30;Solopaca;Solopaca;Volturno;Volturno, Solopaca;VolturnoDomain;SOLOPACA;BN;CAMPANIA;14;14.56837;41.20855;2950;14.9;68;500;650;690;23;776;1078;1164;CF;Scala di deflusso;2;no;0.104;<-1;Arpa Campania (non ufficiali)
+185;Soncino;Soncino;Oglio;Oglio, Soncino;PoBasin;SONCINO;CR;LOMBARDIA;50;9.89008;45.39928;2200;12.9;72;50;120;170;63;60;192;300;CF;Scala di deflusso;4;no;-0.245;<-1;ARPA Lombardia, 2016
+-9999;Sora;Sora;Liri;Liri, Sora;LiriDomain;-;-;-;-9999;13.6133;41.7186;1268.5824;9.9;-9999;200;300;330;-9999;105;238;282;Statistica;Scala di deflusso;-9999;si;0.29;0.77;CF Regione Lazio, 2020
+-9999;Sorbolo;Sorbolo;Enza;Enza,Sorbolo;PoBasin;-;-;-;-9999;10.45;44.85;658;7.2;-9999;790;1000;1100;-9999;62;104;128;CF;Scala di deflusso;4;no;-9999;-9999;ARPA Emilia Romagna,2018
+-9999;Soverzene;-;Piave;Piave, Soverzene;FriuliDomain;-;-;-;-9999;12.30002;46.2002;1691.09;11.4;-9999;-9999;-9999;-9999;-9999;700;1000;1250;CF;-9999;-9999;no;-9999;-9999;ARPAV
+-9999;Spadola;Spadola;Ancinale;Ancinale,Spadola;CalabriaDomain;-;-;CALABRIA;-9999;16.34;38.6;37;1.9;-9999;-9999;-9999;-9999;-9999;50;71;86;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Spessa;Spessa Po;Po;Po, Spessa;PoBasin;-;-;-;-9999;9.35;45.1;37372;52.4;-9999;450;550;650;-9999;5518;7780;10042;CF;Scala di deflusso;4;no;0.05;0.07;ARPA Emilia Romagna, 2018
+13;SS106;Sinni SS106;Sinni;Sinni, SS106;BasilicataDomain;ROTONDELLA;MT;BASILICATA;8;16.64766;40.16518;1290;9.9;67;300;350;-9999;8;1433;4528;;CF;Scala di deflusso;1;no;-0.759;0.12;Arpa Campania/Letteratura, 1993
+-9999;SS106;-;Cavone;Cavone, SS106;BasilicataDomain;-;-;-;-9999;16.7267;40.2983;575;6.7;-9999;-9999;-9999;-9999;-9999;348;692;1013;Statistica;Scala di deflusso;3;si;0.007;0.6;Letteratura, 2020
+42;SS106;-;Basento;Basento, SS106;BasilicataDomain;BERNALDA;MT;BASILICATA;28;16.78;40.3677;1520;10.8;67;-9999;-9999;-9999;7;496;840;1084;Statistica;Scala di deflusso;4;si;-0.65;0.52;Letteratura, 2020
+-9999;SSAurelia;-;Mignone;Mignone, SSAurelia;LazioDomain;-;-;Lazio;-9999;11.7825;42.1919;500;6.3;-9999;-9999;-9999;-9999;-9999;158;250;311;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+42;Stampace;-;Tellaro;Tellaro, Stampace;SiciliaDomain;Noto;RG;SICILIA;113;15.0887;36.8408;350;5.3;-9999;-9999;-9999;-9999;104;131;205;256;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Steresa;Pescara a Santa Teresa - Valle Diga;Aternopescara;Aternopescara, Steresa;LiriDomain;-;-;ABRUZZO;-9999;14.16611;42.42611;3040;15.1;-9999;330;400;480;-9999;618;790;884;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Stia;Stia Idro;Arno;Arno, Stia;ToscanaDomain;-;-;-;-9999;11.706;43.801;55;2.3;-9999;100;150;250;-9999;8;12;62;CF;Scala di deflusso;3;no;-0.01;-0.44;Regione Toscana, 2025
+193;Stra;-;Brenta;Brenta, Stra;AdigeDomain;VIGONOVO;VE;VENETO;52;11.99831;45.40756;2300;13.2;71;150;200;-9999;159;954;1415;1716;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Strada Casale;Strada Casale;Lamone;Lamone, Strada Casale;RomagnaDomain;-;-;-;-9999;11.7;44.19;193;4.0;-9999;100;140;200;-9999;37;66;108;CF;Scala di deflusso;3;si;0.7;0.41;ARPA Emilia Romagna, 2018
+-9999;Subbiano;Subbiano;Casentino;Casentino, Subbiano;ToscanaDomain;-;-;TOSCANA;-9999;11.86018;43.56251;730;7.5;-9999;300;350;500;-9999;224;337;698;CF;Scala di deflusso;2;no;-0.522;0.59;Regione Toscana, 2025
+-9999;SusaVia Mazzini;Susa Dora Riparia via Mazzini;DoraRiparia;DoraRiparia,SusaVia Mazzini;PoBasin;-;-;-;-9999;7.03;45.08;781;7.8;-9999;240;280;360;-9999;143;174;236;CF;Scala di deflusso;2;no;-9999;-9999;Arpa Piemonte,2019
+99;Tarquinia;Marta a Tarquinia;Marta;Marta, Tarquinia;LazioDomain;Tarquinia;VT;Lazio;31;11.7382;42.2544;1065;9.1;65;600;700;800;48;172;255;366;CF;Scala di deflusso;3;si;-0.14;0.32;CF Regione Lazio, 2020
+103;Tavagnasco;Tavagnasco;Dorabaltea;Dorabaltea, Tavagnasco;PoBasin;Tavagnasco;TO;Piemonte;32;7.8248;45.5482;3330;15.8;78;310;350;400;74;746;890;1070;CF;Scala di deflusso;4;no;-0.607;-0.77;ARPAPiemonte, 2018
+124;Tel;Adige a Tel;Adige;Adige, Tel;AdigeDomain;PARCINES;BZ;TRENTINO ALTO ADIGE;51;11.07397;46.67117;1660;11.3;79;-9999;-9999;-9999;147;202;300;363;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Termini Imerese;Rosamarina Diga R2;Sleonardo;Sleonardo, Termini Imerese;SiciliaDomain;TERMINI IMERESE;PA;SICILIA;110;13.6842;37.9908;420;5.8;-9999;-9999;-9999;-9999;107;177;277;347;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+136;Terni;Terni;Nera;Nera, Terni;TevereBasin;Terni;PG;Umbria;37;12.65;42.5597;3400;16.0;64;780;850;1000;150;46;82;196;CF;Scala di deflusso;-9999;no;-9999;-9999;N.D.
+-9999;Terria;Velino a Terria;Velino;Velino, Terria;TevereBasin;-;-;Lazio;-9999;12.78966;42.4555;1940;12.1;-9999;600;700;800;-9999;62;70;81;CF;Scala di deflusso;4;no;-0.12;0.095;CF Lazio, 2018 e CF Umbria, 2008
+-9999;Tiglieto Orba;Tiglieto;Orba;Orba, Tiglieto Orba;LiguriaDomain;-;-;LIGURIA;-9999;8.61648;44.5203;73;2.6;-9999;300;350;450;2;186;261;449;CF;Scala di deflusso;2;si;-0.188;0.76;ARPAL, 2018
+-9999;Todi-Naia;Todi-Naia;Tevere;Tevere, Todi-Naia;TevereBasin;-;-;Lazio;-9999;12.3822;42.7653;220;4.3;-9999;190;240;300;-9999;79;117;173;CF;Scala di deflusso;1;si;-0.259;0.09;CF Umbria, 2018
+-9999;Torino;Torino Dora Riparia Q.A.;DoraRiparia;DoraRiparia,Torino;PoBasin;-;-;-;-9999;7.72;45.08;1325;10.1;-9999;290;340;410;-9999;205;276;376;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+170;Torino Murazzi;Torino Murazzi Po;Po;Po, Torino Murazzi;PoBasin;TORINO;TO;PIEMONTE;44;7.70619;45.06765;5320;19.9;66;350;460;470;83;851;1181;1211;CF;Scala di deflusso;4;no;-0.005;-0.07;ARPAPiemonte, 2018
+-9999;Torrente Candelaro;Torrente Candelaro a Ex 13 Luci;Candelaro;Candelaro, Torrente Candelaro;BasilicataDomain;Manfredonia;FG;PUGLIA;-9999;15.80760482;41.5433841;1971;12.2;-9999;380;400;430;-9999;511;597;738;CF;Scala di deflusso;5;si;-0.003;0.46;CF Regione Puglia, 2024
+-9999;Torreorsina;Torre Orsina;Tevere;Tevere, Torreorsina;TevereBasin;Terni;TR;Umbria;-9999;12.74;42.5717;1240;9.8;65;330;400;460;-9999;39;78;121;CF;Scala di deflusso;4;si;0.543;<-1;CF Umbria, 2018
+412;Tortora;Tortora;Noce;Noce, Tortora;BasilicataDomain;Tortora;PZ;CALABRIA;326;15.7686;39.9375;320;5.1;-9999;-9999;-9999;-9999;9;334;664;972;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Trestina;Trestina;Nestore;Nestore, Trestina;TevereBasin;-;-;Lazio;-9999;12.23719;43.35836;202;4.1;-9999;370;430;550;-9999;80;110;183;CF;Scala di deflusso;4;no;-0.445;0.45;CF Umbria, 2018
+-9999;Triolo;Torrente Triolo;Candelaro;Candelaro, Triolo;BasilicataDomain;Lucera;FG;PUGLIA;-9999;15.33363675;41.52826479;202.75;4.1;-9999;320;390;430;-9999;29;57;81;CF;Scala di deflusso;-9999;no;-0.683;<-1;CF Regione Puglia, 2018
+62;Tronto;Tronto;Tronto;Tronto, Tronto;MarcheDomain;ASCOLI PICENO;AP;MARCHE;22;13.65254;42.85198;959;8.6;67;90;140;200;70;39;107;222;CF;Scala di deflusso;4;si;-0.166;0.28;Regione Marche, 2021
+-9999;Turbone;Turbone;Pesa;Pesa, Turbone;ToscanaDomain;-;-;-;-9999;11.036;43.719;292;4.9;-9999;200;250;350;-9999;52;74;141;CF;Scala di deflusso;3;no;-0.24;0.21;Regione Toscana, 2025
+120;Uffizi;-;Arno;Arno, Uffizi;ToscanaDomain;FIRENZE;FI;TOSCANA;18;11.2431;43.77188;4480;18.3;64;300;550;-9999;117;746;952;1066;Statistica;-9999;-9999;no;-9999;-9999;Regione Toscana, 2025
+-9999;Val Gallina;-;ValGallina;ValGallina, Val Gallina;FriuliDomain;-;-;-;-9999;12.33336;46.2182;13.52;1.2;-9999;-9999;-9999;-9999;-9999;21;36;47;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Valle Armea-Ponte;-;Armea;Armea, Valle Armea-Ponte;LiguriaDomain;-;-;LIGURIA;-9999;7.81889;43.83556;36;1.9;-9999;-9999;-9999;-9999;1;76;134;182;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Valle di Cadore;-;Boite;Boite, Valle di Cadore;FriuliDomain;-;-;-;-9999;12.31997;46.41171;381.58;5.5;-9999;-9999;-9999;-9999;-9999;189;318;417;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Vallepiediluco;-;Piediluco;Piediluco, Vallepiediluco;TevereBasin;-;-;Umbria;-9999;12.7396;42.5344;74;2.6;-9999;-9999;-9999;-9999;-9999;5;10;15;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Vallo di Nera;Vallo di Nera;Tevere;Tevere, Vallo di Nera;TevereBasin;Vallo di Nera;PG;Umbria;37;12.8549;42.7535;1040;9.0;66;100;140;200;150;22;40;74;CF;Scala di deflusso;3;si;0.51;<-1;CF Umbria, 2018
+-9999;Valsigiara;Trebbia Valsigiara;Trebbia;Trebbia, Valsigiara;PoBasin;-;-;-;-9999;9.33;44.6402;217;4.2;-9999;170;260;310;-9999;243;403;491;CF;Scala di deflusso;3;no;-0.13;0.56;ARPA Emilia Romagna, 2018
+-9999;Valsinni;Sinni a Valsinni;Sinni;Sinni, Valsinni;BasilicataDomain;Valsinni;MT;Basilicata;-9999;16.4379;40.1712;1120;9.3;-9999;80;130;-9999;-9999;700;882.5;1065;CF;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Valtopina;Valtopina;Topino;Topino, Valtopina;TevereBasin;-;-;Lazio;-9999;12.7542;43.0486;192;4.0;-9999;180;250;320;-9999;50;83;120;CF;Scala di deflusso;3;no;-0.108;0.37;CF Umbria, 2018
+-9999;Varenna;-;Varenna;Varenna, Varenna;LiguriaDomain;Genova;GE;LIGURIA;-9999;8.82;44.43639;22;1.5;-9999;-9999;-9999;-9999;3;74;131;177;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Vecchia statale Aurelia;-;Cornia;Cornia, Vecchia statale Aurelia;ToscanaDomain;-;-;TOSCANA;-9999;10.61409;43.01908;370;5.4;-9999;450;550;-9999;-9999;111;182;236;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Venosa;Torrente Venosa;Ofanto;Ofanto, Venosa;BasilicataDomain;Venosa;PZ;BASILICATA;-9999;15.82463331;40.9988;221;4.3;-9999;230;260;310;-9999;20;30;53;CF;Scala di deflusso;4;si;-0.99;-0.04;CF Regione Puglia, 2018
+76;Venzone;Venzone;Tagliamento;Tagliamento, Venzone;FriuliDomain;VENZONE;UD;FRIULI VENEZIA GIULIA;56;13.13139;46.33295;2100;12.6;67;190;320;380;46;2571;4214;5413;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Vergato;Vergato;Reno;Reno, Vergato;RomagnaDomain;-;-;-;-9999;11.12;44.29;552;6.6;-9999;150;300;500;-9999;117;369;712;CF;Scala di deflusso;2;si;0.24;0.83;ARPA Emilia Romagna, 2018
+-9999;Verolengo;Verolengo Dora Baltea;DoraBaltea;DoraBaltea,Verolengo;PoBasin;-;-;-;-9999;8.04;45.19;3888;17.1;-9999;300;350;450;-9999;850;1136;1709;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+-9999;Verona;Verona;Adige;Adige, Verona;AdigeDomain;-;-;-;-9999;11.0015;45.4426;11099;28.7;-9999;-36;110;210;-9999;463;1004;1478;CF;Scala di deflusso;4;si;0.51;0.03;ARPAV, 2021
+-9999;Vetto;Vetto;Enza;Enza,Vetto;PoBasin;-;-;-;-9999;10.33;44.49;299;4.9;-9999;140;180;300;-9999;89;135;329;CF;Scala di deflusso;4;no;-9999;-9999;ARPA Emilia Romagna,2018
+-9999;Vigevano;Vigevano;Ticino;Ticino, Vigevano;PoBasin;-;-;-;-9999;8.8796;45.3415;3511;16.2;-9999;-9999;-9999;-9999;-9999;1773;2418;2743;Statistica;Scala di deflusso;4;no;-0.24;-0.41;Regione Lombardia, 2015
+489;Vignola;-;Vignola;Vignola, Vignola;SardegnaDomain;AGLIENTU;SS;SARDEGNA;460;9.05424;41.11365;133;3.4;-9999;-9999;-9999;-9999;97;16;26;34;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Vignolo;-;Sturla;Sturla, Vignolo;LiguriaDomain;-;-;LIGURIA;-9999;9.37385;44.38154;102;3.0;-9999;320;410;-9999;5;242;426;578;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Villa Carmine;-;Saline;Saline, Villa Carmine;LiriDomain;-;-;ABRUZZO;-9999;14.1264;42.5106;570;6.7;-9999;200;250;300;-9999;227;361;472;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+3;Villa S.Maria;Villa S.Maria;Sangro;Sangro, Villa S.Maria;LiriDomain;Villa S.Maria;CH;ABRUZZO;17;14.3437;41.9446;820;8.0;67;150;190;260;4;184;293;382;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+61;Villaputzu;Flumini Uri a S.Vito;Flumendosa;Flumendosa, Villaputzu;SardegnaDomain;Villaputzu;CA;Sardegna;3;9.5651;39.4327;1520;10.8;73;-9999;-9999;-9999;95;1060;1845;2630;CF;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Visso;Visso;Nera;Nera, Visso;TevereBasin;-;-;Marche;-9999;13.09194444;42.92841667;206;4.1;-9999;100;150;200;-9999;7;22;47;CF;Scala di deflusso;5;no;-0.431;<-1;Regione Marche, 2018
+-9999;Vodo di Cadore;-;Boite;Boite, Vodo di Cadore;FriuliDomain;-;-;-;-9999;12.24098;46.4179;321.63;5.1;-9999;-9999;-9999;-9999;-9999;145;244;320;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Volpedo;Volpedo-Monleale;Curone;Curone,Volpedo;PoBasin;-;-;-;-9999;8.99;44.89;154;3.6;-9999;130;180;-9999;-9999;122;164;-9999;CF;Scala di deflusso;3;no;-9999;-9999;Arpa Piemonte,2019
+-9999;Vulgano;Vulgano;Candelaro;Candelaro, Vulgano;BasilicataDomain;Lucera;FG;PUGLIA;-9999;15.33311671;41.44844997;108.75;3.1;-9999;230;320;380;-9999;73;132;180;CF;Scala di deflusso;1;no;-0.38;0.21;CF Regione Puglia, 2018
+-9999;Trento;Trento;Adige;Adige, Trento;AdigeDomain;Trento;TN;TRENTINO ALTO ADIGE;-9999;11.1153;46.07;10453;27.9;-9999;-9999;-9999;-9999;-9999;800;1440;1970;CF;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Lavis;Lavis;Avisio;Avisio, Lavis;AdigeDomain;Trento;TN;TRENTINO ALTO ADIGE;-9999;11.1186;46.1381;1006;8.8;-9999;-9999;-9999;-9999;-9999;269;399;484;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Borgo Valsugana;Val Sugana;Brenta;Brenta, Borgo Valsugana;AdigeDomain;Borgo Valsugana;TN;TRENTINO ALTO ADIGE;-9999;11.46;46.0542;284;4.8;-9999;-9999;-9999;-9999;-9999;126;194;242;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Male;Male;Noce;Noce, Male;AdigeDomain;Malè;TN;TRENTINO ALTO ADIGE;-9999;10.9136;46.3492;499;6.3;-9999;-9999;-9999;-9999;-9999;96;147;183;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Cimego;Cimego;Chiese;Chiese, Cimego;PoBasin;Borgo Chiese;TN;TRENTINO ALTO ADIGE;-9999;10.6189;45.9096;256;4.6;-9999;-9999;-9999;-9999;-9999;73;113;146;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Sarche;Sarche;Mincio;Mincio, Sarche;PoBasin;Madruzzo;TN;TRENTINO ALTO ADIGE;-9999;10.9469;46.0333;897;8.3;-9999;-9999;-9999;-9999;-9999;242;372;481;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Fiera di Primiero;Fiera di Primiero;Cismon;Cismon, Fiera di Primiero;AdigeDomain;Primiero San Martino di Castrozza;TN;TRENTINO ALTO ADIGE;-9999;11.83;46.1742;133;3.4;-9999;-9999;-9999;-9999;-9999;86;134;168;Statistica;-9999;-9999;no;-9999;-9999;Provincia trento, 2025
+-9999;Spiazzo;Spiazzo;Mincio;Mincio, Spiazzo;PoBasin;-;TN;TRENTINO ALTO ADIGE;-9999;10.7394;46.1022;348;5.3;-9999;-9999;-9999;-9999;-9999;96;149;192;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Cavalese;Cavalese;Avisio;Avisio, Cavalese;AdigeDomain;-;TN;TRENTINO ALTO ADIGE;-9999;11.48;46.2844;591;6.8;-9999;-9999;-9999;-9999;-9999;182;279;348;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Trento-Fersina;Trento-Fersina;Fersina;Fersina, Trento-Fersina;AdigeDomain;-;TN;TRENTINO ALTO ADIGE;-9999;11.1178;46.0439;183;3.9;-9999;-9999;-9999;-9999;-9999;59;92;116;Statistica;-9999;-9999;no;-9999;-9999;N.D.
+-9999;Rovereto;Rovereto;Leno;Leno, Rovereto;AdigeDomain;-;TN;TRENTINO ALTO ADIGE;-9999;11.04;45.88;193;4.0;-9999;-9999;-9999;-9999;-9999;122;191;240;Statistica;-9999;-9999;no;-9999;-9999;N.D.

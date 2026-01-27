@@ -1,0 +1,54 @@
+3	#Number of dams
+3	#Number of plants
+##################################################################################################
+Dam_shebele001			#Dam name nan
+407 538			#Row and column dam coordinates
+1			#Number of plants downstream the dam
+-9999			#Code of the reservoirs cells of the dam (if point dam set to -9999)
+nan			#Max storage (m3)
+nan			#Initial storage (m3)
+99999			#Critical discharge for surface spillway
+nan			#Equivalent length of surface spillway
+nan			#Maximum reservoir depth
+1e-006			#Linear tank coefficient
+				#Depth-volume curve file name
+				#Turbines discharge file name
+406 539			#Row and column outlet dam coordinates
+-9999			#Plant corrivation time (minutes)
+nan			#Maximum plant discharge (m3/s)
+1			#flag=1 if the plant discharge water
+##################################################################################################
+Dam_shebele002			#Dam name nan
+348 386			#Row and column dam coordinates
+1			#Number of plants downstream the dam
+-9999			#Code of the reservoirs cells of the dam (if point dam set to -9999)
+nan			#Max storage (m3)
+nan			#Initial storage (m3)
+99999			#Critical discharge for surface spillway
+nan			#Equivalent length of surface spillway
+nan			#Maximum reservoir depth
+1e-006			#Linear tank coefficient
+				#Depth-volume curve file name
+				#Turbines discharge file name
+349 387			#Row and column outlet dam coordinates
+-9999			#Plant corrivation time (minutes)
+nan			#Maximum plant discharge (m3/s)
+1			#flag=1 if the plant discharge water
+##################################################################################################
+Melka Wakena			#Dam name -99.0
+269 85			#Row and column dam coordinates
+1			#Number of plants downstream the dam
+-9999			#Code of the reservoirs cells of the dam (if point dam set to -9999)
+750000000.0			#Max storage (m3)
+524999999.99999994			#Initial storage (m3)
+99999			#Critical discharge for surface spillway
+-99.0			#Equivalent length of surface spillway
+37.0			#Maximum reservoir depth
+1e-006			#Linear tank coefficient
+				#Depth-volume curve file name
+				#Turbines discharge file name
+268 86			#Row and column outlet dam coordinates
+-9999			#Plant corrivation time (minutes)
+45.43			#Maximum plant discharge (m3/s)
+1			#flag=1 if the plant discharge water
+##################################################################################################
