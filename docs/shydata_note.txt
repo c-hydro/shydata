@@ -65,6 +65,9 @@ cd /shydata/
   --repo /shydata \
   --commit --push \
   --msg "Sync repo assets (docs/tools/root)"
+
+# commits repo (from shydata folder)
+./tools/shydata_assets_repo.sh   --src .   --repo .   --commit --push   --msg "Sync repo assets (docs/tools/root)"
 ## ------------------------------------------------------------------
 
 ## ------------------------------------------------------------------
