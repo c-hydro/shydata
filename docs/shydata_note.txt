@@ -56,7 +56,7 @@ cd /shydata/
 ./tools/shydata_assets_datasets.sh \
   --src /home/fabio/Desktop/shybox/dset/ \
   --repo /home/fabio/Desktop/shydata \
-  --version 0.0.1 \
+  --version 0.0.2 \
   --tag --push --gh-release
 
 # commits repo
@@ -64,10 +64,10 @@ cd /shydata/
   --src /home/fabio/Documents/Work_Area/Code_Development/Workspace/shydata \
   --repo /shydata \
   --commit --push \
-  --msg "Sync repo assets (docs/tools/root)"
+  --msg "update repository to 0.0.2 data versions (continuum testing data)"
 
 # commits repo (from shydata folder)
-./tools/shydata_assets_repo.sh   --src .   --repo .   --commit --push   --msg "Sync repo assets (docs/tools/root)"
+./tools/shydata_assets_repo.sh   --src .   --repo .   --commit --push   --msg "update repository to 0.0.2 data versions (continuum testing data)"
 ## ------------------------------------------------------------------
 
 ## ------------------------------------------------------------------
