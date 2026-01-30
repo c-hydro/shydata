@@ -19,6 +19,34 @@ This project follows **Semantic Versioning** for dataset releases: `MAJOR.MINOR.
 
 ---
 
+## [0.0.2] - 2026-01-30T10:56:04+01:00
+
+### Added
+- Dataset release **0.0.2** for *shybox*.
+- Dataset folder (flat, overwritten each release):
+  - `./data/`
+- Documentation:
+  - `./data/docs/provenance.txt`
+  - `./data/README.md`
+
+### Release artifacts
+- Location:
+  - `./releases/0.0.2/`
+- Files:
+  - `shydata_0.0.2.tar.zst.part_*`
+  - `shydata_0.0.2.sha256`
+  - `shydata_0.0.2.manifest.txt`
+
+### Notes
+- Copy policy enforced (GitHub file limit):
+  - Files **≥ 100MB** are skipped during copy into the repo.
+- Release policy:
+  - Each asset **< 100MB**, split size **95MB**.
+- Skipped files report:
+  - `./releases/0.0.2/shydata_0.0.2.copy_skipped_oversize.csv`
+
+---
+
 ## [0.0.1] - 2026-01-27T10:54:49+01:00
 
 ### Added

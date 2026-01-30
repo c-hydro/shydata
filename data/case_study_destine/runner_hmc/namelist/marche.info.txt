@@ -12,6 +12,10 @@
     dWS = 3.6780000000000003e-09
     dWTableHbr = 1500
     sDomainName = "marche"
+    dSoil_ksat_infilt = 9
+    dSoil_ksat_drain = 3
+	dWTable_ksath = 0.5
+	dWTable_init = 0.1
 /
 &HMC_Namelist
     a1dDemStep = 1,10,100,1000
@@ -49,7 +53,7 @@
     iFlagReleaseMass = 1
     iFlagRestart = 1
     iFlagSMAssim = 0
-    iFlagSnow = 1
+    iFlagSnow = 0
     iFlagSnowAssim = 0
     iFlagTypeData_Forcing_Gridded = 2
     iFlagTypeData_Forcing_Point = 1
@@ -70,21 +74,23 @@
     iSimLength = 10
     iTVeg = 720
     iTcMax = 2
-    sPathData_Forcing_Gridded = "/data_dynamic/gridded/$yyyy/$mm/$dd/"
-    sPathData_Forcing_Point = "/data_dynamic/point/$yyyy/$mm/$dd/"
-    sPathData_Forcing_TimeSeries = "/data_dynamic/time_series/"
-    sPathData_Output_Gridded = "/data_model/outcome/gridded/$yyyy/$mm/$dd/"
-    sPathData_Output_Point = "/data_model/outcome/point/$yyyy/$mm/$dd/"
-    sPathData_Output_TimeSeries = "/data_model/outcome/time_series/"
-    sPathData_Restart_Gridded = "/data_model/restart/gridded/$yyyy/$mm/$dd/"
-    sPathData_Restart_Point = "/data_model/restart/point/$yyyy/$mm/$dd/"
-    sPathData_State_Gridded = "/data_model/state/gridded/$yyyy/$mm/$dd/"
-    sPathData_State_Point = "/data_model/state/point/$yyyy/$mm/$dd/"
-    sPathData_Static_Gridded = "/data_static/gridded/"
-    sPathData_Static_Point = "/data_static/point/"
-    sPathData_Updating_Gridded = "/data_dynamic/gridded/$yyyy/$mm/$dd/"
-    sTimeRestart = "202111252300"
-    sTimeStart = "202111260000"
+    sPathData_Forcing_Gridded = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/data/fp_marche/gridded/$yyyy/$mm/$dd/"
+    sPathData_Forcing_Point = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/data/fp_marche/point/$yyyy/$mm/$dd/"
+    sPathData_Forcing_TimeSeries = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/data/fp_marche/time_series/"
+    sPathData_Output_Gridded = "/home/fabio/Desktop/shybox/exec/case_study_destine/runner_hmc/out/gridded/$yyyy/$mm/$dd/"
+    sPathData_Output_Point = "/home/fabio/Desktop/shybox/exec/case_study_destine/runner_hmc/out/point/$yyyy/$mm/$dd/"
+    sPathData_Output_TimeSeries = "/home/fabio/Desktop/shybox/exec/case_study_destine/runner_hmc/out/ts/"
+    sPathData_Restart_Gridded = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/restart/"
+    sPathData_Restart_Point = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/restart/"
+    sPathData_State_Gridded = "/home/fabio/Desktop/shybox/exec/case_study_destine/runner_hmc/out/state/gridded/$yyyy/$mm/$dd/"
+    sPathData_State_Point = "/home/fabio/Desktop/shybox/dset/exec_study_destine/runner_hmc/out/state/point/$yyyy/$mm/$dd/"
+    sPathData_Static_Gridded = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/geo/gridded/"
+    sPathData_Static_Point = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/geo/point/"
+    sPathData_Updating_Gridded = "/home/fabio/Desktop/shybox/dset/case_study_destine/runner_hmc/data/fp_marche/gridded/"
+    sTimeRestart = "202601272300"
+    sTimeStart = "202601280000"
+	iFlagInfiltRateVariable = 0
+	iFlagBetaET = 1
 /
 &HMC_Snow
     a1dAltRange = 1500.0,2000.0,2500.0,2500.0

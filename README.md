@@ -1,186 +1,94 @@
-# SHYDATA — datasets for SHYBOX
+# 🗃️ SHYDATA – Versioned Datasets for SHYBOX
 
-This repository provides **versioned datasets** required by the **[shybox](https://github.com/c-hydro/shybox)** package.
+[![License](https://img.shields.io/badge/license-EUPL--1.2-blue.svg)](LICENSE)
+[![Data Releases](https://img.shields.io/github/v/release/c-hydro/shydata)](https://github.com/c-hydro/shydata/releases)
 
-It supports:
+**SHYDATA** is the official dataset repository for the **[SHYBOX](https://github.com/c-hydro/shybox)** hydrological processing framework.
 
-- **Publishing datasets** as *tagged releases* (for maintainers)
-- **Recovering datasets** locally (for users)
-- Ensuring **reproducibility** via dataset versioning (`0.0.1`, `0.0.2`, ...)
-
----
-
-## ✅ Quick links
-
-- **Dataset repository (this one):** https://github.com/c-hydro/shydata
-- **SHYBOX code repository:** https://github.com/c-hydro/shybox
+It provides **versioned, immutable, and reproducible datasets** used by SHYBOX workflows in both **operational** and **research** contexts.
 
 ---
 
-## Requirements
+## 🔎 Overview
 
-### System packages
+SHYDATA centralizes all environmental and hydrological datasets required by SHYBOX.
 
-On Ubuntu/Debian:
+Key concepts:
 
-```bash
-sudo apt-get update
-sudo apt-get install -y zstd
-```
+- Datasets are distributed **only via GitHub releases**
+- Each release represents a **fixed dataset snapshot**
+- Dataset versions are explicitly referenced by SHYBOX configurations
+- Repository history remains lightweight (no large binary data)
 
-Optional (for CLI Git helpers):
-
-```bash
-sudo apt-get install -y gitsome
-```
+This approach guarantees **traceability, reproducibility, and controlled updates**.
 
 ---
 
-## 📦 Download datasets (recommended way)
+## 🎯 Objectives
 
-### 1. Clone the `shydata` repository
+The main objectives of SHYDATA are to:
 
-```bash
-git clone https://github.com/c-hydro/shydata.git
-cd shydata
-```
-
----
-
-### 2. Recover a dataset release
-
-Choose a dataset version (example: `0.0.1`):
-
-```bash
-release_version=0.0.1
-```
-
-Then run:
-
-```bash
-bash tools/shydata_recover_release.sh \
-  --version ${release_version} \
-  --dest .
-```
-
-This will download and unpack the dataset release into the folder you provide as `--dest`.
-
-✅ At the end you should have a local dataset directory containing the files used by **shybox**.
+- Provide centralized datasets for SHYBOX workflows
+- Ensure dataset versioning and long-term reproducibility
+- Enable controlled publication of dataset updates
+- Decouple dataset management from processing logic
 
 ---
 
-## 📁 Suggested dataset directory layout
+## 📦 Dataset Philosophy
 
-A typical setup could be:
+- ❌ No datasets stored directly in the Git repository history
+- ✅ All datasets published as **tagged releases**
+- ✅ Each release corresponds to a **single dataset version**
+- ✅ Releases are immutable once published
+
+---
+
+## 📂 Repository Structure
 
 ```text
-<your_workspace>/
-├── shybox/                # code repo
-└── shydata/               # dataset repo
-    └── dset/              # recovered dataset folder (example)
+shydata/
+├── data/          # Recovered dataset content (created locally)
+├── tools/         # Dataset recovery and release tools
+├── docs/          # Dataset documentation
+└── README.md
 ```
 
-Example:
+---
+
+## 🚀 Dataset Recovery (Users)
 
 ```bash
-mkdir -p /home/$USER/Workspace/shybox_data
-cd /home/$USER/Workspace/shybox_data
-
 git clone https://github.com/c-hydro/shydata.git
 cd shydata
 
-release_version=0.0.1
+release_version=0.0.4
 bash tools/shydata_recover_release.sh --version ${release_version} --dest .
 ```
 
 ---
 
-## 🔗 Use datasets in SHYBOX
+## 📁 Recommended Workspace Layout
 
-Now clone `shybox`:
-
-```bash
-cd /home/$USER/Workspace
-git clone https://github.com/c-hydro/shybox.git
-cd shybox
+```text
+<workspace>/
+├── shybox/
+└── shydata/
+    └── data/
 ```
 
-To run `shybox`, you must configure the paths so it can locate the recovered datasets.
+---
 
-📌 **Where to set paths?**
-- in your `shybox` configuration file(s)
-- or via environment variables / CLI options (depending on the workflow)
+## 🔗 Integration with SHYBOX
 
-Please refer to the official SHYBOX documentation:
+SHYDATA is designed to be used **exclusively together with SHYBOX**.
+
+Refer to SHYBOX documentation:
 https://github.com/c-hydro/shybox
 
 ---
 
-## 🧪 Dataset versions
-
-Dataset releases are tracked by version tags, for example:
-
-- `0.0.1`
-- `0.0.2`
-- ...
-
-To list available versions locally:
-
-```bash
-git tag -l
-```
-
-To fetch tags from remote:
-
-```bash
-git fetch --tags
-git tag -l
-```
-
----
-
-## 🛠️ Maintainers: create and publish a dataset release
-
-> This section is for developers maintaining the dataset repository.
-
-### 1. Clone the official repo
-
-```bash
-git clone git@github.com:c-hydro/shydata.git
-cd shydata
-```
-
-### 2. Create first commit (if needed)
-
-```bash
-echo "# shydata" > README.md
-git add README.md
-git commit -m "Initialize shydata repository"
-git branch -M main
-git push -u origin main
-```
-
-### 3. Create and publish release
-
-Example:
-
-```bash
-release_version=0.0.1
-
-./shydata_create_release.sh \
-  --src /home/fabio/Desktop/Workspace/shybox/dset \
-  --repo /home/fabio/Desktop/Workspace/shydata \
-  --version ${release_version} \
-  --tag --push
-```
-
----
-
-## Troubleshooting
-
-### `zstd: command not found`
-
-Install it:
+## ⚙️ Requirements
 
 ```bash
 sudo apt-get install -y zstd
@@ -188,32 +96,17 @@ sudo apt-get install -y zstd
 
 ---
 
-### Permission issues when extracting
+## 📜 License
 
-Try extracting into a folder you own, e.g.:
-
-```bash
-mkdir -p $HOME/Workspace/shybox_data
-bash tools/shydata_recover_release.sh --version 0.0.1 --dest $HOME/Workspace/shybox_data
-```
+This project is licensed under the  
+**European Union Public License v1.2 (EUPL-1.2)**
 
 ---
 
-## Contacts / Support
+## 🔗 Related Repositories
 
-For issues or questions:
-
-- Open an issue on `shydata`: https://github.com/c-hydro/shydata/issues
-- Open an issue on `shybox`: https://github.com/c-hydro/shybox/issues
-
-## Datasets
-- 0.0.2 (2026-01-22T13:21:40+01:00) -> ./0.0.2/
-
-## Datasets
-- 0.0.3 (2026-01-26T23:57:57+01:00) -> ./0.0.3/
+- **SHYBOX** – https://github.com/c-hydro/shybox
+- **SHYDATA** – https://github.com/c-hydro/shydata
 
 ## Dataset releases
-- Dataset release 0.0.4 (2026-01-27T00:45:15+01:00) -> ./data/
-
-## Dataset releases
-- Dataset release 0.0.1 (2026-01-27T10:54:49+01:00) -> ./data/
+- Dataset release 0.0.2 (2026-01-30T10:56:04+01:00) -> ./data/
