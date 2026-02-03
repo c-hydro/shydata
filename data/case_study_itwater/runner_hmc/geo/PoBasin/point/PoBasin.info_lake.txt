@@ -1,0 +1,22 @@
+3	#Numero laghi							  																											  #numero dighe
+##################################################################################################
+Como						  																						    #nome lago		     				  
+253 557 				        #coordinate i e j sezione del lago
+-99						#Codice delle celle lago a monte (> 0 se lago distribuito)
+50000000					#Volume minimo portata non nulla (m^3)
+80000100					#Volume iniziale (se necessario) (m^3)
+0.001						#Costante svuotamento lago (1/h)
+##################################################################################################
+Maggiore							  																								 #nome lago			     
+265 390 
+-99						#Codice delle celle lago a monte
+300000000					        #Volume minimo portata non nulla
+365000000					        #Volume iniziale (se necessario) (m^3)
+0.001						#Costante svuotamento lago (1/h)			
+##################################################################################################
+Garda							  																								 #nome lago			     
+333 817 
+-99						#Codice delle celle lago a monte
+450000000					        #Volume minimo portata non nulla
+458000000					        #Volume iniziale (se necessario) (m^3)
+0.001						#Costante svuotamento lago (1/h)			

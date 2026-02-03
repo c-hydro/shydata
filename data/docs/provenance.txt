@@ -1,9 +1,9 @@
-Dataset version: 0.0.2
-Run date: 2026-01-30T10:56:04+01:00
+Dataset version: 0.0.3
+Run date: 2026-02-03T18:04:41+01:00
 Source path: /home/fabio/Desktop/shybox/dset/
 Destination path: /home/fabio/Desktop/shydata/data
 Pack script: shydata_assets_datasets.sh
 Git repo: git@github.com:c-hydro/shydata.git
-Git commit (before commit): 3ebe26923eb91d61167a15101a876dcb6b4e192e
-Copy filter: skipped files >= 100 MB (see: /home/fabio/Desktop/shydata/releases/0.0.2/shydata_0.0.2.copy_skipped_oversize.csv)
+Git commit (before commit): b097d975487a3197e5f2f18b8ac0818b17c0910d
+Copy filter: skipped files >= 100 MB (see: /home/fabio/Desktop/shydata/releases/0.0.3/shydata_0.0.3.copy_skipped_oversize.csv)
 Layout: data/ is overwritten each release (no per-version folder in-repo)

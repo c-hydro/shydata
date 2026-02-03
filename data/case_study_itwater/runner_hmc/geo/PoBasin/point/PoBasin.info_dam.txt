@@ -1,0 +1,1703 @@
+100	#Numero dighe
+100	#Numero centrali
+##################################################################################################
+_VANNINO					    #nome diga 
+144 349					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1e+007  					#Volume massimo invasabile 
+7e+006  					#Volume iniziale (se necessario) 
+125  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+143 350					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CODELAGO					    #nome diga 
+153 335					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+335  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+33.32  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+154 334					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_D'AVINO					    #nome diga 
+170 304					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+7e+006  					#Volume massimo invasabile 
+4.9e+006  					#Volume iniziale (se necessario) 
+33  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+26.75  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+169 305					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_BUSIN					    #nome diga 
+151 351					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+17  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+21.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+152 352					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_GABIET_SUD					    #nome diga 
+252 247					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+25  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+46  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+252 246					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAVAGNINA_INF_					    #nome diga 
+498 429					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+750  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+497 429					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ORTIGLIETTO_M_ZERBINO					    #nome diga 
+506 398					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+2540  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+17  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+505 398					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+2.2725  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ALPE_CAVALLI					    #nome diga 
+203 300					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+9e+006  					#Volume massimo invasabile 
+6.3e+006  					#Volume iniziale (se necessario) 
+238  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+41.6  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+204 301					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CAMPLICCIOLI					    #nome diga 
+211 292					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+9e+006  					#Volume massimo invasabile 
+6.3e+006  					#Volume iniziale (se necessario) 
+128  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+80.16  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+210 293					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_CINGINO					    #nome diga 
+214 286					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+68.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+50.86  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+215 287					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CARDENELLO					    #nome diga 
+126 545					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3.3e+007  					#Volume massimo invasabile 
+2.31e+007  					#Volume iniziale (se necessario) 
+187  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+75.25  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+127 544					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_GURZIA					    #nome diga 
+336 231					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+730  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+50  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+336 232					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+2.46  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CIGNANA_(I)					    #nome diga 
+244 197					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+90  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+58.3  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+245 198					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ROCHEMOLLES					    #nome diga 
+394 30					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4e+006  					#Volume massimo invasabile 
+2.8e+006  					#Volume iniziale (se necessario) 
+108  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+63  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+395 29					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_LAVEZZE					    #nome diga 
+510 443					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+300  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+509 443					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_LUNGO					    #nome diga 
+511 442					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+368  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+47  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+510 443					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_BADANA					    #nome diga 
+512 440					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+68.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+50  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+511 441					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CERESOLE_REALE_MAGGIORE					    #nome diga 
+334 123					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3.4e+007  					#Volume massimo invasabile 
+2.38e+007  					#Volume iniziale (se necessario) 
+650  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+52  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+333 123					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_VAL_DI_NOCI					    #nome diga 
+521 485					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4e+006  					#Volume massimo invasabile 
+2.8e+006  					#Volume iniziale (se necessario) 
+68.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+56  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+520 485					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_NERO					    #nome diga 
+221 653					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+80  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+45.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+222 654					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_D'ARNO					    #nome diga 
+211 765					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3.9e+007  					#Volume massimo invasabile 
+2.73e+007  					#Volume iniziale (se necessario) 
+76  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+40.4  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+210 765					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_COLOMBO					    #nome diga 
+220 641					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+8  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+32.75  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+220 640					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_SARDEGNANA					    #nome diga 
+217 638					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+21  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+38.1  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+216 638					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_SALARNO					    #nome diga 
+198 774					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.7e+007  					#Volume massimo invasabile 
+1.19e+007  					#Volume iniziale (se necessario) 
+62  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+41  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+197 773					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_AVIO					    #nome diga 
+181 771					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.2e+007  					#Volume massimo invasabile 
+1.54e+007  					#Volume iniziale (se necessario) 
+80  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39.55  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+180 772					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_TRUZZO					    #nome diga 
+148 541					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.1e+007  					#Volume massimo invasabile 
+1.47e+007  					#Volume iniziale (se necessario) 
+143  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+35  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+149 542					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_VENINA					    #nome diga 
+203 650					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.1e+007  					#Volume massimo invasabile 
+7.7e+006  					#Volume iniziale (se necessario) 
+120  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+49.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+202 651					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PADULI					    #nome diga 
+551 704					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4e+006  					#Volume massimo invasabile 
+2.8e+006  					#Volume iniziale (se necessario) 
+143  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+27  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+550 704					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MOLATO					    #nome diga 
+439 534					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.2e+007  					#Volume massimo invasabile 
+8.4e+006  					#Volume iniziale (se necessario) 
+500  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+55.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+438 535					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.2675  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_FONTANALUCCIA					    #nome diga 
+565 779					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+310  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+60  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+564 779					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MIGNANO					    #nome diga 
+466 636					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+450  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+61  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+465 637					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.38375  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_DELLA_VACCA					    #nome diga 
+230 766					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+75  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+231 767					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PIANO_BARBELLINO					    #nome diga 
+207 686					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+007  					#Volume massimo invasabile 
+1.4e+007  					#Volume iniziale (se necessario) 
+140  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+69  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+208 685					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_VERDE					    #nome diga 
+547 697					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+6  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+32.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+547 698					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SCAIS					    #nome diga 
+203 663					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1e+007  					#Volume massimo invasabile 
+7e+006  					#Volume iniziale (se necessario) 
+350  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+64.7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+202 663					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGHI_GEMELLI					    #nome diga 
+225 638					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+7e+006  					#Volume massimo invasabile 
+4.9e+006  					#Volume iniziale (se necessario) 
+18  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+226 638					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PIAN_CASERE					    #nome diga 
+220 636					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+170  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+46.6  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+219 635					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PLACE_MOULIN					    #nome diga 
+241 179					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.08e+008  					#Volume massimo invasabile 
+7.56e+007  					#Volume iniziale (se necessario) 
+473  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+155  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+240 178					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CAMPOSECCO					    #nome diga 
+207 287					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6e+006  					#Volume massimo invasabile 
+4.2e+006  					#Volume iniziale (se necessario) 
+23  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+35.2  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+207 288					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_BAITONE					    #nome diga 
+193 763					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+52  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+37  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+194 762					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_DELLA_ROSSA					    #nome diga 
+366 107					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1e+007  					#Volume massimo invasabile 
+7e+006  					#Volume iniziale (se necessario) 
+4.4  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+27.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+365 107					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_VALTOGGIA					    #nome diga 
+132 364					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+52  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+46  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+133 363					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_VALDIFRATI					    #nome diga 
+217 645					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+4.5  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+216 645					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_DEL_DIAVOLO					    #nome diga 
+211 650					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+6  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+26.25  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+212 649					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_GOILLET					    #nome diga 
+234 211					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.2e+007  					#Volume massimo invasabile 
+8.4e+006  					#Volume iniziale (se necessario) 
+105  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+48.6  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+233 211					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MORASCO					    #nome diga 
+135 358					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.8e+007  					#Volume massimo invasabile 
+1.26e+007  					#Volume iniziale (se necessario) 
+151  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+59  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+135 359					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SARNICO					    #nome diga 
+288 665					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+8.5e+007  					#Volume massimo invasabile 
+5.95e+007  					#Volume iniziale (se necessario) 
+640  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+289 664					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+32.25  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ALPE_LARECCHIO					    #nome diga 
+179 364					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+36  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+38  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+178 364					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_AGARO					    #nome diga 
+162 338					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+007  					#Volume massimo invasabile 
+1.4e+007  					#Volume iniziale (se necessario) 
+82  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+56.7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+163 337					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_AGNEL					    #nome diga 
+327 107					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+136  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+327 108					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CASTELLO					    #nome diga 
+497 87					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.3e+007  					#Volume massimo invasabile 
+9.1e+006  					#Volume iniziale (se necessario) 
+275  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+78  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+496 88					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_OSIGLIETTA					    #nome diga 
+560 318					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.4e+007  					#Volume massimo invasabile 
+9.8e+006  					#Volume iniziale (se necessario) 
+535  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+76.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+559 318					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MIORINA					    #nome diga 
+275 404					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4.2e+008  					#Volume massimo invasabile 
+2.94e+008  					#Volume iniziale (se necessario) 
+1200.0  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+3.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+275 405					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+51.8738  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_BENEDETTO					    #nome diga 
+183 771					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+8e+006  					#Volume massimo invasabile 
+5.6e+006  					#Volume iniziale (se necessario) 
+85  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+34.25  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+182 771					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_REGGEA					    #nome diga 
+194 523					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.48e+008  					#Volume massimo invasabile 
+1.036e+008  					#Volume iniziale (se necessario) 
+265  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+39  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+194 524					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SAN_GIACOMO					    #nome diga 
+112 732					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6.4e+007  					#Volume massimo invasabile 
+4.48e+007  					#Volume iniziale (se necessario) 
+61  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+91.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+113 733					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_INFERNO					    #nome diga 
+215 583					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4e+006  					#Volume massimo invasabile 
+2.8e+006  					#Volume iniziale (se necessario) 
+28  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+41.2  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+214 583					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_DI_TRONA					    #nome diga 
+214 586					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+39  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+54.35  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+213 585					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_BEAUREGARD					    #nome diga 
+299 87					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+7.4e+007  					#Volume massimo invasabile 
+5.18e+007  					#Volume iniziale (se necessario) 
+126  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+132  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+298 88					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.2075  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SESSERA_-_PIANCONE					    #nome diga 
+281 297					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+510  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+43  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+282 298					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PANTANO_D'AVIO					    #nome diga 
+187 771					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.3e+007  					#Volume massimo invasabile 
+9.1e+006  					#Volume iniziale (se necessario) 
+36  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+65  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+186 771					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_OLGINATE					    #nome diga 
+260 561					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.46e+008  					#Volume massimo invasabile 
+1.722e+008  					#Volume iniziale (se necessario) 
+650  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+11  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+260 562					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+73.5712  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SABBIONE					    #nome diga 
+137 346					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4.5e+007  					#Volume massimo invasabile 
+3.15e+007  					#Volume iniziale (se necessario) 
+18  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+63.6  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+136 347					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_PUBLINO					    #nome diga 
+209 645					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+10  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+42  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+208 644					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ISOLATO_-_LAGO_DI_EMET					    #nome diga 
+134 545					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+162  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+38.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+135 546					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.06875  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SERRU'					    #nome diga 
+328 102					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.4e+007  					#Volume massimo invasabile 
+9.8e+006  					#Volume iniziale (se necessario) 
+84  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+43  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+327 103					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_BRUGNETO					    #nome diga 
+512 515					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.5e+007  					#Volume massimo invasabile 
+1.75e+007  					#Volume iniziale (se necessario) 
+600  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+82  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+511 515					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PONTE_DELL'ACQUA					    #nome diga 
+214 608					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3.4e+007  					#Volume massimo invasabile 
+2.38e+007  					#Volume iniziale (se necessario) 
+30  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+21.7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+214 609					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_FREGABOLGIA					    #nome diga 
+215 652					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+73  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+63  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+214 652					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_VALSOERA					    #nome diga 
+324 157					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+8e+006  					#Volume massimo invasabile 
+5.6e+006  					#Volume iniziale (se necessario) 
+90  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+44  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+325 157					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_FRERA					    #nome diga 
+202 703					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+007  					#Volume massimo invasabile 
+3.5e+007  					#Volume iniziale (se necessario) 
+150  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+138  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+201 704					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PORTO_DELLA_TORRE					    #nome diga 
+287 412					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6e+006  					#Volume massimo invasabile 
+4.2e+006  					#Volume iniziale (se necessario) 
+5000  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+32.6  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+288 413					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+53.715  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PIANTELESSIO					    #nome diga 
+324 152					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.4e+007  					#Volume massimo invasabile 
+1.68e+007  					#Volume iniziale (se necessario) 
+126  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+80  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+325 152					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CANCANO					    #nome diga 
+115 739					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.23e+008  					#Volume massimo invasabile 
+8.61e+007  					#Volume iniziale (se necessario) 
+100  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+136  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+116 740					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MALGA_BOAZZO					    #nome diga 
+220 782					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.3e+007  					#Volume massimo invasabile 
+9.1e+006  					#Volume iniziale (se necessario) 
+924  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+57.1  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+221 783					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.78125  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PONTE_PIA'					    #nome diga 
+209 845					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+4e+006  					#Volume massimo invasabile 
+2.8e+006  					#Volume iniziale (se necessario) 
+900  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+54  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+209 846					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+10.3312  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CAMPO_MORO_(I)					    #nome diga 
+159 663					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.1e+007  					#Volume massimo invasabile 
+7.7e+006  					#Volume iniziale (se necessario) 
+120  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+90  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+160 662					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_MALGA_BISSINA					    #nome diga 
+208 784					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6.1e+007  					#Volume massimo invasabile 
+4.27e+007  					#Volume iniziale (se necessario) 
+238  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+84  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+207 783					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_VENEROCOLO					    #nome diga 
+184 776					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+35  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+30.4  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+184 775					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_EUGIO					    #nome diga 
+330 166					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+98  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+55.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+331 166					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ISOLA_SERAFINI					    #nome diga 
+168 137					#coordinate i e j sezione della diga (401 657 originale)
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.9e+007  					#Volume massimo invasabile 
+1.33e+007  					#Volume iniziale (se necessario) 
+5000  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+35.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+400 657					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+672.206  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PONTE_COLA					    #nome diga 
+279 799					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5.4e+007  					#Volume massimo invasabile 
+3.78e+007  					#Volume iniziale (se necessario) 
+192  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+124  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+280 799					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.78125  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ALPE_GERA					    #nome diga 
+157 666					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6.9e+007  					#Volume massimo invasabile 
+4.83e+007  					#Volume iniziale (se necessario) 
+59  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+174  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+158 665					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PIASTRA					    #nome diga 
+576 154					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.3e+007  					#Volume massimo invasabile 
+9.1e+006  					#Volume iniziale (se necessario) 
+391  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+87  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+575 155					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.4025  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_ROBBIATE					    #nome diga 
+283 569					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+1200.0 					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+284 570					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+75.1725  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_TREZZO_SULL'ADDA					    #nome diga 
+299 583					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+841  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+12.8  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+300 584					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+75.8925  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_DELIO_NORD					    #nome diga 
+207 429					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.1e+007  					#Volume massimo invasabile 
+7.7e+006  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+28.5  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+208 430					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CHIOTAS					    #nome diga 
+585 145					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.8e+007  					#Volume massimo invasabile 
+1.96e+007  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+130  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+584 145					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_COLLE_LAURA					    #nome diga 
+587 144					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.8e+007  					#Volume massimo invasabile 
+1.96e+007  					#Volume iniziale (se necessario) 
+240  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+30  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+586 144					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_INGAGNA_(ARAL_GRANDE)					    #nome diga 
+316 276					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+7e+006  					#Volume massimo invasabile 
+4.9e+006  					#Volume iniziale (se necessario) 
+572  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+56.7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+316 277					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_FORCOLETTA					    #nome diga 
+169 342					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.6e+007  					#Volume massimo invasabile 
+1.12e+007  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+15.2  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+169 343					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.9575  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_VALLA					    #nome diga 
+511 345					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+3e+006  					#Volume massimo invasabile 
+2.1e+006  					#Volume iniziale (se necessario) 
+250  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+47  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+510 345					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1.11375  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_CHABRIERES_-_GERMANASCA					    #nome diga 
+429 115					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2.5e+007  					#Volume massimo invasabile 
+1.75e+007  					#Volume iniziale (se necessario) 
+811  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+15  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+428 115					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_LAGO_D'IDRO					    #nome diga 
+272 773					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+7.5e+007  					#Volume massimo invasabile 
+5.25e+007  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+3  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+271 773					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_BARDELLO					    #nome diga 
+253 418					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+6e+006  					#Volume massimo invasabile 
+4.2e+006  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+0  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+252 418					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_OSTOLA					    #nome diga 
+302 324					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+260  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+37.2  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+303 325					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_RAVASANELLA					    #nome diga 
+299 336					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+5e+006  					#Volume massimo invasabile 
+3.5e+006  					#Volume iniziale (se necessario) 
+205  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+52.7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+300 337					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PANARO					    #nome diga 
+508 883					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+007  					#Volume massimo invasabile 
+1.4e+007  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+14.18  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+508 882					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+13.0462  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_PARMA_(CASSA_LAMINAZIONE_PIENE)					    #nome diga 
+460 742					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+2e+006  					#Volume massimo invasabile 
+1.4e+006  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+18  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+459 742					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+10.5038  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##################################################################################################
+_SALIONZE					    #nome diga 
+544 334					#coordinate i e j sezione della diga 
+1  					#numero centrali a valle della diga 
+-99  					#Codice delle celle lago a monte (se puntuale metto -9999) 
+1.5e+009  					#Volume massimo invasabile 
+1.05e+009  					#Volume iniziale (se necessario) 
+868.2  					#Portata critica scarico superficiale 
+40  					#Lunghezza equivalente scarico superficiale della diga 
+7  					#Altezza massima di invaso 
+2e-006  					#Coefficiente serbatoio lineare equivalente allo scarico superficiale della diga 
+  					#Nome Curva invaso volume 
+  					#File con i turbinati (non obbligatorio) 
+543 335					#coordinate scarico della diga 
+-9999  					#Tempo di corrivazione nell'impianto in minuti 
+1  					#portata max dell'impianto 
+1  					#flag =1 se l'impianto scarica portata =0 non scarica portata 
+##########End data

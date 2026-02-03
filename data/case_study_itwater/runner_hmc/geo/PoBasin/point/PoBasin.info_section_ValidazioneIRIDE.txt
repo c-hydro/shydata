@@ -1,0 +1,94 @@
+436	395 Tanaro Alessandria
+431	412 Tanaro Montecastello Siap
+445	356 Tanaro Masio
+407	216 Po Torino Murazzi
+391	524 Po Pontebecca Siap
+394	671 Po Cremona
+411	825 Po Borgoforte
+441	997 Po Pontelagoscuro
+454	406 Orba Casalcermelli
+311	244 Dorabaltea Tavagnasco
+343	353 Sesia Quinto Vercellese Cervo
+380	502 Ticino Ponte della Liberta
+387	584 Lambro Orio Litta
+383	634 Adda Pizzighettone
+358	587 Adda Boccaserio
+391	361	Po Casale Monferrato
+443	589	Trebbia Rivergaro
+439	726	Taro S.Secondo
+445	870	Secchia Pioppa
+333	654	Oglio Soncino
+331	817	Mincio Peschiera Navigarda
+305	584	Adda Canonica DAdda
+325	368	Sesia Snazzaro Sesia
+360	382	Sesia Palestro
+291	660	Oglio Capriolo
+375	725	Oglio Ostiano
+394	778	Oglio Marcaria
+416	939	Po Castelmassa Siap
+270	199	Dorabaltea Pontey
+272	147	Dorabaltea Pollein
+436	214	Po Carignano
+478	282	Tanaro Alba Q.A.
+524 257 Tanaro Farigliano
+518 218 Stura Fossano
+462 386 Bormida Cassine
+559 166 Gesso Roaschia
+226 363 Toce Candoglia
+367 173 SturadiLanzo Lanzo
+552 160 SturadiDemonte Gaiola
+406 218 Po Torino Murazzi
+192 606 Tartano Campo Tartano
+156 667 Cormor Alpe Gera
+207 687 Serio Barbellino
+220 637 Borleggia Pian Casere
+219 649 Goglio Aviasco
+214 653 Brembo Fregabolgia
+492 543 Trebbia Valsigiara
+459 742 Parma Ponte Verdi
+465 792 Crostolo Cadelbosco
+494 558 Aveto Salsominore
+437 697 Stirone Castellina di Soragna
+576 802 Scoltenna Pievepelago
+475 886 Panaro Bomporto
+351 453 Ticino Vigevano
+341 818 Mincio Monzambano
+264 641 Serio Ponte Cene
+263 564 Adda Olginate
+325 528 Lambro Milano
+348 709 Mella Manerbio
+355 579 Adda Lodi
+294 537 Lambro Peregallo
+302 765 Chiese Gavardo
+217 667 Serio Gandellino
+267 527 Lambro Lambrugo
+155 553 Liro Chiavenna
+284 439 Arno Cavaria con Premezzo
+298 459 Olona Castellanza Olona
+263 730 Mella Bovegno
+279 595 Brembo Brembate di Sopra
+398 547 Po Spessa
+407 619 Po Piacenza
+516 645 Taro Ostia Parmense
+533 811 Rossenna Rossenna
+484 857 Secchia Ponte Alto
+252 523 Lambro Caslino dErba
+442 476 Curone Volpedo
+382 288 DoraBaltea Verolengo
+404 218 DoraRiparia Torino
+391 85 DoraRiparia SusaVia Mazzini
+516 174 Maira Busca
+466 211 Maira Racconigi
+370 239 Orco S.Benigno
+415 452 Scrivia Guazzora
+199 339 Toce Domodossola
+92 711 Baganza Marzolara
+477 179 Varaita Polonghera
+521 743 Enza Vetto
+450 767 Enza Sorbolo
+477 591 Nure Farini
+548 862 Panaro Ponte Samone
+487 838 Secchia Rubiera SS9
+523 625 Taro Pradella
+408 581 Tidone Rottofreno
+417 640 Chiavenna Saliceto

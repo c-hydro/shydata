@@ -110,3 +110,6 @@ This project is licensed under the
 
 ## Dataset releases
 - Dataset release 0.0.2 (2026-01-30T10:56:04+01:00) -> ./data/
+
+## Dataset releases
+- Dataset release 0.0.3 (2026-02-03T18:04:41+01:00) -> ./data/
